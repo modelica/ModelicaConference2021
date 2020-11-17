@@ -19,7 +19,7 @@ Do you want to inform the attendees about your new product? You can demonstrate 
 
 The attendees would be asked in advance, which session they prefer to attend to sort the sessions accordingly. Vendor sessions takes place in conference venue, in room with up to 100 attendees, with available projector screen and sound. Session length is 45 minutes and the price is 500 € per one session. If appropriate, one company could reserve more sessions (e.g. for different products).
 
-All items are limited, based on first-come-first-served basis, except for Platin and Gold sponsors, who have time-limited priority. Do not hesitate to contact us for any special needs. The deadline for application is  **August 1st, 2021**.
+All items are limited, based on first-come-first-served basis, except for Platinum and Gold sponsors, who have time-limited priority. Do not hesitate to contact us for any special needs. The deadline for application is  **August 1st, 2021**.
 
 You will be contacted by the organizers' financal department and receive a bill covering the vendor session fee.
 
