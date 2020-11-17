@@ -20,9 +20,9 @@ We are looking forward to seeing you in Linköping.
 
 The conference will take place Concert and Conference Hall in Linköping near the center of the town, only a 15 minutes to walk from the historical centre.
 
-**Venue Address**  
-Konsistoriegatan 7  
-Linköping 582 22  
+**Venue Address**
+Konsistoriegatan 7
+Linköping 582 22
 Sweden
 
 ## Scope of the Conference
@@ -111,7 +111,7 @@ Additionally, we'll offer late registration directly at the conference desk (pay
 |Registration  |Valid  |incl.Dinner |Early | Late |
 |--|--| -- | --| -- |
 | Standard | Mon-Wed | yes | Euro 625 | Euro 775 |
-| PhD | Mon-Wed | no | Euro 400 | Euro 500 |
+| Student | Mon-Wed | no | Euro 400 | Euro 500 |
 | Industrial User Presentations | Only Monday | no | Euro 200 | Euro 250 |
 | Additional Dinner Ticket | Dinner| -- | Euro 90 | Euro 90 |
 | Virtual attendance | Mon-Wed | no | Euro 50 | Euro 70 |
@@ -119,12 +119,12 @@ Additionally, we'll offer late registration directly at the conference desk (pay
 
 **Please note**:
 
-- Standard, PhD and Student Tickets are valid for all 3 days.
-- Industrial User Presentations Ticket is valid only for Monday, no access to the rest of the conference.
-- Choosing PhD or Student, you have to prove your status at the registration desk;  
-Dinner ticket is not inlcuded, you may buy an additional Dinner Ticket during the registration process.
+- Standard and student tickets are valid for all 3 days.
+- Industrial User Presentations tickets a valid only for Monday, no access to the rest of the conference.
+- Choosing student, you have to prove your student or PhD student status at the registration desk;
+Dinner ticket is not included, you may buy an additional Dinner Ticket during the registration process.
 
-Registration is handled by the [EasyChair Conference Management System](https://www.easychair.org).  
+Registration is handled by the [EasyChair Conference Management System](https://www.easychair.org).
 You have to login to your account at EasyChair, and choose "Registration".
 
 **Late registration** at the Conference Desk (payment cash or credit card) is possible!
@@ -133,12 +133,12 @@ You have to login to your account at EasyChair, and choose "Registration".
 
 **Monday, September 20, 2021**
 
-13:00 Tutorials, Industrial User Presentations and Vendor Sessions  
+13:00 Tutorials, Industrial User Presentations and Vendor Sessions
 19:30 Welcome Reception
 
 **Tuesday, September 21, 2021**
 
-9:00 - 19:00 Conference and Exhibition  
+9:00 - 19:00 Conference and Exhibition
 20:00 Conference Dinner
 
 **Wednesday, September 22, 2021**
