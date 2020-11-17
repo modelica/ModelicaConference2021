@@ -149,7 +149,7 @@ You have to login to your account at EasyChair, and choose "Registration".
 
 The conference is organized by Linköping University in cooperation with the [Modelica Association](https://modelica.org/).
 
-**For general questions, please send an email to:** **[modelica2021@groups.liu.se](mailto:modelica2021@lists.liu.se)**
+**For general questions, please send an email to:** **[modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se)**
 
 **Local Organization:**
 
