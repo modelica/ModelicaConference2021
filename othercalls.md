@@ -41,13 +41,14 @@ We are sure you will be interested in gaining visibility to the Modelica communi
 
 | Package | Exhibition  Booth |Conference  registrations  |Bag insert | Advertisement in  Conference Program | Advertisement in Virtual Conference Rooms | Price  Euro excl. VAT|
 |--|--|--|--|--|--|--|
-| Platinum | Premium 8 m2 | 3|  yes | on cover | video during breaks | 10.000 |
-| Gold | Premium 8 m2 | 2|  yes | inside | video during breaks | 8.000 |
-| Silver | Standard 4 m2 | 1|  yes | none | none | 4.000 |
-| Bronze | Standard 4 m2 | none|  none | none | none | 2.000 |
+| Platinum | Premium TBD m2 | 3|  yes | on cover | video during breaks | 10.000 |
+| Gold | Premium TBD m2 | 2|  yes | inside | video during breaks | 8.000 |
+| Silver | Standard TBD m2 | 1|  yes | none | none | 4.000 |
+| Bronze | Standard TBD m2 | none|  none | none | none | 2.000 |
 
 The logos of all exhibitors & sponsors will be shown on the conference website and in the conference program and before the online presentation videos.
 
+** the form will be available shortly as soon as the number and size of spots is confirmed **
 To apply for the exhibition space and sponsorship, please fill the  [Sponsor/Exhibitor Application Form](Documents/ExhibitorSponsor.pdf)  and send it to  [modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se?subject=Vendor%20Session%2FTutorial%20application%20form). The registration is open until **August 1st, 2021**  or until the slots are filled.
 You will be contacted by the organizers' financial department; you will receive a bill after signing the contract.
 
