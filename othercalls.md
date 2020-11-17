@@ -21,7 +21,7 @@ The attendees would be asked in advance, which session they prefer to attend to 
 
 All items are limited, based on first-come-first-served basis, except for Platinum and Gold sponsors, who have time-limited priority. Do not hesitate to contact us for any special needs. The deadline for application is  **August 1st, 2021**.
 
-You will be contacted by the organizers' financal department and receive a bill covering the vendor session fee.
+You will be contacted by the organizers' financial department and receive a bill covering the vendor session fee.
 
 ## Call for Exhibitors & Sponsors
 
