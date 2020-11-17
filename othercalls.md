@@ -1,7 +1,7 @@
 ![](images/ModelicaLogo.svg)
 # OtherCalls
 
-Calls for Tutorials, Vendor Presentations, Exhibitors&Sponsors
+Calls for Tutorials, Vendor Presentations, Exhibitors & Sponsors
 
 ## Call for Tutorials
 
