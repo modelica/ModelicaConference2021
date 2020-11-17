@@ -50,6 +50,6 @@ We are sure you will be interested in gaining visibility to the Modelica communi
 The logos of all exhibitors & sponsors will be shown on the conference website and in the conference program and before the online presentation videos.
 
 To apply for the exhibition space and sponsorship, please fill the  [Sponsor/Exhibitor Application Form](documents/ExhibitorSponsor.pdf)  and send it to  [modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se?subject=Vendor%20Session%2FTutorial%20application%20form). The registration is open until **August 1st, 2021**  or until the slots are filled.
-You will be contacted by the organizers' financal department; you will receive a bill after signing the contract.
+You will be contacted by the organizers' financial department; you will receive a bill after signing the contract.
 
 In case of any questions, please send an email to [modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se).
