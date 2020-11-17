@@ -149,11 +149,11 @@ You have to login to your account at EasyChair, and choose "Registration".
 
 The conference is organized by Linköping University in cooperation with the [Modelica Association](https://modelica.org/).
 
-**For general questions, please send an email to:** **[modelica2021@modelica.org](mailto:modelica2021@modelica.org)**
+**For general questions, please send an email to:** **[modelica2021@lists.liu.se](mailto:modelica2021@lists.liu.se)**
 
 **Local Organization:**
 
-- main contact: [Lena Buffoni](mailto:lena.buffoni@liu.se?subject=[Modelica2021]), Linköping University
+- main contact: Lena Buffoni, Linköping University
 - Martin Sjölund, Linköping University
 - Adrian Pop, Linköping University
 - Lennart Ochel, Linköping University
