@@ -1,5 +1,3 @@
-# 14th International Modelica Conference
-
 
 |  |  |
 |--|--|
