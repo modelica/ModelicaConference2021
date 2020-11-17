@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-a {
+a a:hover, a:focus {
   font-weight: normal;
 }
