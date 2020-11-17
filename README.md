@@ -12,7 +12,7 @@ In addition to paper presentations and poster sessions, the conference features 
 
 We are looking forward to seeing you in Linköping.
 
-![](/images/linköping.pdf)
+![](images/mote_massa.jpg)
 
 ## Conference Venue
 
