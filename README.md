@@ -132,11 +132,13 @@ You have to login to your account at EasyChair, and choose "Registration".
 **Monday, September 20, 2021**
 
 13:00 Tutorials, Industrial User Presentations and Vendor Sessions
+
 19:30 Welcome Reception
 
 **Tuesday, September 21, 2021**
 
 9:00 - 19:00 Conference and Exhibition
+
 20:00 Conference Dinner
 
 **Wednesday, September 22, 2021**
