@@ -12,6 +12,8 @@ In addition to paper presentations and poster sessions, the conference features 
 
 We are looking forward to seeing you in Linköping.
 
+![](/images/linköping.pdf)
+
 ## Conference Venue
 
 The conference will take place Concert and Conference Hall in Linköping near the center of the town, only a 15 minutes to walk from the historical centre.
