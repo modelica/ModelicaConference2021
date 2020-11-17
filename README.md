@@ -1,6 +1,9 @@
 # 14th International Modelica Conference
 
-The **14th International Modelica Conference** will a hybrid remote and physical event, held at [the concert and conference hall in Linköping](https://konsertkongress.se/en/start), **September 20–22, 2021**. It is organized by [Linköping University](https://liu.se/), in cooperation with the Modelica Association.
+
+|  |  |
+|--|--|
+| ![](images/ModelicaLogo.svg)![](images/liu.svg)  |The **14th International Modelica Conference** will a hybrid remote and physical event, held at [the concert and conference hall in Linköping](https://konsertkongress.se/en/start), **September 20–22, 2021**. It is organized by [Linköping University](https://liu.se/), in cooperation with the Modelica Association.  |
 
 Join us in [Linköping](https://visitlinkoping.se/) in person or from the comfort of your own home.
 
