@@ -21,8 +21,10 @@ We are looking forward to seeing you in Linköping.
 The conference will take place Concert and Conference Hall in Linköping near the center of the town, only a 15 minutes to walk from the historical centre.
 
 **Venue Address**
-Konsistoriegatan 7
-Linköping 582 22
+
+Konsert & Kongress <br>
+Konsistoriegatan 7 <br>
+Linköping 582 22 <br>
 Sweden
 
 ## Scope of the Conference
