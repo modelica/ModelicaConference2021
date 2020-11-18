@@ -3,6 +3,8 @@
 
 ## About the Conference
 
+### [Covid-19 information](covid19.md)
+
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/) and to the [Functional Mockup Interface](https://fmi-standard.org/).
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
