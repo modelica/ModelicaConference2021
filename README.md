@@ -6,9 +6,11 @@
 
 ## About the Conference
 
-The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/) and to the [Functional Mockup Interface](https://fmi-standard.org/). The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
+The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/) and to the [Functional Mockup Interface](https://fmi-standard.org/).
+The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
-In addition to paper presentations and poster sessions, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition. The previous Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
+In addition to paper presentations and poster sessions, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
+The previous Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
 
 We are looking forward to seeing you in Linköping.
 
@@ -25,7 +27,7 @@ Sweden
 
 ## Scope of the Conference
 
-[Modelica](https://modelica.org/) is a freely available, equation-based, object-oriented language for convenient and efficient modeling of complex, multidomain cyber-physical systems described by ordinary differential, difference and algebraic equations. The Modelica language and the companion Modelica Standard Library have been utilized in demanding industrial applications, including full vehicle dynamics, power systems, robotics, hardware-in-the-loop simulations
+[Modelica](https://modelica.org/) is a freely available, equation-based, object-oriented language for convenient and efficient modeling of complex, multi-domain cyber-physical systems described by ordinary differential, difference and algebraic equations. The Modelica language and the companion Modelica Standard Library have been utilized in demanding industrial applications, including full vehicle dynamics, power systems, robotics, hardware-in-the-loop simulations
 and embedded control systems. The [Functional Mockup Interface (FMI)](https://www.fmi-standard.org/) is an open standard for the tool-independent exchange of models and for co-simulation. It is supported by many [Modelica and non-Modelica tools](https://modelica.org/tools) and is the key to utilizing Modelica models in non-Modelica environments.
 
 Development in the Modelica Association is organized in [Modelica Association Projects](https://modelica.org/projects):
@@ -36,7 +38,7 @@ Development in the Modelica Association is organized in [Modelica Association Pr
 - SSP - System Structure and Parameterization of Components for Virtual System Design
 - DCP - Distributed Co-Simulation Protocol
 
-The projects collaborate to design and maintan a set of coordinated standards for modeling and simulation of complex physical systems.
+The projects collaborate to design and maintain a set of coordinated standards for modeling and simulation of complex physical systems.
 
 The Modelica conference will bring together people using Modelica and/or other Modelica Association standards modeling, simulation, and control applications, Modelica language designers, tool vendors and library developers. The Modelica Conference provides Modelica users the opportunity to stay informed about the latest language, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
 - Multi-engineering modeling and simulation with free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
@@ -45,7 +47,7 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Mechatronics and robotics applications
 - Medicine and biology applications
 - Other industrial applications, such as electric drives, power systems, aerospace, etc.
-- Large-scale system modelling
+- Large-scale system modeling
 - Real-time and hardware-in-the-loop simulation
 - Simulation and code generation for embedded control systems
 - Simulation acceleration by use of many CPU cores or GPU cores
@@ -71,7 +73,7 @@ The conference proceedings will be published electronically. After the conferenc
 
 On Monday it is planned to have Industrial User Presentations related to existing and possibly new Modelica Association projects. You are encouraged to submit an extended abstract of 1-2 pages for a presentation-only contribution. Please see the Call-for-Papers page for further information about the submission and/or application process. The abstracts will be peer-reviewed by experts, but no papers will be published in the conference proceedings.
 
-Please note that pureley tool-related presentations are not permitted for these application-oriented presentations, they should be converd by vendor sessions.
+Please note that purely tool-related presentations are not permitted for these application-oriented presentations, they should be covered by vendor sessions.
 
 ## Call for Tutorials, Vendor Sessions, Exhibitors & Sponsors
 
@@ -83,7 +85,7 @@ A commercial exhibition will also be arranged in conjunction to the conference. 
 
 For the virtual participants, videos from exhibitors will be displayed in the virtual rooms during conference breaks and sponsor logos will be displayed before presentation videos.
 
-We are sure you will be interested in gaining visibility to the Modelica community, not only by an exhibition booth or sponsorhip alone. Threfore we have prepared 4 different Exhibitor & Sponsor packages.
+We are sure you will be interested in gaining visibility to the Modelica community, not only by an exhibition booth or sponsorship alone. Therefore we have prepared 4 different Exhibitor & Sponsor packages.
 
 For more information, please check the [Other Calls](othercalls.md) page.
 
