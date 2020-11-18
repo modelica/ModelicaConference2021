@@ -2,7 +2,7 @@
 # Covid-19 policy
 
 In light of the unprecedented situation with Covid-19, we want all the participants to feel safe. 
-To this end it will be possible to convert between virtual and physical attendance for a nominal fee.  
+To this end it will be possible to convert between virtual and physical attendance for a nominal fee until late registrations close.  
 
 In the event that Swedish national authorities advise against holding large events next fall, 
 the conference will be moved completely online and all physical participations shall be converted to virtual ones at no charge (the difference will be refunded).  
