@@ -37,16 +37,20 @@ During nighttime the premises would be guarded and there will be a possibility t
 
 For online participants, the vendors can choose to stream a pre-registered video in the virtual conference rooms during break times or to live stream from the vendor booths for Q&A sessions.
 
-We are sure you will be interested in gaining visibility to the Modelica community, not only by an exhibition booth or sponsorship alone. Threfore we have prepared 4 different Exhibitor & Sponsor packages:
+We are sure you will be interested in gaining visibility to the Modelica community, and this year we will have diversified prices for exhibition booths and sponsorship so that sponsors can participate in the virtual conference.
 
-| Package | Exhibition  Booth |Conference  registrations  |Bag insert | Advertisement in  Conference Program | Advertisement in Virtual Conference Rooms | Price  Euro excl. VAT|
-|--|--|--|--|--|--|--|
-| Platinum | Premium TBD m2 | 3|  yes | on cover | video during breaks | 10.000 |
-| Gold | Premium TBD m2 | 2|  yes | inside | video during breaks | 8.000 |
-| Silver | Standard TBD m2 | 1|  yes | none | none | 4.000 |
-| Bronze | Standard TBD m2 | none|  none | none | none | 2.000 |
+| Exhibition  Booth | Price  Euro excl. VAT |
+|--|--|
+| Large TBD m² | 4.000 |
+| Standard TBD m² | 2.000 |
 
-The logos of all exhibitors & sponsors will be shown on the conference website and in the conference program and before the online presentation videos.
+| Package | Bag insert | Advertisement in  Conference Program | Advertisement in Virtual Conference Rooms | Price  Euro excl. VAT|
+|--|--|--|--|--|
+| Platinum | yes | on cover | video during breaks | 5.000 |
+| Gold | yes | inside | video during breaks | 3.000 |
+| Silver | yes | none | none | 1.000 |
+
+The logos of all exhibitors & sponsors will be shown on the conference website and in the conference program and before the online presentation videos (with more prominent placement for larger packages).
 
 **the form will be available shortly as soon as the number and size of spots is confirmed**
 
