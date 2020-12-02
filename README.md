@@ -159,4 +159,4 @@ The conference is organized by Linköping University in cooperation with the [Mo
 - main contact: Lena Buffoni, Linköping University
 - Martin Sjölund, Linköping University
 - Adrian Pop, Linköping University
-- Lennart Ochel, Linköping University
+- Lennart Ochel, RISE Research Institutes of Sweden AB
