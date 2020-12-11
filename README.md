@@ -157,8 +157,9 @@ The conference is organized by Linköping University in cooperation with the [Mo
 #### Conference chairs:
 
 - Lena Buffoni, Linköping University
-- Martin Sjölund, Linköping University
+- Lennart Ochel, RISE Research Institutes of Sweden AB
 
 #### Program chairs:
 - Adrian Pop, Linköping University
-- Lennart Ochel, RISE Research Institutes of Sweden AB
+- Martin Sjölund, Linköping University
+
