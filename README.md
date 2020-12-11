@@ -154,11 +154,11 @@ The conference is organized by Linköping University in cooperation with the [Mo
 
 **For general questions, please send an email to:** **[modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se)**
 
-####Conference chairs:
+#### Conference chairs:
 
 - Lena Buffoni, Linköping University
 - Martin Sjölund, Linköping University
 
-####Program chairs:
+#### Program chairs:
 - Adrian Pop, Linköping University
 - Lennart Ochel, RISE Research Institutes of Sweden AB
