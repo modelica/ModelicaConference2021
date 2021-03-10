@@ -1,5 +1,5 @@
 
-# FormattingGuidelines
+# Formatting Guidelines
 
 Guidelines for the formatting of Modelica Conference Papers
 
