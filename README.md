@@ -1,30 +1,18 @@
-| ![](images/ModelicaLogo.svg)![](images/liu.svg)  |The **14th International Modelica Conference** will be a hybrid remote and physical event, held at [the concert and conference hall in Linköping](https://konsertkongress.se/en/start), **September 20–22, 2021**. It is organized by [Linköping University](https://liu.se/), in cooperation with the Modelica Association. <br> Join us in [Linköping](https://visitlinkoping.se/) in person or from the comfort of your own home.|
+| ![](images/ModelicaLogo.svg)![](images/liu.svg)  |The **14th International Modelica Conference** will be a fully remote and free event, **September 20–22, 2021**. It is organized by [Linköping University](https://liu.se/), in cooperation with the Modelica Association. <br> Join us from the comfort of your own home.|
 
+## UPDATE: The conference will be fully online and free and the dates have been extended - September 20-24, 2021
+Given the current situation the MA board and the organizers have made the decision to move the conference fully online and extend the 
 
 ## About the Conference
-
-### [Covid-19 information](covid19.md)
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), and [DCP](https://dcp-standard.org/).
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
-In addition to paper presentations and poster sessions, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
+In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.
 The previous Modelica conference in 2019 in Regensburg, Germany, was attended by more than 400 participants from all over the world, and we would like to welcome even more participants to this conference.
 
-We are looking forward to seeing you in Linköping.
+We are looking forward to seeing you.
 
-![](images/mote_massa.jpg)
-
-## Conference Venue
-
-The conference will take place Concert and Conference Hall in Linköping near the center of the town, only a 15 minutes to walk from the historical centre.
-
-**Venue Address**
-
-Konsert & Kongress <br>
-Konsistoriegatan 7 <br>
-Linköping 582 22 <br>
-Sweden
 
 ## Scope of the Conference
 
@@ -72,21 +60,23 @@ The conference proceedings will be published electronically. After the conferenc
 
 ## Call for Industrial User Presentations
 
-On Monday it is planned to have Industrial User Presentations related to existing and possibly new Modelica Association projects. You are encouraged to submit an extended abstract of 1-2 pages for a presentation-only contribution. Please see the Call-for-Papers page for further information about the submission and/or application process. The abstracts will be peer-reviewed by experts, but no papers will be published in the conference proceedings.
+During the conference two sessions are planned for Industrial User Presentations related to existing and possibly new Modelica Association projects. 
+You must submit an extended abstract of 1-2 pages for a presentation-only contribution. Please see the Call-for-Papers page for further information about the submission and/or application process. The abstracts will be peer-reviewed by experts, but no papers will be published in the conference proceedings.
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, they should be covered by vendor sessions.
 
-## Call for Tutorials, Vendor Sessions, Exhibitors & Sponsors
+## Call for Tutorials, Vendor Sessions & Sponsors
 
-During the first day of the Conference, tutorials and vendor sessions will be held.
+During the Modelica 2021 Conference tutorials and vendor sessions will be held.
 
 For more information, please check the  [Other Calls](othercalls.md)  page.
 
-A commercial exhibition will also be arranged in conjunction to the conference. The commercial exhibition will be integrated with the session halls, poster exhibition and the catering services and will thus be an excellent exhibition window towards the delegates. The exhibition will be open during conference hours.
+Sponsors are also welcome to host virtual exibition booths - virtual conference/chat rooms that they will set up and staff during conference hours. 
+Links to these booths will be available via the program page. The vendors are in charge of setting up the booths themselves in the tool of their choice.
 
-For the virtual participants, videos from exhibitors will be displayed in the virtual rooms during conference breaks and sponsor logos will be displayed before presentation videos.
 
-We are sure you will be interested in gaining visibility to the Modelica community, not only by an exhibition booth or sponsorship alone. Therefore we have prepared 4 different Exhibitor & Sponsor packages.
+We are sure you will be interested in gaining visibility to the Modelica community, especially since this year with free virtual participation we expect a larger attendance than usual. 
+Therefore we have prepared 2 different Sponsor packages as well as tool vendor sessions and tutorials.
 
 For more information, please check the [Other Calls](othercalls.md) page.
 
@@ -97,56 +87,24 @@ For more information, please check the [Other Calls](othercalls.md) page.
 | December 1, 2020 | Call for Papers |
 |April 26, 2021|Submission of Full Papers and libraries|
 | May 24, 2021 | Notification of Acceptance of Full Papers |
-|June 15, 2021|Early registration deadline Submission of extend abstracts for Industrial User Presentations|
+|June 15, 2021| Submission of extend abstracts for Industrial User Presentations|
 |August 1, 2021|Submission of final version of Full Papers and libraries  Applications for Tutorials, Vendor Sessions and Exhibitors|
-|September 5, 2021|Late registration deadline|
-|September  20, 2021|Tutorials, Industrial User Presentations and Vendor Sessions|
-|September 21-22, 2021|Scientific Program of 14th International Modelica Conference|
+|September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
 
-We'll keep the registration open at [EasyChair](https://easychair.org/) until Wednesday September 5, 2021, but you'll have to pay by credit card.
-
-Additionally, we'll offer late registration directly at the conference desk (payment cash or credit card) starting on September 20, 2021 at 12:00.
 
 ## Registration
 
-|Registration  |Valid  |incl.Dinner |Early | Late |
-|--|--| -- | --| -- |
-| Standard | Mon-Wed | yes | Euro 625 | Euro 775 |
-| Student | Mon-Wed | no | Euro 400 | Euro 500 |
-| Industrial User Presentations | Only Monday | no | Euro 200 | Euro 250 |
-| Additional Dinner Ticket | Dinner| -- | Euro 90 | Euro 90 |
-| Virtual attendance | Mon-Wed | no | Euro 50 | Euro 70 |
-| Virtual attendance reduced rate (students and PhD) | Mon-Wed | no | Euro 25 | Euro 35 |
-
-**Please note**:
-
-- Standard and student tickets are valid for all 3 days.
-- Industrial User Presentations tickets a valid only for Monday, no access to the rest of the conference.
-- Choosing student, you have to prove your student or PhD student status at the registration desk;
-Dinner ticket is not included, you may buy an additional Dinner Ticket during the registration process.
-
-Registration is handled by the [EasyChair Conference Management System](https://www.easychair.org).
-You have to login to your account at EasyChair, and choose "Registration".
-
-**Late registration** at the Conference Desk (payment cash or credit card) is possible!
+Registration is free, but please indicate your interest by registering in advance. This event will be funded by sponsors.
 
 ## Conference Timeline
 
-**Monday, September 20, 2021**
-
-13:00 Tutorials, Industrial User Presentations and Vendor Sessions
-
-19:30 Welcome Reception
-
-**Tuesday, September 21, 2021**
-
-9:00 - 19:00 Conference and Exhibition
-
-20:00 Conference Dinner
-
-**Wednesday, September 22, 2021**
-
-8:30 - 16:00 Conference and Exhibition
+| Day | Morning session |  Afternoon session |
+|--|--|--|
+|**Monday, September 20, 2021** |Tutorials|Opening session, keynote, paper presentations|
+|**Tuesday, September 21, 2021** |Paper presentations|Industrial vendor sessions|
+|**Wednesday, September 22, 2021**|Industrial vendor sessions|Paper presentations|
+|**Thursday, September 23, 2021**|Paper presentations|Industrial user presentations|
+|**Friday, September 24, 2021**|Industrial user presentations|Closing session, keynote, paper presentations|
 
 ## Organization and Contact
 
@@ -163,3 +121,5 @@ The conference is organized by Linköping University in cooperation with the [Mo
 - Adrian Pop, Linköping University
 - Martin Sjölund, Linköping University
 
+#### Conference Board
+Lena Buffoni, Lennart Ochel, Adrian Pop, Martin Sjölund, Francesco Casella, Hilding Elmqvist, Peter Fritzson, Martin Otter, Michael Tiller

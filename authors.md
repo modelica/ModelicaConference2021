@@ -20,7 +20,7 @@ Please use these [LaTeX templates](https://github.com/modelica-association/confe
 The Word templates are currently not up to date and should not be used until they it has been updated (it will be available soon).
 For draft paper submissions, you may also use other templates (but include a page stating you will use the correct template for the final submission).
 
-Please make sure that your submission has been created according to the Modelica Formatting Guidelines.
+Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](formatting.md).
 
 For the final submission, there will also be the possibility to submit Modelica example model files that correspond to your publication. These files will then be attached to your paper in the Modelica Association copy of the proceedings (but not the LiU e-press copy that the DOI points to).
 
