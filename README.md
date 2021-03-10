@@ -91,9 +91,6 @@ For more information, please check the [Other Calls](othercalls.md) page.
 |August 1, 2021|Submission of final version of Full Papers and libraries  Applications for Tutorials, Vendor Sessions and Exhibitors|
 |September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
 
-We'll keep the registration open at [EasyChair](https://easychair.org/) until Wednesday September 5, 2021, but you'll have to pay by credit card.
-
-Additionally, we'll offer late registration directly at the conference desk (payment cash or credit card) starting on September 20, 2021 at 12:00.
 
 ## Registration
 
