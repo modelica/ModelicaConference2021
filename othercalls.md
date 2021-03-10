@@ -31,8 +31,8 @@ We are sure you will be interested in gaining visibility to the Modelica communi
 
 | Level | Includes | Price  Euro excl. VAT|
 |--|--|--|
-| Gold | big logo small logo on slide before every presentation , on conference page, on registration page advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
-| Silver | small logo on slide before every presentation, on conference page, on registration page | 1.000 |
+| Gold | Big logo small logo on slide before every presentation , on conference page, on registration page. An advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
+| Silver | Small logo on slide before every presentation, on conference page, on registration page | 1.000 |
 
 
 To apply for the exhibition space and sponsorship, please fill the  [Sponsor/Exhibitor Application Form](Documents/ExhibitorSponsor.pdf)  and send it to  [modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se?subject=Vendor%20Session%2FTutorial%20application%20form). The registration is open until **August 1st, 2021**  or until the slots are filled.
