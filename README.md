@@ -102,7 +102,7 @@ Registration is free, but please indicate your interest by registering in advanc
 |--|--|--|
 |**Monday, September 20, 2021** |Tutorials|Opening session, keynote, paper presentations|
 |**Tuesday, September 21, 2021** |Paper presentations|Industrial vendor sessions|
-|**Wednesday, September 22, 2021**|Paper presentations|Industrial vendor sessions|
+|**Wednesday, September 22, 2021**|Industrial vendor sessions|Paper presentations|
 |**Thursday, September 23, 2021**|Paper presentations|Industrial user presentations|
 |**Friday, September 24, 2021**|Industrial vendor sessions|Closing session, keynote, paper presentations|
 
