@@ -27,11 +27,11 @@ You will be contacted by the organizers' financial department and receive a bill
 ## Call for Sponsors
 
 This year we have decided to make attendance to the conference free in order to increase visibility and reach a wider audience.
-We are sure you will be interested in gaining visibility to the Modelica community, and this year we offer to levels of sponsoriship. 
+We are sure you will be interested in gaining visibility to the Modelica community, and this year we offer two levels of sponsoriship. 
 
 | Level | Includes | Price  Euro excl. VAT|
 |--|--|--|
-| Gold | Big logo on slide before every presentation , on conference page, on registration page. An advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
+| Gold | Big logo on slide before every presentation, on conference page, on registration page. An advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
 | Silver | Small logo on slide before every presentation, on conference page, on registration page | 1.000 |
 
 
