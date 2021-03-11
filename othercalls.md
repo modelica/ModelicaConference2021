@@ -31,7 +31,7 @@ We are sure you will be interested in gaining visibility to the Modelica communi
 
 | Level | Includes | Price  Euro excl. VAT|
 |--|--|--|
-| Gold | Big logo small logo on slide before every presentation , on conference page, on registration page. An advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
+| Gold | Big logo on slide before every presentation , on conference page, on registration page. An advertised link to virtual booth (set up by vendors themselves) on conference page and during conference kick-off | 2.000 |
 | Silver | Small logo on slide before every presentation, on conference page, on registration page | 1.000 |
 
 
