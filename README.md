@@ -3,6 +3,8 @@
 ## UPDATE: The conference will be fully online and free and the dates have been extended - September 20-24, 2021
 Given the current situation the MA board and the organizers have made the decision to move the conference fully online and extended the dates to September 20-24, 2021.
 
+### Registration page up soon. For sponsorship inquieries see the information on [Other Calls](othercalls.md). 
+
 ## About the Conference
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), and [DCP](https://dcp-standard.org/).
