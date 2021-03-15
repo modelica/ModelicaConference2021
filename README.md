@@ -3,7 +3,7 @@
 ## UPDATE: The conference will be fully online and free and the dates have been extended - September 20-24, 2021
 Given the current situation the MA board and the organizers have made the decision to move the conference fully online and extended the dates to September 20-24, 2021.
 
-### Registration page up soon. For sponsorship inquieries see the information on [Other Calls](othercalls.md). 
+### Registration page up soon. For sponsorship inquieries see the information on [Other Calls](othercalls.md).
 
 ## About the Conference
 
@@ -62,7 +62,7 @@ The conference proceedings will be published electronically. After the conferenc
 
 ## Call for Industrial User Presentations
 
-During the conference two sessions are planned for Industrial User Presentations related to existing and possibly new Modelica Association projects. 
+During the conference two sessions are planned for Industrial User Presentations related to existing and possibly new Modelica Association projects.
 You must submit an extended abstract of 1-2 pages for a presentation-only contribution. Please see the Call-for-Papers page for further information about the submission and/or application process. The abstracts will be peer-reviewed by experts, but no papers will be published in the conference proceedings.
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, they should be covered by vendor sessions.
@@ -73,11 +73,11 @@ During the Modelica 2021 Conference tutorials and vendor sessions will be held.
 
 For more information, please check the  [Other Calls](othercalls.md)  page.
 
-Sponsors are also welcome to host virtual exibition booths - virtual conference/chat rooms that they will set up and staff during conference hours. 
+Sponsors are also welcome to host virtual exhibition booths - virtual conference/chat rooms that they will set up and staff during conference hours.
 Links to these booths will be available via the program page. The vendors are in charge of setting up the booths themselves in the tool of their choice.
 
 
-We are sure you will be interested in gaining visibility to the Modelica community, especially since this year with free virtual participation we expect a larger attendance than usual. 
+We are sure you will be interested in gaining visibility to the Modelica community, especially since this year with free virtual participation we expect a larger attendance than usual.
 Therefore we have prepared 2 different Sponsor packages as well as tool vendor sessions and tutorials.
 
 For more information, please check the [Other Calls](othercalls.md) page.
@@ -89,8 +89,8 @@ For more information, please check the [Other Calls](othercalls.md) page.
 | December 1, 2020 | Call for Papers |
 |April 26, 2021|Submission of Full Papers and libraries|
 | May 24, 2021 | Notification of Acceptance of Full Papers |
-|June 15, 2021| Submission of extend abstracts for Industrial User Presentations|
-|August 1, 2021|Submission of final version of Full Papers and libraries  Applications for Tutorials, Vendor Sessions and Exhibitors|
+|June 15, 2021| Submission of extended abstracts for Industrial User Presentations|
+|August 1, 2021|Submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors|
 |September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
 
 
@@ -105,7 +105,7 @@ Registration is free, but please indicate your interest by registering in advanc
 |**Monday, September 20, 2021** |Tutorials|Opening session, keynote, paper presentations|
 |**Tuesday, September 21, 2021** |Paper presentations|Industrial vendor sessions|
 |**Wednesday, September 22, 2021**|Industrial vendor sessions|Paper presentations|
-|**Thursday, September 23, 2021**|Paper presentations|Industrial user presentations|
+|**Thursday, September 23, 2021**|Paper presentations|Industrial user presentations / FMI User Meeting|
 |**Friday, September 24, 2021**|Industrial user presentations|Closing session, keynote, paper presentations|
 
 ## Organization and Contact
