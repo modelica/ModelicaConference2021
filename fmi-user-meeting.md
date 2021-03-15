@@ -1,6 +1,6 @@
 ## Call for Participation: FMI User Meeting at the Modelica Conference 2021
 
-<em>The FMI Project plans to organize this “FMI User Meeting” within the “industrial user presentations” session of the different Modelica Association Projects on the first day of the Modelica Conference 2021 as a complement to the scientific track(s) on FMI within the conference.
+<em>The FMI Project plans to organize this “FMI User Meeting” within the “industrial user presentations” session of the different Modelica Association Projects on Thursday, Sept 23 afternoon the Modelica Conference 2021 as a complement to the scientific track(s) on FMI within the conference.
 The intent is to increase the interaction between FMI users in different companies and/or institutions and the FMI project.</em>
 
 ### Agenda and Scope
