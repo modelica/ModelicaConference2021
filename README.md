@@ -73,7 +73,7 @@ During the Modelica 2021 Conference tutorials and vendor sessions will be held.
 
 For more information, please check the  [Other Calls](othercalls.md)  page.
 
-Sponsors are also welcome to host virtual exibition booths - virtual conference/chat rooms that they will set up and staff during conference hours.
+Sponsors are also welcome to host virtual exhibition booths - virtual conference/chat rooms that they will set up and staff during conference hours.
 Links to these booths will be available via the program page. The vendors are in charge of setting up the booths themselves in the tool of their choice.
 
 
