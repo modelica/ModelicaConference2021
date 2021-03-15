@@ -89,7 +89,7 @@ For more information, please check the [Other Calls](othercalls.md) page.
 | December 1, 2020 | Call for Papers |
 |April 26, 2021|Submission of Full Papers and libraries|
 | May 24, 2021 | Notification of Acceptance of Full Papers |
-|June 15, 2021| Submission of extend abstracts for Industrial User Presentations|
+|June 15, 2021| Submission of extended abstracts for Industrial User Presentations|
 |August 1, 2021|Submission of final version of Full Papers and libraries  Applications for Tutorials, Vendor Sessions and Exhibitors|
 |September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
 
