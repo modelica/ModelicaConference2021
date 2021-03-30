@@ -16,9 +16,10 @@ In this way, you can provide example models that correspond to your paper.
 ## Preparation of full papers
 
 The template has been updated for the 2021 conference, so do not use older versions of the template.
-Please use these [LaTeX templates](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
-The Word templates are currently not up to date and should not be used until they it has been updated (it will be available soon).
-For draft paper submissions, you may also use other templates (but include a page stating you will use the correct template for the final submission).
+Please use the [LaTeX template](https://github.com/modelica-association/conference-templates/tree/master/LaTeX) for the creation of full papers.
+There is a [Word template](https://github.com/modelica-association/conference-templates/tree/master/MSWord) that is based on the LaTeX template.
+The Word template contains some wording specific to LaTeX packages; when drafting a document in Word, please make the contents look similar to what the LaTeX templates produce.
+For draft paper submissions, you may also use other templates (but include an extra page at the end stating you will use the correct template for the final submission).
 
 Please make sure that your submission has been created according to the [Modelica Formatting Guidelines](formatting.md).
 
