@@ -52,7 +52,7 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Modelica for teaching and education
 - FMI in Modelica and non-Modelica applications and tools
 
-## Call for Papers (December 1st  – April 26)
+## Call for Papers (December 1st  – ~~April 26~~ May 10)
 
 Papers can be submitted for full presentation or for poster presentation. In addition, new free Modelica libraries can be introduced to the public. The Modelica Free Library Award will be given to the best and second best free libraries submitted for review. Modelica Association members (excluding selection committee members) can apply for this award too.
 
@@ -87,7 +87,8 @@ For more information, please check the [Other Calls](othercalls.md) page.
 | | |
 |--|--|
 | December 1, 2020 | Call for Papers |
-|April 26, 2021|Submission of Full Papers and libraries|
+|~~April 26, 2021~~|~~Submission of Full Papers and libraries~~|
+|May 10, 2021| Extended Deadline for Submission of Full Papers and libraries|
 | May 24, 2021 | Notification of Acceptance of Full Papers |
 |June 15, 2021| Submission of extended abstracts for Industrial User Presentations|
 |August 1, 2021|Submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors|
@@ -97,6 +98,7 @@ For more information, please check the [Other Calls](othercalls.md) page.
 ## Registration
 
 Registration is free, but please indicate your interest by registering in advance. This event will be funded by sponsors.
+Registration will open soon.
 
 ## Conference Timeline
 
