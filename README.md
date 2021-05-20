@@ -1,12 +1,14 @@
 | ![](images/ModelicaLogo.svg)![](images/liu.svg)  |The **14th International Modelica Conference** will be a fully remote and free event, **September 20–24, 2021**. It is organized by [Linköping University](https://liu.se/), in cooperation with the [Modelica Association](https://modelica.org/association). <br> Join us from the comfort of your own home.|
 
-## UPDATE: The submission deadline has been extended to 10th of May 2021
+### UPDATE: Registration open: follow this [LINK](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng) to register. For sponsorships, vendor sessions and tutorials please find the links in [Other Calls](othercalls.md)
+
+UPDATE: The submission deadline has been extended to 10th of May 2021
 
 UPDATE :The conference will be fully online and free and the dates have been extended - September 20-24, 2021
 
 Given the current situation the MA board and the organizers have made the decision to move the conference fully online and extended the dates to September 20-24, 2021.
 
-### Registration page up soon. For sponsorship inquieries see the information on [Other Calls](othercalls.md).
+Registration page up soon. For sponsorship inquieries see the information on [Other Calls](othercalls.md).
 
 ## About the Conference
 
