@@ -2,6 +2,8 @@
 
 ### UPDATE: Registration open: follow this [LINK](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng) to register. For sponsorships, vendor sessions and tutorials please find the links in [Other Calls](othercalls.md)
 
+IMPORTANT: Please note that the registration deadline is **September 11, 11:59 CEST** and that the number of participants is currently limited to **1000** 
+
 UPDATE: The submission deadline has been extended to 10th of May 2021
 
 UPDATE :The conference will be fully online and free and the dates have been extended - September 20-24, 2021
