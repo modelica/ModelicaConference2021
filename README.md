@@ -98,7 +98,8 @@ For more information, please check the [Other Calls](othercalls.md) page.
 |May 10, 2021| Extended Deadline for Submission of Full Papers and libraries|
 |June 15, 2021| Notification of Acceptance of Full Papers (extended deadline) |
 |June 15, 2021| Submission of extended abstracts for Industrial User Presentations|
-|August 1, 2021|Submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors|
+|~~August 1, 2021~~|~~Submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors~~|
+|August 15, 2021| Extended deadline for submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors|
 |Semptember 11, 2021|Deadline for conference [registration](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng) (participation is limited to 1000 people)|
 |September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
 
@@ -106,7 +107,7 @@ For more information, please check the [Other Calls](othercalls.md) page.
 ## Registration
 
 Registration is free, but please indicate your interest by registering in advance. This event will be funded by sponsors.
-Registration will open soon.
+Registration is  open : [register](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng). 
 
 ## Conference Timeline
 
