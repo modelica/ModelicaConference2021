@@ -2,7 +2,7 @@
 
 ## Submission process
 
-Papers should be submitted via the EasyChair conference management system (link will be added later).
+Papers should be submitted via the [EasyChair](https://easychair.org/conferences/?conf=modelica2021) conference management system.
 
 There you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years, so if you have already participated in a Modelica conference you might already have a valid account.
 
@@ -27,14 +27,14 @@ For the final submission, there will also be the possibility to submit Modelica 
 
 ## Final Paper Submission
 
-Additionally to your paper, you should also submit a copyright agreement that gives the Modelica Association the non-exclusive right to publish your paper (details will be added later).
+Additionally to your paper, you should also submit a [copyright agreement](Documents/Modelica2021_copyright_form.pdf) that gives the Modelica Association the non-exclusive right to publish your paper. Please sign the form and upload it in [EasyChair](https://easychair.org/conferences/?conf=modelica2021) together with the final paper version.
+ 
 
 We appreciate if you upload a one-page abstract, too.
 Use the same template as for the paper, but cut it down to a teaser for attendees.
 
 ## Technical equipment for presentations
 
-For tutorials and vendor session the presenters are expected to bring their own equipment to connect to the projectors.
+Papers must be presented during the conference, as a pre-recorded video shown during conference and optionally in person. Instructions for uploading pre-recorded presentations will be available end of August.
 
-Papers must be presented during the conference, as a pre-recorded video shown during conference and optionally in person.
 Papers that are not presented will be retracted.
