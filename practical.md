@@ -2,7 +2,7 @@
 
 **Attention**: Please note that the information is preliminary and subject to change
 
-The preliminary program can be downloaded by clicking (HERE)[Documents/Modelica_2021_preliminary_program.xlsx]
+The preliminary program can be downloaded by clicking [HERE](Documents/Modelica_2021_preliminary_program.xlsx)
 For any questions regarding the program please contact modelica2021@groups.liu.se. 
 
 - The conference sessions will be via Zoom – scientific paper sessions have 2 parallel tracks, tutorials and vendor sessions will depend on the final number of presentations
