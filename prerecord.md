@@ -14,7 +14,7 @@ Below are some suggestions for software that can record a presentation including
 OBS Studio is an open source software used by live streamers and content creators.
 It has many different configuration options, including green screen removal for web cams (if your web cam software does not support this).
 
-![Example of OBS recording][images/obs-prerecord.png]
+![Example of OBS recording](/images/obs-prerecord.png)
 
 
 ### Removing background noise
