@@ -26,7 +26,7 @@ It has many different configuration options, including green screen removal for 
 
 Chances are that once you recorded your audio, there is background noise from ventilation, traffic, etc in your video file.
 
-You can reduce noise in for example the open source [Audacity](https://www.audacityteam.org/). Here is a [video tutortial](https://www.youtube.com/watch?v=79zeZnIBpbQ) on how to (but play around with settings as you may have several bands of noise, from different sources).
+You can reduce noise in for example the open source [Audacity](https://www.audacityteam.org/). Here is a [video tutorial](https://www.youtube.com/watch?v=79zeZnIBpbQ) on how to (but play around with settings as you may have several bands of noise, from different sources).
 
 You can also use filters to remove pops and clicks from the audio.
 
