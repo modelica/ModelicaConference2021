@@ -4,6 +4,9 @@ For the scientific program, there are 20 minutes for presentation and questions.
 So a good target for presentation length is 12-15 minutes.
 Below are some suggestions for software that can record a presentation including your face, as well as hints for making your sound better:
 
+Suitable settings for the video is 1920x1080 resolution, 30 Hz, h.264, MP4 or MKV with AAC audio.
+If the video contains little movement, 3 Mbps is probably enough but the file will be recompressed so larger files will also be acceptable.
+
 ### Recording video in Powerpoint
 
 * [Basic powerpoint presentation with audio pre-recorded](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
