@@ -3,8 +3,6 @@
 ### UPDATE: THE PRELIMINARY PROGRAM and some information about the conference organization : [LINK](practical.md)
 
 
-### UPDATE: The [copyright form](Documents/Modelica2021_copyright_form.pdf) is now available. Please sign and upload it in [EasyChair](https://easychair.org/conferences/?conf=modelica2021) together with the final version of the paper.
-
 ### UPDATE: Registration open: follow this [LINK](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng) to register. For sponsorships, vendor sessions and tutorials please find the links in [Other Calls](othercalls.md)
 
 IMPORTANT: Please note that the registration deadline is **September 11, 11:59 CEST** and that the number of participants is currently limited to **1000** 
