@@ -8,6 +8,7 @@ Suitable settings for the video is 1920x1080 resolution, 30 Hz, h.264, MP4 or MK
 If the video contains little movement, 3 Mbps is probably enough but the file will be recompressed so larger files will also be acceptable.
 
 You can create the video without title slide since you will be presented by a session chair with a common template for all presentations.
+There is otherwise no common template for the presentations.
 
 ### Recording video in Powerpoint
 
