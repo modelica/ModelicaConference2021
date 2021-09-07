@@ -3,7 +3,7 @@
 **Attention**: Please note that the information is preliminary and subject to change
 
 
-The preliminary program can be downloaded by clicking [HERE](Documents/Modelica_2021_preliminary_program.xlsx)
+The preliminary program can be downloaded by clicking [HERE](Documents/Modelica2021_program_version_3.xlsx)
 
 
 For any questions regarding the program please contact modelica2021@groups.liu.se. 
