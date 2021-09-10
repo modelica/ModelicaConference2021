@@ -1,7 +1,5 @@
 ## Preliminary practical information
 
-**Attention**: Please note that the information is preliminary and subject to change
-
 For any questions regarding the program please contact modelica2021@groups.liu.se. 
 
 
