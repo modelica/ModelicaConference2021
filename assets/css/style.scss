@@ -3,11 +3,19 @@
 
 @import "{{ site.theme }}";
 
+footer {
+  width:360px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 a, a:hover, a:focus {
   font-weight: normal;
 }
 
-@media print, screen and ((max-width: 960px) or (max-height: 800px)) {
+@media print, screen and ((max-width: 960px) or (max-height: 700px)) {
 
   div.wrapper {
     width:auto;
