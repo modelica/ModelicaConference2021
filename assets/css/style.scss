@@ -6,3 +6,11 @@
 a, a:hover, a:focus {
   font-weight: normal;
 }
+
+@media print, screen and (max-height: 800px) {
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+}
