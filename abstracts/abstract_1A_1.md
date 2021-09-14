@@ -1,9 +1,7 @@
 
 ## The Functional Mock-up Interface 3.0 - New Features Enabling New Applications
 
-**Andreas Junghanns, Torstens Blochwitz, Christian Bertsch, Torsten Sommer,
-Karl Wernersson, Andreas Pillekeit, Irina Zacharias, Matthias Blesken, Pierre R. Mai,
-Klaus Schuch, Christian Schulze, Cláudio Gomes, Masoud Najafi**
+**Andreas Junghanns, Torstens Blochwitz, Christian Bertsch, Torsten Sommer, Karl Wernersson, Andreas Pillekeit, Irina Zacharias, Matthias Blesken, Pierre R. Mai, Klaus Schuch, Christian Schulze, Cláudio Gomes, Masoud Najafi**
 
 Abstract
 
