@@ -35,28 +35,29 @@ This tutorial illustrates how to build an electrical vehicle, from the chassis, 
 The latest version of System Modeler will be presented as well as the free Virtual Labs for high schools and colleges.
 
 
-### Using FMI for transient heat transfer simulation of 1D system models and TAITherm 3D thermal models
+### ThermoAnalytics: Using FMI for transient heat transfer simulation of 1D system models and TAITherm 3D thermal models
 FMI system models can be combined with the TAITherm 3D transient thermal solver, which simulates detailed radiation, conduction, and convection.  The TAITherm 3D thermal models increase the solution accuracy by including complex 3D thermal effects and the FMI system models provide system level boundary conditions.  This combined approach can be run at near real-time speeds to allow digital prototyping and comprehensive transient simulation for thermal applications.
 
 ### Maplesoft: MapleSim 2021
 MapleSim is a Modelica-based platform that combines system-level modeling and simulation with powerful analytic capabilities. Our goal with MapleSim is to provide engineers with an easy to use tool for design exploration and simulation. This session will be an overview of some of the unique features of MapleSim, as well as an update on the latest software enhancements.
 
-### Dynawo : an hybrid C++/Modelica open-source suite of simulation tools for power systems
+### Dynawo: a hybrid C++/Modelica open-source suite of simulation tools for power systems
 This presentation will introduce the motivations, main features, state of progress and perspectives of the Dynawo tool. This tool is based on an extensive use of the Modelica language for the modeling side combined with a dedicated approach to avoid/limit compilation at run-time and advanced top-of-the art open-source solvers. It enables to preserve the advantages of the Modelica language while offering industrially-grade performances for power system simulations.
 
-### Modelon Impact - System Simulation for Everyone
+### Modelon Impact: System Simulation for Everyone
 Modelon Impact is a radically different system design engineering simulation software. Bring the power of decision-making to everyone in your organization. Modelon's product Manager for Modelon Impact, Johan WIndahl, will present all aspects of the cloud-native system simulation platform, with a focus on the latest features and an outlook on Modelon's product roadmap.
 
 ### Dassault Systèmes Vendor Session
 You will discover the latest evolutions and perspectives regarding Dymola and underlying technologies as well as associated web applications and portfolio of libraries. Included: Dedicated section for latest standard support and examples of workflows involving other parts of Dassault Systèmes offer.
 
-### Implementing multi-fmu simulation with a cosimulation platform
+### Chiastek: Implementing multi-fmu simulation with a cosimulation platform
 In our presentation we will discuss the benefits of native co-simulation to prepare FMU’s;we will define some prerequisite to export and run an FMU using commerciallyavailable simulator; we will guide the integration of FMU to co-simulation platform;finally, we will underline the advantages of FMUs for co-simulation and DistributedCosimulation.
 
-### Distributed Co-simulation Platform - VenetDCP!
+### Toshiba Digital Solutions Corporation : Distributed Co-simulation Platform - VenetDCP!
 VenetDCP is a distributed co-simulation platform which enables to connect model and tools owned by separate teams and companies over the internet. VenetDCP generates FMI adapters for tool coupling. These adapters can be imported into FMI compliant tools to build up distributed co-simulation environment instantly. This presentation shows the challenges, technology and industrial applications of model exchange and co-simulation.
 
-
+### OpenModelica – Status and News on OpenModelica Development and Applications!
+An overview of OpenModelica functionality will be given, OMSimulator for FMI-based simulation and composition, Julia interoperability, and industrial applications of OpenModelica.
 
 
 
