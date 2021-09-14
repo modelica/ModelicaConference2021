@@ -30,4 +30,4 @@ systems from FMUs is simplified by terminals that can
 bundle multiple signals. The concept of layered standards
 allows the extension of the FMI standard.
 
-* Keywords: FMI, FMU, Functional Mock-up Interface *
+*Keywords: FMI, FMU, Functional Mock-up Interface*
