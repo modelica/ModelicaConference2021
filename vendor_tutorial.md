@@ -4,23 +4,28 @@
 
 ### Room A: FMI in the Cloud
 Torsten, Sommer
+
 In this tutorial we will take our FMUs into the cloud. After a short introduction to FMPy, an FMI library for Python, we create a Jupyter Notebook and learn how to upload resources, inspect and simulate an FMU, and to plot and download the simulation results. In the second part we write a web app and learn how to serve a web page, add input elements and finally to run a simulation on the server and to present the output. The third part is a hackathon and Q&A where you can build your own web app.
 
 ### Room B : Introduction to Modeling, Simulation, Debugging, and Interoperability with Modelica and OpenModelica 
 Peter Fritzson
+
 This tutorial gives an introduction to the Modelica language, the OpenModelica environment, and an overview of modeling and simulation in a number of application areas. Some advanced features of OpenModelica will be presented. A number of hands-on exercises will be done during the tutorial, both graphical modeling using the Modelica standard library and textual modeling. Bring your laptop for exercises.
 
 ### Room C : Modelica Buildings Library
 David Blum
+
 The Modelica Buildings Library is a free open-source library with dynamic simulation models for building and district energy and control systems.  Its development is supported by the U.S. Department of Energy.  This tutorial will overview the library, present modeling best-practices for thermo-fluid systems, and guide the attendees through hands-on exercises.
 
 ### Room D: Introduction to Modelica with Modelon Impact
 Hubertus Tummescheit	
+
 This workshop will give an introduction to Modelica with a focus on model users. We present the principles of modeling with Modelica and efficient use of libraries using multi-domain examples to make the workshop attractive for engineers from all branches of engineering. Simulations will be run on Modelon's cloud-native Modelica platform, Modelon Impact. Expected experience: some familiarity with system simulation. Requirements: Laptop with recent version of Google Chrome or Opera, 8GB of memory!
 
 
 ### Room E: Energy and thermal management of an electrical vehicle
 Bruno Jofret
+
 This tutorial illustrates how to build an electrical vehicle, from the chassis, the driveline, the energy supply, up to the thermal management of the systems, in order to evaluate the performance of the thermal management system, and its impact on the battery state of charge. It demonstrates how to use available components to create high level or detailed models for battery and driveline, as well as a step by step tutorial for building and sizing the thermal management.![image]
 
 
