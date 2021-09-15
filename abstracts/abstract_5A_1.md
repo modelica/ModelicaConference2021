@@ -1,9 +1,9 @@
-ScalableTestGrids - An Open-Source and Flexible Benchmark
-Suite to Assess Modelica Tool Performance on Large-Scale Power
-System Test Cases
-Francesco Casella1 Adrien Guironnet2
+## ScalableTestGrids - An Open-Source and Flexible Benchmark Suite to Assess Modelica Tool Performance on Large-Scale Power System Test Cases
+
+**Francesco Casella, Adrien Guironnet**
 
 Abstract
+
 This paper introduces ScalableTestGrids, an open-source
 and flexible benchmark suite for assessing the performance
 of Modelica tools on large-scale power system test
@@ -16,5 +16,6 @@ Results obtained with the OpenModelica tool are
 also reported. The benchmark suite can be used by tool
 developers to assess the capability of their tools to handle
 large-scale power generation and transmission models.
-Keywords: Benchmark, Power System Simulation, Large-
-Scale Simulation, Performance, Open-Source
+
+*Keywords: Benchmark, Power System Simulation, Large-
+Scale Simulation, Performance, Open-Source*
