@@ -1,6 +1,6 @@
 ## Continuous Development and Management of Credible Modelica Models
 
-**Leo Gall1 Martin Otter, Matthias Reiner, Matthias Schäfer, Jakub Tobolář**
+**Leo Gall, Martin Otter, Matthias Reiner, Matthias Schäfer, Jakub Tobolář**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper2.pdf)
 

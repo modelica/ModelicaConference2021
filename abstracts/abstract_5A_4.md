@@ -1,6 +1,6 @@
 ## Modelica Models as Integral Part of the Building Design Process
 
-**Dipl.-Ing. Torsten Schwan, Dipl.-Ing. Monika Wicke, Dipl.-Ing. Alexander Hentschel, Dipl.-Ing. René Unger**
+**Torsten Schwan, Monika Wicke, Alexander Hentschel, René Unger**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper4.pdf)
 
