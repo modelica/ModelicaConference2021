@@ -2,6 +2,8 @@
 
 **Fabian Buse, Tobias Bellmann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6A_paper1.pdf)
+
 Abstract
 
 Simulation becomes more and more important in the development

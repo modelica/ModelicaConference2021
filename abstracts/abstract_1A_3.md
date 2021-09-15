@@ -2,6 +2,8 @@
 
 **Robert Hällqvist, Raghu Chaitanya Munjulury, Robert Braun, Magnus Eek, Petter Krus**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper3.pdf)
+
 Abstract
 
 Establishing interoperability is an essential aspect of the

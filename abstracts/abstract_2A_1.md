@@ -2,6 +2,8 @@
 
 **Hans Olsson, Erik Henningsson**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2A_paper1.pdf)
+
 Abstract
 
 This paper investigates steady-state initialization both

@@ -2,6 +2,8 @@
 
 **Alessandro Maccarini, Michael Mans, Christian G. Sørensen, Alireza Afshari**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper2.pdf)
+
 Abstract
 
 Buildings in cities are one of the major contributors of carbon

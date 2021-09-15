@@ -1,6 +1,8 @@
 ## New Equation-based Method for Parameter and State Estimation
 **Luis Corona Mesa-Moles, Erik Henningsson, Daniel Bouskela, Audrey Jardin, Hans Olsson**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2A_paper2.pdf)
+
 Abstract
 
 To get reliable simulation results from a Modelica

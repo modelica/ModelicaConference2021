@@ -2,6 +2,8 @@
 
 **Stephan Göbel, Elaine Schmitt, Philipp Mehrfeld, Dirk Müller**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4B_paper4.pdf)
+
 Abstract
 The efficiency of heat pump systems is highly dependent
 on the temperature gap between the sink and the source

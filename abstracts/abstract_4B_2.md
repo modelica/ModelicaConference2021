@@ -2,6 +2,8 @@
 
 *Michael Wetter, Kyle Benne, Baptiste Ravache*
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4B_paper2.pdf)
+
 Abstract
 
 Spawn of EnergyPlus is a next-generation energy simulation

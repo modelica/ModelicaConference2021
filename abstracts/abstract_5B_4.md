@@ -2,6 +2,8 @@
 
 **Thomas Schranz, Christian Møldrup Legaard, Daniella Tola, Gerald Schweiger**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5B_paper4.pdf)
+
 Abstract
 
 Co-simulation is a means to combine and leverage the

@@ -2,6 +2,8 @@
 
 **Christian Canham, Meaghan Podlaski, Luigi Vanfretti**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2B_paper3.pdf)
+
 Abstract
 
 A Modelica model of a of a rocket’s first stage is developed,

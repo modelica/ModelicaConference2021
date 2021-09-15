@@ -2,6 +2,8 @@
 
 **Albert Benveniste, Benoît Caillaud, Mathias Malandain**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7A_paper1.pdf)
+
 Abstract
 
 Since its version 3.3, the Modelica language offers the

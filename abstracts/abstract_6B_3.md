@@ -2,6 +2,8 @@
 
 **Manuel Prado-Velasco**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6B_paper3.pdf)
+
 Abstract
 
 There is a lack of Modeling and Simulation software systems

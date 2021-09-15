@@ -2,6 +2,8 @@
 
 **Stefan H. Reiterer, Clemens Schiffer**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5B_paper3.pdf)
+
 Abstract
 
 To improve the quality of model-based development and

@@ -2,6 +2,8 @@
 
 **Martin Sjölund**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7A_paper3.pdf)
+
 Abstract
 
 Modelica tools change the formatting of the source code

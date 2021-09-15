@@ -3,6 +3,8 @@
 **Basak Falay, Sandra Wilfling, Qamar Alfalouji, Johannes Exenberger, Thomas Schranz,
 Christian Møldrup Legaard, Ingo Leusbrock, Gerald Schweiger**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4B_paper3.pdf)
+
 Abstract
 
 The emergence of Cyber-Physical Systems poses new

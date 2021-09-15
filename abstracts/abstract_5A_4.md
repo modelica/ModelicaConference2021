@@ -2,6 +2,8 @@
 
 **Dipl.-Ing. Torsten Schwan, Dipl.-Ing. Monika Wicke, Dipl.-Ing. Alexander Hentschel, Dipl.-Ing. René Unger**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper4.pdf)
+
 Abstract
 
 The design process of buildings and energy supply

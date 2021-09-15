@@ -2,6 +2,8 @@
 
 **Nihar Hasmukhbhai Shah, Perig Le Henaff, Clemens Schiffer, Martin Krammer, Martin Benedikt**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper4.pdf)
+
 Abstract
 Increased demand for customized products and reduced
 manufacturing times are key drivers towards modern, automated

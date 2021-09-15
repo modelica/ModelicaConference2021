@@ -2,6 +2,8 @@
 
 **Moritz Allmaras, Andrés Botero Halblaub, Harald Held, Tim Schenk**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6A_paper3.pdf)
+
 Abstract
 
 We propose a new format (Digital Twin Assembly –

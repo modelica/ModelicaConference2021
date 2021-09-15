@@ -2,6 +2,8 @@
 
 **Kushagra Mathur, Christoph Nytsch-Geusen, Lucas Westermann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper4.pdf)
+
 Abstract
 
 This paper describes the development process of a test bed

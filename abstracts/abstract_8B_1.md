@@ -2,6 +2,8 @@
 
 **Franz Holzinger, Klaus Schuch, Martin Benedikt, Daniel Watzenig**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper1.pdf)
+
 Abstract
 
 The primary task of co-simulation is the synchronization

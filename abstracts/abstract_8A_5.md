@@ -2,6 +2,8 @@
 
 **Ashok Kumar Ravi, Stéphane Velut, Raja Vignesh Srinivasan**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper5.pdf)
+
 Abstract
 
 As the world is moving towards renewable energy

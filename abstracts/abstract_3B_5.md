@@ -2,6 +2,8 @@
 
 **Julia Pérez1 Luis J. Yebra, Francisco M. Márquez, Pedro J. Zufiria**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper5.pdf)
+
 Abstract
 
 The TCP-100 parabolic trough collectors (PTC) research

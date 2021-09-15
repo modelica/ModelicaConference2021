@@ -2,6 +2,8 @@
 
 **Johannes Brunnemann, Ales Vojacek, Thomas Koch**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7A_paper4.pdf)
+
 Abstract
 
 We present a physics based Modelica finite volume flow

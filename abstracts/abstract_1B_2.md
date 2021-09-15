@@ -2,6 +2,8 @@
 
 **Frederic Bruder, Lars Mikelsons**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1B_paper2.pdf)
+
 Abstract
 
 During the process of modelling an existing dynamic

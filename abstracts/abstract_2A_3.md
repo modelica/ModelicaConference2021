@@ -2,6 +2,8 @@
 
 **Thomas Beutlich, Dietmar Winkler**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2A_paper3.pdf)
+
 Abstract
 
 This article presents the different approaches and use

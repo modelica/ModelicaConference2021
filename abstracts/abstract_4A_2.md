@@ -2,6 +2,8 @@
 
 **Cláudio Gomes, Giuseppe Abbiati, Peter Gorm Larsen**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4A_paper2.pdf)
+
 Abstract
 
 Hybrid testing is an experimental technique extensively

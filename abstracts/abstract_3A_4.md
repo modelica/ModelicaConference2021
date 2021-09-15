@@ -2,6 +2,8 @@
 
 **Christian Groß Andrey W. Golubkov**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper4.pdf)
+
 Abstract
 
 Based on the Thermal Runaway (TR) experiments conducted

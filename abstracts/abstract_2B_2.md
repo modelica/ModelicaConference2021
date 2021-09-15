@@ -2,6 +2,8 @@
 
 **Chan Liu, Yikai Qian, Liping Chen, Yan Qu, Fanli Zhou**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2B_paper2.pdf)
+
 Abstract
 The new generation of LEO (Low Earth Orbit) communication
 satellite constellations have the advantages of low

@@ -2,6 +2,8 @@
 
 **John Batteh, Lixiang Li, Edwin Chiu, Ethan Chaleff**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6B_paper2.pdf)
+
 Abstract
 
 This paper describes the modeling and simulation of the

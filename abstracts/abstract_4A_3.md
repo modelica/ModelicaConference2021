@@ -2,6 +2,8 @@
 
 **Tobias Thummerer, Josef Kircher, Lars Mikelsons**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4A_paper3.pdf)
+
 Abstract
 
 This paper covers two major subjects: First, the presentation

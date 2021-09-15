@@ -2,6 +2,8 @@
 
 **Paolo Campanini, Gianni Ferretti**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper2.pdf)
+
 Abstract
 
 In this paper, the development of models of parallel manipulator

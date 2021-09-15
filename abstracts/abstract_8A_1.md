@@ -2,6 +2,8 @@
 
 **Jonatan Hellborg, Tonje Tollefsen, Khemraj Bhusal, Dietmar Winkler**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper1.pdf)
+
 Abstract
 
 This paper presents the modelling of a synchronisation

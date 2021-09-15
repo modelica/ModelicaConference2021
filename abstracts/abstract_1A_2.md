@@ -2,6 +2,8 @@
 
 **Cláudio Gomes, Masoud Najafi, Torsten Sommer, Matthias Blesken, Irina Zacharias, Oliver Kotte, Pierre R. Mai, Klaus Schuch, Karl Wernersson, Christian Bertsch, Torsten Blochwitz, Andreas Junghanns**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper2.pdf)
+
 Abstract
 This paper gives an overview of the FMI 3.0 support
 for two kinds of clock-based simulations: Synchronous

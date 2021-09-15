@@ -2,6 +2,8 @@
 
 **Hilding Elmqvist, Martin Otter, Andrea Neumayr, Gerhard Hippmann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1B_paper1.pdf)
+
 Abstract
 
 A new design of the Modia experimental modeling language

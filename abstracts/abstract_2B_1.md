@@ -1,6 +1,8 @@
 ## Aircraft Mission Simulation with the updated FlightDynamics Library
 **Marc May, Reiko Müller, Gertjan Looye**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2B_paper1.pdf)
+
 Abstract
 
 Aircraft mission simulation plays an essential role during

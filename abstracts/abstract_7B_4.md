@@ -3,6 +3,8 @@
 **Kathryn Hinkelman, Jing Wang, Chengliang Fan, Wangda Zuo, Antoine Gautier,
 Michael Wetter, Nicholas Long**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7B_paper4.pdf)
+
 Abstract
 
 District cooling (DC) continues to proliferate due to increasing

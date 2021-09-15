@@ -2,6 +2,8 @@
 
 **Filip Jorissen, Damien Picard, Kristoff Six, Lieve Helsen**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4B_paper1.pdf)
+
 Abstract
 
 Grey-box and black-box MPC approaches for building

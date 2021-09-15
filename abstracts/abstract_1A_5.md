@@ -2,6 +2,8 @@
 
 **Oliver Lenord, Martin Otter, Christoff Bürger, Michael Hussmann, Pierre Le Bihan, Jörg Niere, Andreas Pfeiffer, Robert Reicherdt, Kai Werther**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper5.pdf)
+
 Abstract
 
 This paper summarizes the final research results of the

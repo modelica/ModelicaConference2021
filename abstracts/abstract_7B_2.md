@@ -3,6 +3,8 @@
 **Huimin Zhang, Erhui Chen, Yangyang Liang, Li Wang1 Jun Wang, Shuhong Du,
 Liping Chen, Fanli Zhou, Ji Ding, Haiming Zhang**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7B_paper2.pdf)
+
 Abstract
 
 Highly compact micro nuclear reactors which have

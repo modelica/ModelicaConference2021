@@ -2,6 +2,8 @@
 
 **Clément Coïc, Adrian Murton, Juan Carlos Mendo, Mark Williams, Hubertus Tummescheit. Kurt Woodham**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper4.pdf)
+
 Abstract
 LOng Time Archiving and Retrieval (LOTAR) of models
 is key to using the full capabilities of model-Based

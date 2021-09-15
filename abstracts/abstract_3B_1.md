@@ -2,6 +2,8 @@
 
 **Marcus Wiens, Tobias Meyer, Philipp Thomas**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper1.pdf)
+
 Abstract
 Digital twins enable the observation, prediction, and
 optimization of a physical system and thus allow to realize

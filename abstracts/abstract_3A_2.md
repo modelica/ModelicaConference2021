@@ -2,6 +2,8 @@
 
 **Sebastian Kümper, Matthias Hellerer, Tobias Bellmann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper2.pdf)
+
 Abstract
 
 In this paper, the next generation of model-based visualization

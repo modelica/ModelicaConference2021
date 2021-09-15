@@ -2,6 +2,8 @@
 
 **Carles Ribas Tugores, Gerald Birngruber, Jürgen Fluch, Angelika Swatek, Gerald Schweiger**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6B_paper4.pdf)
+
 Abstract
 
 Decarbonization of industry is a key challenge to achieve

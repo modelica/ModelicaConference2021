@@ -2,6 +2,8 @@
 
 **Miro Eklund, Jouni Savolainen, Antti Lukkari, Tommi Karhela**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper5.pdf)
+
 Abstract
 
 This paper describes a collaborative digital twin approach

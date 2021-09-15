@@ -2,6 +2,8 @@
 
 ** Daniel Bouskela, Audrey Jardin, Arunkumar Palanisamy, Lennart Ochel, Adrian Pop3**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6A_paper4.pdf)
+
 Abstract
 
 Data reconciliation aims at improving the accuracy of

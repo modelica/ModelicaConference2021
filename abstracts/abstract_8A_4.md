@@ -2,6 +2,8 @@
 
 **Maria Nuschke, Sören Lohr, Adrien Guironnet, Marianne Saugier**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper4.pdf)
+
 Abstract
 This paper presents the open-source implementation in
 Modelica of the generic photovoltaics and wind turbine

@@ -2,6 +2,8 @@
 
 **L. Schindhelm, A. Vojacek, J. Brunnemann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7B_paper5.pdf)
+
 Abstract
 
 We present an assessment of different types of hydrogen

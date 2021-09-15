@@ -2,6 +2,8 @@
 
 **Luxshan Manoranjan, Dietmar Winkler**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper2.pdf)
+
 Abstract
 
 In recent years the operation of electrical power plants has

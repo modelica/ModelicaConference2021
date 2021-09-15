@@ -2,6 +2,8 @@
 
 **Nikolaos Fotias, Ran Bao, Hui Niu, Michael Tiller, Paul McGahan1 Adam Ingleby**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper3.pdf)
+
 Abstract
 
 In this paper, a Modelica library of electrified powertrain

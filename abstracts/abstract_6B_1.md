@@ -2,6 +2,8 @@
 
 *Arnav Pathak, Kilian Schneider, Victor Norrefeldt*
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6B_paper1.pdf)
+
 Abstract
 
 In the light of the Sars-CoV-2 pandemic, the dispersion

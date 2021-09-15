@@ -2,6 +2,8 @@
 
 **Guowen Li, Yangyang Fu, Amanda Pertzborn, Jin Wen, Zheng O’Neill**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2B_paper4.pdf)
+
 Abstract
 
 Energy storage systems have been gaining attention as a

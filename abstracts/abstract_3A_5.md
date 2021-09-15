@@ -2,6 +2,8 @@
 
 **Dirk Zimmer, Michael Meißner, Niels Weber**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper5.pdf)
+
 Abstract
 
 This paper introduces the DLR Thermofluid Stream Library:

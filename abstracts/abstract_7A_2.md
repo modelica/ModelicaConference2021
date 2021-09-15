@@ -2,6 +2,8 @@
 
 **Benoît Caillaud, Mathias Malandain, Albert Benveniste**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7A_paper2.pdf)
+
 Abstract
 Since its 3.3 release, Modelica offers the possibility to
 specify models of dynamical systems with multiple modes

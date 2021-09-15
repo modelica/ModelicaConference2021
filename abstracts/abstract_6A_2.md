@@ -2,6 +2,8 @@
 
 **Robert Reiser**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session6A_paper2.pdf)
+
 Abstract
 
 This paper introduces a new library for the manipulation

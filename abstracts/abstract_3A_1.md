@@ -2,6 +2,8 @@
 
 **Anne Senkel, Carsten Bode, Jan-Peter Heckel, Oliver Schülting, Gerhard Schmitz, Christian Becker, Alfons Kather**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper1.pdf)
+
 Abstract
 
 The open-source Modelica library TransiEnt Library was

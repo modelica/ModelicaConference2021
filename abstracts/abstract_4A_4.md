@@ -2,6 +2,8 @@
 
 **VUILLOD Bruno, HALLO Ludovic, PANETTIERI Enrico, MONTEMURRO Marco**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session4A_paper4.pdf)
+
 Abstract
 
 In Model-Based System Engineering (MBSE), some functional

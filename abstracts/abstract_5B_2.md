@@ -2,6 +2,8 @@
 
 **Johannes Fricke, Marcus Wiens, Niklas Requate, Mareike Leimeister**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5B_paper2.pdf)
+
 Abstract
 The development and simulation of engineering systems,
 especially wind turbines, is becoming increasingly

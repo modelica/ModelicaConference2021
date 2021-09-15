@@ -2,6 +2,8 @@
 
 **Diwang Ruan1 Zhirou Li, Clemens Gühmann**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper3.pdf)
+
 Abstract
 
 In data-driven bearing fault diagnosis, sufficient fault data

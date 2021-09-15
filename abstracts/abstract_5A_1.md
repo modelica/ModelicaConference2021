@@ -2,6 +2,8 @@
 
 **Francesco Casella, Adrien Guironnet**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper1.pdf)
+
 Abstract
 
 This paper introduces ScalableTestGrids, an open-source

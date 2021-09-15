@@ -2,6 +2,8 @@
 
 **Chris Rackauckas, Ranjan Anantharaman, Alan Edelman, Shashi Gowda, Maja Gwozdz, Anand Jain, Chris Laughman, Yingbo Ma, Francesco Martinuzzi, Avik Pal, Utkarsh Rajput, Elliot Saba1 Viral B. Shah**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1B_paper3.pdf)
+
 Abstract
 
 In this paper we introduce JuliaSim, a high-performance

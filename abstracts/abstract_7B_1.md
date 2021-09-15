@@ -2,6 +2,8 @@
 
 **Fabian Wüllhorst, David Jansen, Philipp Mehrfeld, Dirk Müller**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7B_paper1.pdf)
+
 Abstract
 
 Vapour compression machines such as heat pumps and

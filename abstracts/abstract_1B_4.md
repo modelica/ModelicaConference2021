@@ -2,6 +2,8 @@
 
 **John Tinnerholm, Adrian Pop, Andreas Heuermann, Martin Sjölund**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1B_paper4.pdf)
+
 Abstract
 
 This paper presents current work on our Modelica Compiler

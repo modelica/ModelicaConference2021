@@ -2,6 +2,8 @@
 
 **Sergio A. Dorado-Rojas, Giuseppe Laera, Marcelo de Castro Fernandes, Tetiana Bogodorova, Luigi Vanfretti**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session2A_paper4.pdf)
+
 Abstract
 
 This paper presents a tool to populate power flow results

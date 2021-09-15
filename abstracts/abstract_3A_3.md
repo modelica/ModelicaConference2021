@@ -2,6 +2,8 @@
 
 **Bernhard Thiele**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper3.pdf)
+
 Abstract
 
 Open Platform Communications Unified Architecture

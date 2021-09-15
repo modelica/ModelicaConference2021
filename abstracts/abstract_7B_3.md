@@ -2,6 +2,8 @@
 
 **Joy El Feghali, Guillaume Sandou, Hervé Guéguen, Pierre Haessig, Damien Faille**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session7B_paper3.pdf)
+
 Abstract
 
 Energy production and consumption systems increasingly
