@@ -1,9 +1,9 @@
-In-silico virtual prototyping multilevel modeling system for
-Cyborgs (CybSim) as a novel approach for current challenges in
-biosciencies
-Manuel Prado-Velasco
+## In-silico virtual prototyping multilevel modeling system for Cyborgs (CybSim) as a novel approach for current challenges in biosciencies
+
+**Manuel Prado-Velasco**
 
 Abstract
+
 There is a lack of Modeling and Simulation software systems
 in the bioscience arena that give both solutions compliant
 with current methodologies in drug discovery (pharmaceutic)
@@ -35,5 +35,5 @@ connectors’ causality, inner/outer scoping control
 and packages organization. These features are not supported
 by other modern acausal equation-based modeling
 languages like the EcosimPro language.
-Keywords: Cyborgs, Physiological modeling, PBPK,
-Mechanistic Modeling, acausal equation-based Modeling
+
+*Keywords: Cyborgs, Physiological modeling, PBPK, Mechanistic Modeling, acausal equation-based Modeling*

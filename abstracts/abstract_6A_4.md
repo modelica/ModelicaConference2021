@@ -1,9 +1,9 @@
-New Method to Perform Data Reconciliation with
-OpenModelica and ThermoSysPro
-Daniel Bouskela1 Audrey Jardin1 Arunkumar Palanisamy2
-Lennart Ochel2 Adrian Pop3
+## New Method to Perform Data Reconciliation with OpenModelica and ThermoSysPro
+
+** Daniel Bouskela, Audrey Jardin, Arunkumar Palanisamy, Lennart Ochel, Adrian Pop3**
 
 Abstract
+
 Data reconciliation aims at improving the accuracy of
 measurements by reducing the effect of random errors in
 the data. This is achieved by introducing redundancies on
@@ -22,5 +22,5 @@ conditions, as specified by the VDI 2048 standard. The
 new method has been implemented in OpenModelica. A
 simple example built with ThermoSysPro illustrates the
 method in detail.
-Keywords: data reconciliation, Modelica, model reuse,
-cyber-physical systems, structural analysis
+
+*Keywords: data reconciliation, Modelica, model reuse, cyber-physical systems, structural analysis*

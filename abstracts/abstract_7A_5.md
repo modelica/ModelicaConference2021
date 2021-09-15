@@ -1,5 +1,6 @@
-Compile-Time Impulse Analysis in Modelica
-Albert Benveniste1 Benoît Caillaud1 Mathias Malandain1
+## Compile-Time Impulse Analysis in Modelica
+
+**Albert Benveniste, Benoît Caillaud, Mathias Malandain**
 
 Abstract
 Since its 3.3 release, Modelica offers the possibility to
@@ -13,5 +14,5 @@ for identifying such impulsive behaviors and quantifying
 them in terms of their magnitude orders. Such algorithm
 can be used as an additional step of the structural analysis
 of Modelica models.
-Keywords: multimode DAE, structural analysis, impulsive
-behaviors
+
+*Keywords: multimode DAE, structural analysis, impulsive behaviors*

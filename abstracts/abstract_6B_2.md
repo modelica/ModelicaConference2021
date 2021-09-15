@@ -1,9 +1,9 @@
-Model-Based Development of the
-RespiraWorks Ventilator with Modelon
-Impact
-John Batteh1 Lixiang Li2 Edwin Chiu3 Ethan Chaleff4
+## Model-Based Development of the RespiraWorks Ventilator with Modelon Impact
+
+**John Batteh, Lixiang Li, Edwin Chiu, Ethan Chaleff**
 
 Abstract
+
 This paper describes the modeling and simulation of the
 RespiraWorks ventilator in Modelica with Modelon
 Impact and the Pneumatics Library. Following a brief
@@ -16,4 +16,5 @@ iterations of the ventilator design are shown. Lastly an
 overview of the model calibration process is provided, and
 the model results are compared with experimental data
 collected from the ventilator prototype.
-Keywords: pneumatics, ventilator, COVID-19
+
+*Keywords: pneumatics, ventilator, COVID-19*

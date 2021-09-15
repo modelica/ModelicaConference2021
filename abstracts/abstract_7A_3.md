@@ -1,7 +1,9 @@
-Evaluating a Tree Diff Algorithm for Use in Modelica Tools
-Martin Sjölund1
+## Evaluating a Tree Diff Algorithm for Use in Modelica Tools
+
+**Martin Sjölund**
 
 Abstract
+
 Modelica tools change the formatting of the source code
 when performing operations in the graphical user interface.
 These unintended changes cause problems for
@@ -33,5 +35,5 @@ large single file. Having a single large file takes slightly
 longer to process and produces additional unintended formatting
 changes compared to a library developed as a set
 of smaller files.
-Keywords: Modelica, diff, file comparison, conversion
-script, interactive user interface
+
+*Keywords: Modelica, diff, file comparison, conversion script, interactive user interface*

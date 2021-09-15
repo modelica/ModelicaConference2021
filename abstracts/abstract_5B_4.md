@@ -1,8 +1,9 @@
-Portable runtime environments for Python-based FMUs:
-Adding Docker support to UniFMU
-Thomas Schranz1 Christian Møldrup Legaard2 Daniella Tola2 Gerald Schweiger1
+## Portable runtime environments for Python-based FMUs: Adding Docker support to UniFMU
+
+**Thomas Schranz, Christian Møldrup Legaard, Daniella Tola, Gerald Schweiger**
 
 Abstract
+
 Co-simulation is a means to combine and leverage the
 strengths of different modeling tools, environments and
 formalisms and has been applied successfully in various
@@ -17,4 +18,5 @@ To describe the process of creating Dockerized FMUs using
 UniFMU, we show how to model and co-simulate
 a robotic arm and a controller using two Python-based
 FMUs.
-Keywords: FMI, Co-Sim, Python, Tool-Coupling, Docker
+
+*Keywords: FMI, Co-Sim, Python, Tool-Coupling, Docker*

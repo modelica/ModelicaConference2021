@@ -1,8 +1,9 @@
-Decarbonization of Industrial Energy Systems: A Case Study of
-Printed Circuit Board manufacturing
-Carles Ribas Tugores1 Gerald Birngruber2 Jürgen Fluch1 Angelika Swatek3 Gerald Schweiger2
+## Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing
+
+**Carles Ribas Tugores, Gerald Birngruber, Jürgen Fluch, Angelika Swatek, Gerald Schweiger**
 
 Abstract
+
 Decarbonization of industry is a key challenge to achieve
 the Paris climate goals. Digitalization of the industry is
 a cornerstone of this journey. In this paper we present
@@ -16,5 +17,5 @@ operating conditions. Integration of chiller’s waste heat
 can cover most of the low temperature grid heat demand
 while the additional generation of chilled water reduces
 the amount of water pump from and back to the river.
-Keywords: Digitalization, Industry, Modelling, Efficiency,
-Decarbonization
+
+*Keywords: Digitalization, Industry, Modelling, Efficiency, Decarbonization*

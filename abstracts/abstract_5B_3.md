@@ -1,9 +1,9 @@
-A Graph-Based Meta-Data Model for DevOps in
-Simulation-Driven Development and Generation of DCP
-Configurations
-Stefan H. Reiterer1 Clemens Schiffer1
+## A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations
+
+**Stefan H. Reiterer, Clemens Schiffer**
 
 Abstract
+
 To improve the quality of model-based development and
 to reduce testing effort DevOps practices gain more and
 more importance. However, most system engineers are
@@ -17,5 +17,5 @@ executed. A simple use case is described as an example
 of how this could be applied in practice. Furthermore, a
 Python implementation of a DCP master and a simple FMI
 to DCP wrapper are presented in this work.
-Keywords: Continuous Integration, DevOps, MBSE,
-NoSQL Graph Data Bases, DCP, SysML, UML, SSP
+
+*Keywords: Continuous Integration, DevOps, MBSE, NoSQL Graph Data Bases, DCP, SysML, UML, SSP*

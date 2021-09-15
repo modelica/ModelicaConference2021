@@ -1,6 +1,6 @@
-A Reduced Index Mode-Independent Structure Model
-Transformation for Multimode Modelica Models
-Benoît Caillaud1 Mathias Malandain1 Albert Benveniste1
+## A Reduced Index Mode-Independent Structure Model Transformation for Multimode Modelica Models
+
+**Benoît Caillaud, Mathias Malandain, Albert Benveniste**
 
 Abstract
 Since its 3.3 release, Modelica offers the possibility to
@@ -17,5 +17,5 @@ tools. Simulation results are presented on a simple,
 yet meaningful, physical system whose original Modelica
 model is not correctly handled by state-of-the-art Modelica
 tools.
-Keywords: Modelica, multimode DAE, structural analysis,
-model transformations
+
+*Keywords: Modelica, multimode DAE, structural analysis, model transformations*

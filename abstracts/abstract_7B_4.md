@@ -1,9 +1,10 @@
-A Case Study on CondenserWater Supply Temperature
-Optimization with a District Cooling Plant
-Kathryn Hinkelman1 Jing Wang1,2 Chengliang Fan1,3 Wangda Zuo1,2 Antoine Gautier4
-Michael Wetter4 Nicholas Long2
+## A Case Study on CondenserWater Supply Temperature Optimization with a District Cooling Plant
+
+**Kathryn Hinkelman, Jing Wang, Chengliang Fan, Wangda Zuo, Antoine Gautier,
+Michael Wetter, Nicholas Long**
 
 Abstract
+
 District cooling (DC) continues to proliferate due to increasing
 global cooling demands and economies of scale
 benefits; however, most district-scale modeling has focused
@@ -24,5 +25,5 @@ energy, with less than 1% of additional energy savings
 gained through daily optimization. This confirms previous
 studies’ findings that high frequency CWST optimizations
 are not necessary for the studied system.
-Keywords: District Cooling, Optimization, Chiller Plant,
-Waterside Economizer, Modelica Buildings Library
+
+*Keywords: District Cooling, Optimization, Chiller Plant, Waterside Economizer, Modelica Buildings Library*

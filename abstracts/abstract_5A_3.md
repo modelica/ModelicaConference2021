@@ -1,8 +1,9 @@
-Modeling of A Bearing Test Bench and Analysis of Defect Bearing
-Dynamics in Modelica
-Diwang Ruan1 Zhirou Li2 Clemens Gühmann1
+## Modeling of A Bearing Test Bench and Analysis of Defect Bearing Dynamics in Modelica
+
+**Diwang Ruan1 Zhirou Li, Clemens Gühmann**
 
 Abstract
+
 In data-driven bearing fault diagnosis, sufficient fault data
 is fundamental for algorithm training and validation, however,
 in most industry applications, only very few fault
@@ -18,5 +19,5 @@ defect size, defect shape and multiple defects. Theory
 and process to implement the virtual bearing test bench
 in Modelica were detailed, and 3 cases were conducted to
 validate the effectiveness of the proposed model.
-Keywords: Bearing Diagnosis, Fault Modeling, Modelica,
-Bearing Test Bench
+
+*Keywords: Bearing Diagnosis, Fault Modeling, Modelica, Bearing Test Bench*

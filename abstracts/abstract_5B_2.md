@@ -1,7 +1,6 @@
-Python Framework for Wind Turbines
-Enabling Test Automation of MoWiT
-Johannes Fricke1 Marcus Wiens1 Niklas Requate1
-Mareike Leimeister1
+## Python Framework for Wind Turbines Enabling Test Automation of MoWiT
+
+**Johannes Fricke, Marcus Wiens, Niklas Requate, Mareike Leimeister**
 
 Abstract
 The development and simulation of engineering systems,
@@ -20,5 +19,5 @@ simulations and the test automation for the load simulation
 code are provided by PyWiT (Python Framework for
 Wind Turbines), which will be presented here in more
 detail.
-Keywords Modelica, MoWiT, Python, Wind Turbines,
-Test Automation
+
+*Keywords Modelica, MoWiT, Python, Wind Turbines, Test Automation*

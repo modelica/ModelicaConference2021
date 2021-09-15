@@ -17,5 +17,4 @@ also reported. The benchmark suite can be used by tool
 developers to assess the capability of their tools to handle
 large-scale power generation and transmission models.
 
-*Keywords: Benchmark, Power System Simulation, Large-
-Scale Simulation, Performance, Open-Source*
+*Keywords: Benchmark, Power System Simulation, Large-Scale Simulation, Performance, Open-Source*

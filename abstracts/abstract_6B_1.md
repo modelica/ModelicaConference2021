@@ -1,8 +1,9 @@
-Use of Modelica to predict risk of Covid-19 infection in indoor
-environments
-Arnav Pathak Kilian Schneider Victor Norrefeldt
+## Use of Modelica to predict risk of Covid-19 infection in indoor environments
+
+*Arnav Pathak, Kilian Schneider, Victor Norrefeldt*
 
 Abstract
+
 In the light of the Sars-CoV-2 pandemic, the dispersion
 process of respiratory droplets released by potentially
 infected persons has been investigated in many studies

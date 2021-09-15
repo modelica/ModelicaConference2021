@@ -1,9 +1,10 @@
-Modelica Modeling and Simulation for a Micro Gas-Cooled
-Reactor
-Huimin Zhang1 Erhui Chen1 Yangyang Liang1 Li Wang1 Jun Wang1 Shuhong Du1
-Liping Chen2 Fanli Zhou2 Ji Ding2 Haiming Zhang2
+## Modelica Modeling and Simulation for a Micro Gas-Cooled Reactor
+
+**Huimin Zhang, Erhui Chen, Yangyang Liang, Li Wang1 Jun Wang, Shuhong Du,
+Liping Chen, Fanli Zhou, Ji Ding, Haiming Zhang**
 
 Abstract
+
 Highly compact micro nuclear reactors which have
 broad energy advantages in the application of ocean,
 land, space, and sky, become a hot research topic in
@@ -29,5 +30,5 @@ can be achieved by simply adjusting the helium
 inventory (or pressure) and the control rod position,
 while the core temperature and power generation
 efficiency kept constant.
-Keywords: system modeling, system simulation,
-micro-nuclear reactor, load-following
+
+*Keywords: system modeling, system simulation, micro-nuclear reactor, load-following*

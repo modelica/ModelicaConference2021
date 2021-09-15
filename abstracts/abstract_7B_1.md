@@ -1,8 +1,9 @@
-A Modular Model of Reversible Heat Pumps and Chillers for
-System Applications
-Fabian Wüllhorst1 David Jansen1 Philipp Mehrfeld1 Dirk Müller1
+## A Modular Model of Reversible Heat Pumps and Chillers for System Applications
+
+**Fabian Wüllhorst, David Jansen, Philipp Mehrfeld, Dirk Müller**
 
 Abstract
+
 Vapour compression machines such as heat pumps and
 chillers are vital for achieving climate goals. Efficiency
 of both depend mostly on system integration. In order
@@ -21,4 +22,6 @@ model options onto coupled building performance simulations.
 Computation time increases up to 50% when enabling
 all model options. Simultaneously, seasonal efficiency
 decreases by up to 23% when modeling all safety
-controls. Keywords: Heat Pump, Chiller, Modular Model
+controls.
+
+*Keywords: Heat Pump, Chiller, Modular Model*

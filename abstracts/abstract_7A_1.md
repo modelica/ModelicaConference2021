@@ -1,7 +1,9 @@
-Handling Multimode Models and Mode Changes in Modelica
-Albert Benveniste1 Benoît Caillaud1 Mathias Malandain1
+## Handling Multimode Models and Mode Changes in Modelica
+
+**Albert Benveniste, Benoît Caillaud, Mathias Malandain**
 
 Abstract
+
 Since its version 3.3, the Modelica language offers the
 possibility to model multimode systems having different
 DAE-based dynamics in each mode, thanks to the introduction
@@ -13,4 +15,5 @@ analysis for both multiple modes and mode change
 events and we show how correct code for restarts can be
 generated. Our approach is illustrated on two simple but
 representative mechanical systems.
-Keywords: multimode DAE, structural analysis
+
+*Keywords: multimode DAE, structural analysis*

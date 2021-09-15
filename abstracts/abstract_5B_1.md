@@ -1,8 +1,9 @@
-A Cloud-native Implementation of the Simulation as a
-Service-Concept Based on FMI
-Moritz Stüber1 Georg Frey1
+## A Cloud-native Implementation of the Simulation as a Service-Concept Based on FMI
+
+**Moritz Stüber, Georg Frey**
 
 Abstract
+
 Providing modelling and simulation capabilities as a service
 promises to increase their value by improving accessibility
 for non-expert users and software agents as well as
@@ -23,5 +24,5 @@ ensemble forecasts for PV systems and to search for an
 optimal parameter set using a genetic algorithm. Conceptual
 limitations and the resulting opportunities for further
 work are summarized.
-Keywords: simulation as a service, cloud-native simulation,
-service-oriented software architecture, FMI 2.0
+
+*Keywords: simulation as a service, cloud-native simulation, service-oriented software architecture, FMI 2.0*

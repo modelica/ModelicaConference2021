@@ -1,7 +1,9 @@
-Object Manipulation and Assembly in Modelica
-Robert Reiser1
+##Object Manipulation and Assembly in Modelica
+
+**Robert Reiser**
 
 Abstract
+
 This paper introduces a new library for the manipulation
 and assembly of 3D objects using Modelica. The method
 is based on collision detection, contact dynamics, position
@@ -14,5 +16,5 @@ capable of being manipulated by multiple grippers
 and conveyors or being assembled to an assembly. This
 allows a high degree of flexibility and the modeling effort
 can be decreased significantly.
-Keywords: manipulation, grasping, gripper, assembly,
-collision detection, contact dynamics, state machine
+
+*Keywords: manipulation, grasping, gripper, assembly, collision detection, contact dynamics, state machine*
