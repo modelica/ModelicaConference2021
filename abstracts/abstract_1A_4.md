@@ -1,6 +1,6 @@
 ## Modelica, FMI and SSP for LOTAR of Analytical mBSE models: First Implementation and Feedback
 
-**Clément Coïc, Adrian Murton, Juan Carlos Mendo, Mark Williams, Hubertus Tummescheit. Kurt Woodham**
+**Clément Coïc, Adrian Murton, Juan Carlos Mendo, Mark Williams, Hubertus Tummescheit, Kurt Woodham**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper4.pdf)
 
