@@ -1,6 +1,6 @@
 ## Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth
 
-**David Jansen, Veronika Richter, Diego Cordoba Lopez, Philipp Mehrfeld, Jérôme Frisch, Dirk Müller, Christoph van Treeck**
+**David Jansen, Veronika Richter, Diego Cordoba Lopez, Philipp Mehrfeld, Jérôme Frisch, Dirk Müller, Christoph van Treeck**
 
 Abstract
 
@@ -18,7 +18,7 @@ applied at the use case of a non-residential building. A
 self-developed toolchain was used to create equal models
 for ROM and EnergyPlus based on the same Building
 Information Modeling (BIM) model. The comparison
-shows that the reduced model deviates by 10%in annual
+shows that the reduced model deviates by ∼10%in annual
 heating and cooling. To increase accuracy and decrease
 computational effort the zoning strategy of non-residential
 buildings is investigated. The investigation shows that using
