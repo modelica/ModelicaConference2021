@@ -1,8 +1,9 @@
-Towards an automated generator of urban building energy loads
-from 3D building models
-Alessandro Maccarini1 Michael Mans2 Christian G. Sørensen1 Alireza Afshari1
+## Towards an automated generator of urban building energy loads from 3D building models
+
+**Alessandro Maccarini, Michael Mans, Christian G. Sørensen, Alireza Afshari**
 
 Abstract
+
 Buildings in cities are one of the major contributors of carbon
 emissions worldwide. Thus, improving building energy
 efficiency is one of the key strategies towards sustainable
@@ -21,5 +22,5 @@ add-on for the 3D creation application Blender. The first
 part of the paper describes the general approach and the
 architecture of the tool. In the second part, a demonstration
 of the tool’s capabilities is illustrated.
-Keywords: urban energy modeling, workflow automation,
-3D visual editing, Modelica code generation
+
+*Keywords: urban energy modeling, workflow automation, 3D visual editing, Modelica code generation*

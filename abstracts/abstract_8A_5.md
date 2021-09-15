@@ -1,8 +1,9 @@
-Modeling of Recompression Brayton Cycle And CSP Plant
-Architectures for Estimation of Performance & Efficiency
-Ashok Kumar Ravi1 Stéphane Velut2 Raja Vignesh Srinivasan3
+## Modeling of Recompression Brayton Cycle And CSP Plant Architectures for Estimation of Performance & Efficiency
+
+**Ashok Kumar Ravi, Stéphane Velut, Raja Vignesh Srinivasan**
 
 Abstract
+
 As the world is moving towards renewable energy
 sources for sustainable energy, concentrated solar
 power (CSP) systems with thermal energy storage
@@ -21,4 +22,5 @@ on the performance and efficiency of Brayton cycle are
 shown. Integration of Brayton cycle with CSP system
 is done and the solar power requirement based on
 turbine inlet temperatures is studied.
-Keywords: CSP, molten salt, Brayton cycle
+
+*Keywords: CSP, molten salt, Brayton cycle*

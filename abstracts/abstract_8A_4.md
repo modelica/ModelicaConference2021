@@ -1,6 +1,6 @@
-Implementation and Validation of the Generic WECC
-Photovoltaics and Wind Turbine Generator Models in Modelica
-Maria Nuschke1 Sören Lohr1 Adrien Guironnet2 Marianne Saugier2
+## Implementation and Validation of the Generic WECC Photovoltaics and Wind Turbine Generator Models in Modelica
+
+**Maria Nuschke, Sören Lohr, Adrien Guironnet, Marianne Saugier**
 
 Abstract
 This paper presents the open-source implementation in
@@ -17,6 +17,5 @@ OpenModelica1 and Dynawo 2 - an hybrid C++/Modelica
 open source suite of simulation tools for power systems
 - have been successfully validated against different reference
 tools.
-Keywords: Power System Modeling, Renewable Energy
-Sources, PV Models, Wind Turbine Generator Models,
-Open-Source
+
+*Keywords: Power System Modeling, Renewable Energy Sources, PV Models, Wind Turbine Generator Models, Open-Source*

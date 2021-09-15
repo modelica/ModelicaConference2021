@@ -1,8 +1,9 @@
-Developing Protective Limiters for a Hydro Power Controller in
-Modelica
-Luxshan Manoranjan1 Dietmar Winkler2
+## Developing Protective Limiters for a Hydro Power Controller in Modelica
+
+**Luxshan Manoranjan, Dietmar Winkler**
 
 Abstract
+
 In recent years the operation of electrical power plants has
 become more and more challenging due to a more dynamic
 operation pattern in order to keep the voltage quality
@@ -22,5 +23,5 @@ build with the use of OpenHPL (TMCC 2019). The behaviour
 of the limiters have been tested against a verified
 generator model of the OpenIPSL (ALSETLab et al.
 2018) comparing the theoretical behaviour.
-Keywords: hydro power, Modelica, excitation system, protective
-controller, limiter
+
+*Keywords: hydro power, Modelica, excitation system, protective controller, limiter*

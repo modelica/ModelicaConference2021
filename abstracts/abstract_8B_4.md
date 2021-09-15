@@ -1,7 +1,6 @@
-Accurate Robot Simulation for Industrial Manufacturing Processes
-using FMI and DCP Standards
-Nihar Hasmukhbhai Shah1 Perig Le Henaff2 Clemens Schiffer3 Martin Krammer3
-Martin Benedikt3
+## Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards
+
+**Nihar Hasmukhbhai Shah, Perig Le Henaff, Clemens Schiffer, Martin Krammer, Martin Benedikt**
 
 Abstract
 Increased demand for customized products and reduced
@@ -36,5 +35,5 @@ are highly customized, frequent reprogramming of robotic
 systems is needed. During these component manufacturing
 processes the challenge is to maintain a high level of
 accuracy and reliability.
-Keywords: manufacturing, robotics, co-simulation, virtualization,
-standards
+
+*Keywords: manufacturing, robotics, co-simulation, virtualization, standards*

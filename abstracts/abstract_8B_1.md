@@ -1,8 +1,9 @@
-Parallel Fast: An Efficient Coupling Approach for Co-Simulation
-with Different Coupling Step Sizes
-Franz Holzinger1,2 Klaus Schuch2 Martin Benedikt1 Daniel Watzenig1,3
+## Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes
+
+**Franz Holzinger, Klaus Schuch, Martin Benedikt, Daniel Watzenig**
 
 Abstract
+
 The primary task of co-simulation is the synchronization
 and exchange of data between the subsystems, e.g.,
 FMUs, at certain coupling points. If the FMUs have different

@@ -1,8 +1,9 @@
-An Approach for Reducing Gas Turbines Usage by Wind Power
-and Energy Storage
-Nejm Saadallah1 Yngve Heggelund2
+## An Approach for Reducing Gas Turbines Usage by Wind Power and Energy Storage
+
+**Nejm Saadallah, Yngve Heggelund**
 
 Abstract
+
 Offshore oil and gas platforms can accelerate their shift
 towards lower greenhouse gases emissions by combining
 wind power generation and energy storage systems. However,
@@ -22,4 +23,5 @@ be applied to determine the right control and optimization
 strategy to control the energy system towards lower
 greenhouse gas emissions without compromising the balance
 between the power supply and demand.
-Keywords: power systems, modelica, oil platform electrification
+
+*Keywords: power systems, modelica, oil platform electrification*

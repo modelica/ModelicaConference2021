@@ -1,10 +1,9 @@
-Examination of Reduced Order Building Models with Different
-Zoning Strategies to Simulate Larger Non-Residential Buildings
-Based on BIM as Single Source of Truth
-David Jansen1 Veronika Richter2 Diego Cordoba Lopez1 Philipp Mehrfeld1 Jérôme Frisch2
-Dirk Müller1 Christoph van Treeck2
+## Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth
+
+**David Jansen, Veronika Richter, Diego Cordoba Lopez, Philipp Mehrfeld, Jérôme Frisch, Dirk Müller, Christoph van Treeck**
 
 Abstract
+
 Non-residential buildings are accountable for 11% of
 global energy-related CO2 emissions (United Nations Environment
 Programme 2018). To increase the performance
@@ -25,4 +24,5 @@ computational effort the zoning strategy of non-residential
 buildings is investigated. The investigation shows that using
 a suitable zoning approach can reduce the computational
 effort by up to 97 %.
-Keywords: BEPS, BIM, zoning, reduced order, ROM
+
+*Keywords: BEPS, BIM, zoning, reduced order, ROM*
