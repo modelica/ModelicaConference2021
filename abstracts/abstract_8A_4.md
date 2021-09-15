@@ -14,8 +14,7 @@ reports. It uses as much as possible existing Modelica
 Standard Library blocks and extends common parts
 whenever possible. The simulation results obtained with
 OpenModelica1 and Dynawo 2 - an hybrid C++/Modelica
-open source suite of simulation tools for power systems
-- have been successfully validated against different reference
+open source suite of simulation tools for power systems - have been successfully validated against different reference
 tools.
 
 *Keywords: Power System Modeling, Renewable Energy Sources, PV Models, Wind Turbine Generator Models, Open-Source*
