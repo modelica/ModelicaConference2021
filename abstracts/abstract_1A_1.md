@@ -3,6 +3,8 @@
 
 **Andreas Junghanns, Torstens Blochwitz, Christian Bertsch, Torsten Sommer, Karl Wernersson, Andreas Pillekeit, Irina Zacharias, Matthias Blesken, Pierre R. Mai, Klaus Schuch, Christian Schulze, Cláudio Gomes, Masoud Najafi**
 
+[&#8594; full paper](../proceedings/papers/Modelica2021session1A_paper1.pdf)
+
 Abstract
 
 The Functional Mock-up Interface (FMI) (Modelica Association
