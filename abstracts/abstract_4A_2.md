@@ -1,4 +1,4 @@
-##Seismic Hybrid Testing using FMI-based Co-Simulation
+## Seismic Hybrid Testing using FMI-based Co-Simulation
 
 **Cláudio Gomes, Giuseppe Abbiati, Peter Gorm Larsen**
 

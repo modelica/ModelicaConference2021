@@ -1,4 +1,4 @@
-##Object Manipulation and Assembly in Modelica
+## Object Manipulation and Assembly in Modelica
 
 **Robert Reiser**
 
