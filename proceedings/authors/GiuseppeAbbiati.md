@@ -1,5 +1,6 @@
 ## Papers by Giuseppe Abbiati
-<table><a href="/proceedings/authors/ClaudioGomes">Cláudio Gomes</a>, <a href="/proceedings/authors/GiuseppeAbbiati">Giuseppe Abbiati</a> and <a href="/proceedings/authors/PeterGormLarsen">Peter Gorm Larsen</a>, </td>
+<table>
+<a href="/proceedings/authors/ClaudioGomes">Cláudio Gomes</a>, <a href="/proceedings/authors/GiuseppeAbbiati">Giuseppe Abbiati</a> and <a href="/proceedings/authors/PeterGormLarsen">Peter Gorm Larsen</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Seismic Hybrid Testing using FMI-based Co-Simulation</td>

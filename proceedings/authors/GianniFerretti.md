@@ -1,5 +1,6 @@
 ## Papers by Gianni Ferretti
-<table><a href="/proceedings/authors/PaoloCampanini">Paolo Campanini</a> and <a href="/proceedings/authors/GianniFerretti">Gianni Ferretti</a>, </td>
+<table>
+<a href="/proceedings/authors/PaoloCampanini">Paolo Campanini</a> and <a href="/proceedings/authors/GianniFerretti">Gianni Ferretti</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Object-Oriented Models of Parallel Manipulators</td>

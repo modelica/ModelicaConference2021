@@ -1,5 +1,6 @@
 ## Papers by Frederic Bruder
-<table><a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
+<table>
+<a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Modia and Julia for Grey Box Modeling</td>

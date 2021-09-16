@@ -1,5 +1,6 @@
 ## Papers by Luxshan Manoranjan
-<table><a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<table>
+<a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Developing Protective Limiters for a Hydro Power Controller in Modelica</td>

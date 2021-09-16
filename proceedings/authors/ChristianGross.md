@@ -1,5 +1,6 @@
 ## Papers by Christian Groß
-<table><a href="/proceedings/authors/ChristianGross">Christian Groß</a> and <a href="/proceedings/authors/AndrejW.Golubkov">Andrej W. Golubkov</a>, </td>
+<table>
+<a href="/proceedings/authors/ChristianGross">Christian Groß</a> and <a href="/proceedings/authors/AndrejW.Golubkov">Andrej W. Golubkov</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>A Modelica library for Thermal-Runaway Propagation in Lithium-Ion Batteries</td>

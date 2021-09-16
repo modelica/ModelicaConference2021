@@ -1,5 +1,6 @@
 ## Papers by Fabian Wüllhorst
-<table><a href="/proceedings/authors/FabianWullhorst">Fabian Wüllhorst</a>, <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a>, </td>
+<table>
+<a href="/proceedings/authors/FabianWullhorst">Fabian Wüllhorst</a>, <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>A Modular Model of Reversible Heat Pumps and Chillers for System Applications</td>

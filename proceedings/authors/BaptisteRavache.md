@@ -1,5 +1,6 @@
 ## Papers by Baptiste Ravache
-<table><a href="/proceedings/authors/MichaelWetter">Michael Wetter</a>, <a href="/proceedings/authors/KyleBenne">Kyle Benne</a> and <a href="/proceedings/authors/BaptisteRavache">Baptiste Ravache</a>, </td>
+<table>
+<a href="/proceedings/authors/MichaelWetter">Michael Wetter</a>, <a href="/proceedings/authors/KyleBenne">Kyle Benne</a> and <a href="/proceedings/authors/BaptisteRavache">Baptiste Ravache</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus</td>

@@ -1,5 +1,6 @@
 ## Papers by Diwang Ruan
-<table><a href="/proceedings/authors/DiwangRuan">Diwang Ruan</a>, <a href="/proceedings/authors/ZhirouLi">Zhirou Li</a> and <a href="/proceedings/authors/ClemensGuhmann">Clemens Gühmann</a>, </td>
+<table>
+<a href="/proceedings/authors/DiwangRuan">Diwang Ruan</a>, <a href="/proceedings/authors/ZhirouLi">Zhirou Li</a> and <a href="/proceedings/authors/ClemensGuhmann">Clemens Gühmann</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Modeling of A Bearing Test Bench and Analysis of Defect Bearing Dynamics in Modelica</td>

@@ -1,5 +1,6 @@
 ## Papers by Benoît Caillaud
-<table><a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a>, </td>
+<table>
+<a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Handling Multimode Models and Mode Changes in Modelica</td>
@@ -7,7 +8,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_7A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session7A_paper1.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a>, <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a> and <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, </td>
 </tr>
 <tr><th>Title:</th>
@@ -16,7 +19,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_7A_2">abstract</a> <a href="/proceedings/papers/Modelica2021session7A_paper2.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a>, </td>
 </tr>
 <tr><th>Title:</th>

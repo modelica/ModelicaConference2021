@@ -1,5 +1,6 @@
 ## Papers by Adrien Guironnet
-<table><a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
+<table>
+<a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Electromagnetic Transient Simulation of Large Power Networks with Modelica</td>
@@ -7,7 +8,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_4A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session4A_paper1.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
 </tr>
 <tr><th>Title:</th>
@@ -16,7 +19,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_5A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session5A_paper1.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/MariaNuschke">Maria Nuschke</a>, <a href="/proceedings/authors/SorenLohr">Sören Lohr</a>, <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a> and <a href="/proceedings/authors/MarianneSaugier">Marianne Saugier</a>, </td>
 </tr>
 <tr><th>Title:</th>

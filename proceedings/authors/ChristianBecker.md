@@ -1,5 +1,6 @@
 ## Papers by Christian Becker
-<table><a href="/proceedings/authors/AnneSenkel">Anne Senkel</a>, <a href="/proceedings/authors/CarstenBode">Carsten Bode</a>, <a href="/proceedings/authors/Jan-PeterHeckel">Jan-Peter Heckel</a>, <a href="/proceedings/authors/OliverSchulting">Oliver Schülting</a>, <a href="/proceedings/authors/GerhardSchmitz">Gerhard Schmitz</a>, <a href="/proceedings/authors/ChristianBecker">Christian Becker</a> and <a href="/proceedings/authors/AlfonsKather">Alfons Kather</a>, </td>
+<table>
+<a href="/proceedings/authors/AnneSenkel">Anne Senkel</a>, <a href="/proceedings/authors/CarstenBode">Carsten Bode</a>, <a href="/proceedings/authors/Jan-PeterHeckel">Jan-Peter Heckel</a>, <a href="/proceedings/authors/OliverSchulting">Oliver Schülting</a>, <a href="/proceedings/authors/GerhardSchmitz">Gerhard Schmitz</a>, <a href="/proceedings/authors/ChristianBecker">Christian Becker</a> and <a href="/proceedings/authors/AlfonsKather">Alfons Kather</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Status of the TransiEnt Library: Transient Simulation of Complex Integrated Energy Systems</td>

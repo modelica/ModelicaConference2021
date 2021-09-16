@@ -1,5 +1,6 @@
 ## Papers by Jin Wen
-<table><a href="/proceedings/authors/GuowenLi">Guowen Li</a>, <a href="/proceedings/authors/YangyangFu">Yangyang Fu</a>, <a href="/proceedings/authors/AmandaPertzborn">Amanda Pertzborn</a>, <a href="/proceedings/authors/JinWen">Jin Wen</a> and <a href="/proceedings/authors/ZhengO'Neill">Zheng O'Neill</a>, </td>
+<table>
+<a href="/proceedings/authors/GuowenLi">Guowen Li</a>, <a href="/proceedings/authors/YangyangFu">Yangyang Fu</a>, <a href="/proceedings/authors/AmandaPertzborn">Amanda Pertzborn</a>, <a href="/proceedings/authors/JinWen">Jin Wen</a> and <a href="/proceedings/authors/ZhengO'Neill">Zheng O'Neill</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>An Ice Storage Tank Modelica Model: Implementation and Validation</td>

@@ -1,5 +1,6 @@
 ## Papers by Lars Mikelsons
-<table><a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
+<table>
+<a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Modia and Julia for Grey Box Modeling</td>
@@ -7,7 +8,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_1B_2">abstract</a> <a href="/proceedings/papers/Modelica2021session1B_paper2.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/TobiasThummerer">Tobias Thummerer</a>, <a href="/proceedings/authors/JosefKircher">Josef Kircher</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
 </tr>
 <tr><th>Title:</th>

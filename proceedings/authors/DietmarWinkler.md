@@ -1,5 +1,6 @@
 ## Papers by Dietmar Winkler
-<table><a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<table>
+<a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Efficient Parameterization of Modelica Models</td>
@@ -7,7 +8,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_2A_3">abstract</a> <a href="/proceedings/papers/Modelica2021session2A_paper3.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/JonatanHellborg">Jonatan Hellborg</a>, <a href="/proceedings/authors/TonjeTollefsen">Tonje Tollefsen</a>, <a href="/proceedings/authors/KhemrajBhusal">Khemraj Bhusal</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
 </tr>
 <tr><th>Title:</th>
@@ -16,7 +19,9 @@
 <tr><th>Paper:</th>
 <td><a href="/abstracts/abstract_8A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session8A_paper1.pdf">full paper</a></td>
 </tr>
+</table>
 
+<table>
 <a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
 </tr>
 <tr><th>Title:</th>

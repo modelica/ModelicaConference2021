@@ -1,5 +1,6 @@
 ## Papers by Jouni Savolainen
-<table><a href="/proceedings/authors/MiroEklund">Miro Eklund</a>, <a href="/proceedings/authors/JouniSavolainen">Jouni Savolainen</a>, <a href="/proceedings/authors/AnttiLukkari">Antti Lukkari</a> and <a href="/proceedings/authors/TommiKarhela">Tommi Karhela</a>, </td>
+<table>
+<a href="/proceedings/authors/MiroEklund">Miro Eklund</a>, <a href="/proceedings/authors/JouniSavolainen">Jouni Savolainen</a>, <a href="/proceedings/authors/AnttiLukkari">Antti Lukkari</a> and <a href="/proceedings/authors/TommiKarhela">Tommi Karhela</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Optimizing life-cycle costs for pumps and powertrains using FMI co-simulation</td>

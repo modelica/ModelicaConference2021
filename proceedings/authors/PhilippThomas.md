@@ -1,5 +1,6 @@
 ## Papers by Philipp Thomas
-<table><a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/TobiasMeyer">Tobias Meyer</a> and <a href="/proceedings/authors/PhilippThomas">Philipp Thomas</a>, </td>
+<table>
+<a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/TobiasMeyer">Tobias Meyer</a> and <a href="/proceedings/authors/PhilippThomas">Philipp Thomas</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>The Potential of FMI for the Development of Digital Twins for Large Modular Multi-Domain Systems</td>

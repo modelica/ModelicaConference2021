@@ -1,5 +1,6 @@
 ## Papers by Nejm Saadallah
-<table><a href="/proceedings/authors/NejmSaadallah">Nejm Saadallah</a> and <a href="/proceedings/authors/YngveHeggelund">Yngve Heggelund</a>, </td>
+<table>
+<a href="/proceedings/authors/NejmSaadallah">Nejm Saadallah</a> and <a href="/proceedings/authors/YngveHeggelund">Yngve Heggelund</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>An Approach for Reducing Gas Turbines Usage by Wind Power and Energy Storage</td>

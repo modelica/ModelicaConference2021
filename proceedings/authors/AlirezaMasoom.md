@@ -1,5 +1,6 @@
 ## Papers by Alireza Masoom
-<table><a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
+<table>
+<a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Electromagnetic Transient Simulation of Large Power Networks with Modelica</td>

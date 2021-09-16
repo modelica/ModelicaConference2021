@@ -47,7 +47,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         fout_session.write(paper_html)
 
         for author in authors:
-          all_authors[author] = all_authors.get(author, []) + [paper_html]
+          all_authors[author] = all_authors.get(author, []) + ["<table>\n" + paper_html + "</table>\n"]
 
       fout_session.write('</table>\n')
       fout_session.write('\n<br />\n')
@@ -61,7 +61,5 @@ with open("proceedings/authors.md", "w") as fout_authors:
     fout_authors.write("* [%s, %s](/proceedings/authors/%s)\n" % (last_name, first_name, author_filename))
     with open("proceedings/authors/%s.md" % author_filename, "w") as fout_author:
       fout_author.write("## Papers by %s\n" % author)
-      fout_author.write("<table>")
       fout_author.write("\n".join(all_authors[author]))
-      fout_author.write("</table>")
 

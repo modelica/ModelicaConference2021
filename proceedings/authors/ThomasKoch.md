@@ -1,5 +1,6 @@
 ## Papers by Thomas Koch
-<table><a href="/proceedings/authors/JohannesBrunnemann">Johannes Brunnemann</a>, <a href="/proceedings/authors/AlesVojacek">Ales Vojacek</a> and <a href="/proceedings/authors/ThomasKoch">Thomas Koch</a>, </td>
+<table>
+<a href="/proceedings/authors/JohannesBrunnemann">Johannes Brunnemann</a>, <a href="/proceedings/authors/AlesVojacek">Ales Vojacek</a> and <a href="/proceedings/authors/ThomasKoch">Thomas Koch</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Numerically Robust Six-Equation Two-Phase Flow Model for Stationary and Moving Systems in Modelica</td>

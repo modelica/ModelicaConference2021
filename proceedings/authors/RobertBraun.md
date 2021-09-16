@@ -1,5 +1,6 @@
 ## Papers by Robert Braun
-<table><a href="/proceedings/authors/RobertHallqvist">Robert Hällqvist</a>, <a href="/proceedings/authors/RaghuChaitanyaMunjulury">Raghu Chaitanya Munjulury</a>, <a href="/proceedings/authors/RobertBraun">Robert Braun</a>, <a href="/proceedings/authors/MagnusEek">Magnus Eek</a> and <a href="/proceedings/authors/PetterKrus">Petter Krus</a>, </td>
+<table>
+<a href="/proceedings/authors/RobertHallqvist">Robert Hällqvist</a>, <a href="/proceedings/authors/RaghuChaitanyaMunjulury">Raghu Chaitanya Munjulury</a>, <a href="/proceedings/authors/RobertBraun">Robert Braun</a>, <a href="/proceedings/authors/MagnusEek">Magnus Eek</a> and <a href="/proceedings/authors/PetterKrus">Petter Krus</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Engineering Domain Interoperability Using the System Structure and Parameterization (SSP) Standard</td>

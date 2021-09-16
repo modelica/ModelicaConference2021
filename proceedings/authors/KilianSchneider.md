@@ -1,5 +1,6 @@
 ## Papers by Kilian Schneider
-<table><a href="/proceedings/authors/ArnavPathak">Arnav Pathak</a>, <a href="/proceedings/authors/KilianSchneider">Kilian Schneider</a> and <a href="/proceedings/authors/VictorNorrefeldt">Victor Norrefeldt</a>, </td>
+<table>
+<a href="/proceedings/authors/ArnavPathak">Arnav Pathak</a>, <a href="/proceedings/authors/KilianSchneider">Kilian Schneider</a> and <a href="/proceedings/authors/VictorNorrefeldt">Victor Norrefeldt</a>, </td>
 </tr>
 <tr><th>Title:</th>
 <td>Use of Modelica to predict risk of Covid-19 infection in indoor environments</td>
