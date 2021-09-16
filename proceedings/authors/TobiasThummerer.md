@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/TobiasThummerer">Tobias Thummerer</a>, <a href="/proceedings/authors/JosefKircher">Josef Kircher</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_4A_3">abstract</a> <a href="/proceedings/papers/Modelica2021session4A_paper3.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_4A_3">abstract</a> / <a href="/proceedings/papers/Modelica2021session4A_paper3.pdf">full paper</a></td>
 </tr>
 </table><br>

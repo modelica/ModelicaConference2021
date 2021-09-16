@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/NejmSaadallah">Nejm Saadallah</a> and <a href="/proceedings/authors/YngveHeggelund">Yngve Heggelund</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_8A_3">abstract</a> <a href="/proceedings/papers/Modelica2021session8A_paper3.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_8A_3">abstract</a> / <a href="/proceedings/papers/Modelica2021session8A_paper3.pdf">full paper</a></td>
 </tr>
 </table><br>

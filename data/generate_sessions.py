@@ -43,7 +43,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         paper_html += "</td>\n"
         paper_html += "</tr>\n"
         paper_html += '<tr><th>Paper:</th>\n'
-        paper_html += '<td><a href="/abstracts/abstract_%s_%d">abstract</a> <a href="/proceedings/papers/Modelica2021session%s_paper%d.pdf">full paper</a></td>\n' % (num, i, num, i)
+        paper_html += '<td><a href="/abstracts/abstract_%s_%d">abstract</a> / <a href="/proceedings/papers/Modelica2021session%s_paper%d.pdf">full paper</a></td>\n' % (num, i, num, i)
         paper_html += '</tr>\n'
         paper_html += "</table><br>\n"
         fout_session.write(paper_html)

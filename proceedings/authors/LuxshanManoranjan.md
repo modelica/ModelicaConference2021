@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_8A_2">abstract</a> <a href="/proceedings/papers/Modelica2021session8A_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_8A_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session8A_paper2.pdf">full paper</a></td>
 </tr>
 </table><br>

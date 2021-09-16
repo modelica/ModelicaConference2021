@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_5A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session5A_paper1.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_5A_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session5A_paper1.pdf">full paper</a></td>
 </tr>
 </table><br>

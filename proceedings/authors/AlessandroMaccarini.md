@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/AlessandroMaccarini">Alessandro Maccarini</a>, <a href="/proceedings/authors/MichaelMans">Michael Mans</a>, <a href="/proceedings/authors/ChristianGrauSorensen">Christian Grau Sørensen</a> and <a href="/proceedings/authors/AlirezaAfshari">Alireza Afshari</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_8B_2">abstract</a> <a href="/proceedings/papers/Modelica2021session8B_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_8B_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session8B_paper2.pdf">full paper</a></td>
 </tr>
 </table><br>

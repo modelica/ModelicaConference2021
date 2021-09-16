@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/RobertReiser">Robert Reiser</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_6A_2">abstract</a> <a href="/proceedings/papers/Modelica2021session6A_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_6A_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session6A_paper2.pdf">full paper</a></td>
 </tr>
 </table><br>

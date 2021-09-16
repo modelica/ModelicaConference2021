@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/JohnTinnerholm">John Tinnerholm</a>, <a href="/proceedings/authors/AdrianPop">Adrian Pop</a>, <a href="/proceedings/authors/AndreasHeuermann">Andreas Heuermann</a> and <a href="/proceedings/authors/MartinSjolund">Martin Sjölund</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_1B_4">abstract</a> <a href="/proceedings/papers/Modelica2021session1B_paper4.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_1B_4">abstract</a> / <a href="/proceedings/papers/Modelica2021session1B_paper4.pdf">full paper</a></td>
 </tr>
 </table><br>

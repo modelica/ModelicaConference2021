@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_1B_2">abstract</a> <a href="/proceedings/papers/Modelica2021session1B_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_1B_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session1B_paper2.pdf">full paper</a></td>
 </tr>
 </table><br>

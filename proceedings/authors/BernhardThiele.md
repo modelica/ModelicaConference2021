@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/BernhardThiele">Bernhard Thiele</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_3A_3">abstract</a> <a href="/proceedings/papers/Modelica2021session3A_paper3.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_3A_3">abstract</a> / <a href="/proceedings/papers/Modelica2021session3A_paper3.pdf">full paper</a></td>
 </tr>
 </table><br>

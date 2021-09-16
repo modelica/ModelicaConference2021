@@ -7,7 +7,7 @@
 <a href="/proceedings/authors/SebastianKumper">Sebastian Kümper</a>, <a href="/proceedings/authors/MatthiasHellerer">Matthias Hellerer</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_3A_2">abstract</a> <a href="/proceedings/papers/Modelica2021session3A_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_3A_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session3A_paper2.pdf">full paper</a></td>
 </tr>
 </table><br>
 
@@ -19,6 +19,6 @@
 <a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_6A_1">abstract</a> <a href="/proceedings/papers/Modelica2021session6A_paper1.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_6A_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session6A_paper1.pdf">full paper</a></td>
 </tr>
 </table><br>
