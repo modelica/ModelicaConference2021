@@ -1,6 +1,8 @@
 ## Papers by Michael Meißner
 <table>
-<a href="/proceedings/authors/DirkZimmer">Dirk Zimmer</a>, <a href="/proceedings/authors/MichaelMeissner">Michael Meißner</a> and <a href="/proceedings/authors/NielsWeber">Niels Weber</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/DirkZimmer">Dirk Zimmer</a>, <a href="/proceedings/authors/MichaelMeissner">Michael Meißner</a> and <a href="/proceedings/authors/NielsWeber">Niels Weber</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>The DLR ThermoFluidStream Library</td>

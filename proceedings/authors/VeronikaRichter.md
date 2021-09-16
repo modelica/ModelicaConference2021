@@ -1,6 +1,8 @@
 ## Papers by Veronika Richter
 <table>
-<a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/VeronikaRichter">Veronika Richter</a>, <a href="/proceedings/authors/DiegoCordobaLopez">Diego Cordoba Lopez</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a>, <a href="/proceedings/authors/JeromeFrisch">Jérôme Frisch</a>, <a href="/proceedings/authors/DirkMuller">Dirk Müller</a> and <a href="/proceedings/authors/ChristophvanTreeck">Christoph van Treeck</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/VeronikaRichter">Veronika Richter</a>, <a href="/proceedings/authors/DiegoCordobaLopez">Diego Cordoba Lopez</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a>, <a href="/proceedings/authors/JeromeFrisch">Jérôme Frisch</a>, <a href="/proceedings/authors/DirkMuller">Dirk Müller</a> and <a href="/proceedings/authors/ChristophvanTreeck">Christoph van Treeck</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth</td>

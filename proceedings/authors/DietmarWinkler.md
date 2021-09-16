@@ -1,6 +1,8 @@
 ## Papers by Dietmar Winkler
 <table>
-<a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Efficient Parameterization of Modelica Models</td>
@@ -11,7 +13,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/JonatanHellborg">Jonatan Hellborg</a>, <a href="/proceedings/authors/TonjeTollefsen">Tonje Tollefsen</a>, <a href="/proceedings/authors/KhemrajBhusal">Khemraj Bhusal</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/JonatanHellborg">Jonatan Hellborg</a>, <a href="/proceedings/authors/TonjeTollefsen">Tonje Tollefsen</a>, <a href="/proceedings/authors/KhemrajBhusal">Khemraj Bhusal</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Modelling the Synchronisation Control for a Hydro Power Controller</td>
@@ -22,7 +26,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Developing Protective Limiters for a Hydro Power Controller in Modelica</td>

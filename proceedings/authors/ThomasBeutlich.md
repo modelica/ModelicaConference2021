@@ -1,6 +1,8 @@
 ## Papers by Thomas Beutlich
 <table>
-<a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Efficient Parameterization of Modelica Models</td>

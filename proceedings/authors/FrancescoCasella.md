@@ -1,6 +1,8 @@
 ## Papers by Francesco Casella
 <table>
-<a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>ScalableTestGrids - An Open-Source and Flexible Benchmark Suite to Assess Modelica Tool Performance on Large-Scale Power System Test Cases</td>

@@ -1,6 +1,8 @@
 ## Papers by Tobias Bellmann
 <table>
-<a href="/proceedings/authors/SebastianKumper">Sebastian Kümper</a>, <a href="/proceedings/authors/MatthiasHellerer">Matthias Hellerer</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/SebastianKumper">Sebastian Kümper</a>, <a href="/proceedings/authors/MatthiasHellerer">Matthias Hellerer</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>DLR Visualization 2 Library - Real-Time Graphical Environments for Virtual Commissioning</td>
@@ -11,7 +13,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>General Purpose Lua Interpreter for Modelica</td>

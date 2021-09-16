@@ -1,6 +1,8 @@
 ## Papers by Monika Wicke
 <table>
-<a href="/proceedings/authors/TorstenSchwan">Torsten Schwan</a>, <a href="/proceedings/authors/MonikaWicke">Monika Wicke</a>, <a href="/proceedings/authors/AlexanderHentschel">Alexander Hentschel</a> and <a href="/proceedings/authors/ReneUnger">René Unger</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/TorstenSchwan">Torsten Schwan</a>, <a href="/proceedings/authors/MonikaWicke">Monika Wicke</a>, <a href="/proceedings/authors/AlexanderHentschel">Alexander Hentschel</a> and <a href="/proceedings/authors/ReneUnger">René Unger</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Modelica Models as Integral Part of the Building Design Process</td>

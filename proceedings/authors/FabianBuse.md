@@ -1,6 +1,8 @@
 ## Papers by Fabian Buse
 <table>
-<a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>General Purpose Lua Interpreter for Modelica</td>

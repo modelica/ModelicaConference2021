@@ -1,6 +1,8 @@
 ## Papers by Andreas Heuermann
 <table>
-<a href="/proceedings/authors/JohnTinnerholm">John Tinnerholm</a>, <a href="/proceedings/authors/AdrianPop">Adrian Pop</a>, <a href="/proceedings/authors/AndreasHeuermann">Andreas Heuermann</a> and <a href="/proceedings/authors/MartinSjolund">Martin Sjölund</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/JohnTinnerholm">John Tinnerholm</a>, <a href="/proceedings/authors/AdrianPop">Adrian Pop</a>, <a href="/proceedings/authors/AndreasHeuermann">Andreas Heuermann</a> and <a href="/proceedings/authors/MartinSjolund">Martin Sjölund</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl</td>

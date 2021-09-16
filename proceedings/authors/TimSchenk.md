@@ -1,6 +1,8 @@
 ## Papers by Tim Schenk
 <table>
-<a href="/proceedings/authors/MoritzAllmaras">Moritz Allmaras</a>, <a href="/proceedings/authors/AndresBoteroHalblaub">Andrés Botero Halblaub</a>, <a href="/proceedings/authors/HaraldHeld">Harald Held</a> and <a href="/proceedings/authors/TimSchenk">Tim Schenk</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/MoritzAllmaras">Moritz Allmaras</a>, <a href="/proceedings/authors/AndresBoteroHalblaub">Andrés Botero Halblaub</a>, <a href="/proceedings/authors/HaraldHeld">Harald Held</a> and <a href="/proceedings/authors/TimSchenk">Tim Schenk</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>A Portable and Secure Package Format for Executable Simulation Modules based on WebAssembly</td>

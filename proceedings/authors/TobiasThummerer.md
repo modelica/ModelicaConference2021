@@ -1,6 +1,8 @@
 ## Papers by Tobias Thummerer
 <table>
-<a href="/proceedings/authors/TobiasThummerer">Tobias Thummerer</a>, <a href="/proceedings/authors/JosefKircher">Josef Kircher</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/TobiasThummerer">Tobias Thummerer</a>, <a href="/proceedings/authors/JosefKircher">Josef Kircher</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>NeuralFMU: Towards Structural Integration of FMUs into Neural Networks</td>

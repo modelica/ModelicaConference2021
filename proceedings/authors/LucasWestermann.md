@@ -1,6 +1,8 @@
 ## Papers by Lucas Westermann
 <table>
-<a href="/proceedings/authors/KushagraMathur">Kushagra Mathur</a>, <a href="/proceedings/authors/ChristophNytsch-Geusen">Christoph Nytsch-Geusen</a> and <a href="/proceedings/authors/LucasWestermann">Lucas Westermann</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/KushagraMathur">Kushagra Mathur</a>, <a href="/proceedings/authors/ChristophNytsch-Geusen">Christoph Nytsch-Geusen</a> and <a href="/proceedings/authors/LucasWestermann">Lucas Westermann</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Development of a real-time test bed for indoor climate simulation in a VR environment using a digital twin</td>

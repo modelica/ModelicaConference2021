@@ -1,6 +1,8 @@
 ## Papers by Tonje Tollefsen
 <table>
-<a href="/proceedings/authors/JonatanHellborg">Jonatan Hellborg</a>, <a href="/proceedings/authors/TonjeTollefsen">Tonje Tollefsen</a>, <a href="/proceedings/authors/KhemrajBhusal">Khemraj Bhusal</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/JonatanHellborg">Jonatan Hellborg</a>, <a href="/proceedings/authors/TonjeTollefsen">Tonje Tollefsen</a>, <a href="/proceedings/authors/KhemrajBhusal">Khemraj Bhusal</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Modelling the Synchronisation Control for a Hydro Power Controller</td>

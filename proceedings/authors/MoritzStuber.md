@@ -1,6 +1,8 @@
 ## Papers by Moritz Stüber
 <table>
-<a href="/proceedings/authors/MoritzStuber">Moritz Stüber</a> and <a href="/proceedings/authors/GeorgFrey">Georg Frey</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/MoritzStuber">Moritz Stüber</a> and <a href="/proceedings/authors/GeorgFrey">Georg Frey</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>A Cloud-native Implementation of the Simulation as a Service-Concept Based on FMI</td>

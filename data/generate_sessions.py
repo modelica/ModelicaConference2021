@@ -28,15 +28,15 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
       for i in range(1,6):
         if "title%d" % i not in session:
           break
-        fout_session.write("<tr><th>Authors:</th>\n<td>\n")
         authors = session["author%d" % i]
         authors = authors.replace(" and ", ", ").split(", ")
         paper_html = ""
+        paper_html += "<tr><th>Authors:</th>\n<td>\n"
         for author in authors[:-2]:
           paper_html += '<a href="/proceedings/authors/%s">%s</a>, ' % (unidecode(author.replace(" ","")), author)
         if len(authors)>1:
           paper_html += '<a href="/proceedings/authors/%s">%s</a> and ' % (unidecode(authors[-2].replace(" ","")), authors[-2])
-        paper_html += '<a href="/proceedings/authors/%s">%s</a>, ' % (unidecode(authors[-1].replace(" ","")), authors[-1])
+        paper_html += '<a href="/proceedings/authors/%s">%s</a>' % (unidecode(authors[-1].replace(" ","")), authors[-1])
         paper_html += "</td>\n"
         paper_html += "</tr>\n"
         paper_html += '<tr><th>Title:</th>\n'

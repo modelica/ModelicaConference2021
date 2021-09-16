@@ -1,6 +1,8 @@
 ## Papers by Pierre Haessig
 <table>
-<a href="/proceedings/authors/JoyElFeghali">Joy El Feghali</a>, <a href="/proceedings/authors/GuillaumeSandou">Guillaume Sandou</a>, <a href="/proceedings/authors/HerveGueguen">Hervé Guéguen</a>, <a href="/proceedings/authors/PierreHaessig">Pierre Haessig</a> and <a href="/proceedings/authors/DamienFaille">Damien Faille</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/JoyElFeghali">Joy El Feghali</a>, <a href="/proceedings/authors/GuillaumeSandou">Guillaume Sandou</a>, <a href="/proceedings/authors/HerveGueguen">Hervé Guéguen</a>, <a href="/proceedings/authors/PierreHaessig">Pierre Haessig</a> and <a href="/proceedings/authors/DamienFaille">Damien Faille</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Energy-based Method to Simplify Complex Multi-Energy Modelica Models</td>

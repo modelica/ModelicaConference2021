@@ -1,6 +1,8 @@
 ## Papers by Mareike Leimeister
 <table>
-<a href="/proceedings/authors/JohannesFricke">Johannes Fricke</a>, <a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/NiklasRequate">Niklas Requate</a> and <a href="/proceedings/authors/MareikeLeimeister">Mareike Leimeister</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/JohannesFricke">Johannes Fricke</a>, <a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/NiklasRequate">Niklas Requate</a> and <a href="/proceedings/authors/MareikeLeimeister">Mareike Leimeister</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Python Framework for Wind Turbines  Enabling Test Automation of MoWiT</td>

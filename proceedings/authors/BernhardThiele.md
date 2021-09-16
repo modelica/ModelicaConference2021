@@ -1,6 +1,8 @@
 ## Papers by Bernhard Thiele
 <table>
-<a href="/proceedings/authors/BernhardThiele">Bernhard Thiele</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/BernhardThiele">Bernhard Thiele</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Towards a Modelica OPC UA Library for Industrial Automation</td>

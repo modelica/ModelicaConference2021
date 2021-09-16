@@ -1,6 +1,8 @@
 ## Papers by Mathias Malandain
 <table>
-<a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Handling Multimode Models and Mode Changes in Modelica</td>
@@ -11,7 +13,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a>, <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a> and <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a>, <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a> and <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>A Reduced Index Mode-Independent Structure Model Transformation for Multimode Modelica Models</td>
@@ -22,7 +26,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Compile-Time Impulse Analysis in Modelica</td>

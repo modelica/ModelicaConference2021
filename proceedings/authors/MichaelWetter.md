@@ -1,6 +1,8 @@
 ## Papers by Michael Wetter
 <table>
-<a href="/proceedings/authors/MichaelWetter">Michael Wetter</a>, <a href="/proceedings/authors/KyleBenne">Kyle Benne</a> and <a href="/proceedings/authors/BaptisteRavache">Baptiste Ravache</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/MichaelWetter">Michael Wetter</a>, <a href="/proceedings/authors/KyleBenne">Kyle Benne</a> and <a href="/proceedings/authors/BaptisteRavache">Baptiste Ravache</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus</td>
@@ -11,7 +13,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/KathrynHinkelman">Kathryn Hinkelman</a>, <a href="/proceedings/authors/JingWang">Jing Wang</a>, <a href="/proceedings/authors/ChengliangFan">Chengliang Fan</a>, <a href="/proceedings/authors/WangdaZuo">Wangda Zuo</a>, <a href="/proceedings/authors/AntoineGautier">Antoine Gautier</a>, <a href="/proceedings/authors/MichaelWetter">Michael Wetter</a> and <a href="/proceedings/authors/NicholasLong">Nicholas Long</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/KathrynHinkelman">Kathryn Hinkelman</a>, <a href="/proceedings/authors/JingWang">Jing Wang</a>, <a href="/proceedings/authors/ChengliangFan">Chengliang Fan</a>, <a href="/proceedings/authors/WangdaZuo">Wangda Zuo</a>, <a href="/proceedings/authors/AntoineGautier">Antoine Gautier</a>, <a href="/proceedings/authors/MichaelWetter">Michael Wetter</a> and <a href="/proceedings/authors/NicholasLong">Nicholas Long</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>A Case Study on Condenser Water Supply Temperature Optimization with a District Cooling Plant</td>

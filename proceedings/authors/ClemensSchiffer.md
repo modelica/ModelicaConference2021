@@ -1,6 +1,8 @@
 ## Papers by Clemens Schiffer
 <table>
-<a href="/proceedings/authors/StefanH.Reiterer">Stefan H. Reiterer</a> and <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/StefanH.Reiterer">Stefan H. Reiterer</a> and <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations</td>
@@ -11,7 +13,9 @@
 </table>
 
 <table>
-<a href="/proceedings/authors/NiharHasmukhbhaiShah">Nihar Hasmukhbhai Shah</a>, <a href="/proceedings/authors/PerigLeHenaff">Perig Le Henaff</a>, <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a>, <a href="/proceedings/authors/MartinKrammer">Martin Krammer</a> and <a href="/proceedings/authors/MartinBenedikt">Martin Benedikt</a>, </td>
+<tr><th>Authors:</th>
+<td>
+<a href="/proceedings/authors/NiharHasmukhbhaiShah">Nihar Hasmukhbhai Shah</a>, <a href="/proceedings/authors/PerigLeHenaff">Perig Le Henaff</a>, <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a>, <a href="/proceedings/authors/MartinKrammer">Martin Krammer</a> and <a href="/proceedings/authors/MartinBenedikt">Martin Benedikt</a></td>
 </tr>
 <tr><th>Title:</th>
 <td>Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards</td>
