@@ -40,7 +40,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         paper_html += "</td>\n"
         paper_html += "</tr>\n"
         paper_html += '<tr><th>Title:</th>\n'
-        paper_html += '<td>%s</td></tr>' % session["title%d" % i]
+        paper_html += '<td>%s</td>\n' % session["title%d" % i]
         paper_html += '</tr>\n<tr><th>Paper:</th>\n'
         paper_html += '<td><a href="/abstracts/abstract_%s_%d">abstract</a> <a href="/proceedings/papers/Modelica2021session%s_paper%d.pdf">full paper</a></td>\n' % (num, i, num, i)
         paper_html += '</tr>\n'
@@ -50,7 +50,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
           all_authors[author] = all_authors.get(author, []) + [paper_html]
 
       fout_session.write('</table>\n')
-      fout_session.write('\n\n')
+      fout_session.write('\n<br />\n')
 
 with open("proceedings/authors.md", "w") as fout_authors:
   for author in sorted(all_authors.keys(), key = lambda s: s.split(" ")[-1]):
@@ -58,7 +58,7 @@ with open("proceedings/authors.md", "w") as fout_authors:
     last_name = names[-1]
     first_name = " ".join(names[0:-1])
     author_filename = unidecode(author.replace(" ", ""))
-    fout_authors.write("* [/proceedings/authors/%s](%s, %s)\n" % (author_filename, last_name, first_name))
+    fout_authors.write("* [%s, %s](/proceedings/authors/%s)\n" % (last_name, first_name, author_filename))
     with open("proceedings/authors/%s.md" % author_filename, "w") as fout_author:
       fout_author.write("## Papers by %s\n" % author)
       fout_author.write("<table>")
