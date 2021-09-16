@@ -1,6 +1,5 @@
 ## Papers by Giuseppe Abbiati
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ClaudioGomes">Cláudio Gomes</a>, <a href="/proceedings/authors/GiuseppeAbbiati">Giuseppe Abbiati</a> and <a href="/proceedings/authors/PeterGormLarsen">Peter Gorm Larsen</a></td>
 </tr>

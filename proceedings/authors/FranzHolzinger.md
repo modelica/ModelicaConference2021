@@ -1,6 +1,5 @@
 ## Papers by Franz Holzinger
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FranzHolzinger">Franz Holzinger</a>, <a href="/proceedings/authors/KlausSchuch">Klaus Schuch</a>, <a href="/proceedings/authors/MartinBenedikt">Martin Benedikt</a> and <a href="/proceedings/authors/DanielWatzenig">Daniel Watzenig</a></td>
 </tr>

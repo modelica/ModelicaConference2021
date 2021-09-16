@@ -1,6 +1,5 @@
 ## Papers by Tobias Meyer
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/TobiasMeyer">Tobias Meyer</a> and <a href="/proceedings/authors/PhilippThomas">Philipp Thomas</a></td>
 </tr>

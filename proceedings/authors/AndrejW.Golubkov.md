@@ -1,6 +1,5 @@
 ## Papers by Andrej W. Golubkov
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ChristianGross">Christian Groß</a> and <a href="/proceedings/authors/AndrejW.Golubkov">Andrej W. Golubkov</a></td>
 </tr>

@@ -1,6 +1,5 @@
 ## Papers by Luigi Vanfretti
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/SergioA.Dorado-Rojas">Sergio A. Dorado-Rojas</a>, <a href="/proceedings/authors/GiuseppeLaera">Giuseppe Laera</a>, <a href="/proceedings/authors/MarcelodeCastroFernandes">Marcelo de Castro Fernandes</a>, <a href="/proceedings/authors/TetianaBogodorova">Tetiana Bogodorova</a> and <a href="/proceedings/authors/LuigiVanfretti">Luigi Vanfretti</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ChristianCanham">Christian Canham</a>, <a href="/proceedings/authors/MeaghanPodlaski">Meaghan Podlaski</a> and <a href="/proceedings/authors/LuigiVanfretti">Luigi Vanfretti</a></td>
 </tr>

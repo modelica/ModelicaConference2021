@@ -1,6 +1,5 @@
 ## Papers by Jin Wen
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/GuowenLi">Guowen Li</a>, <a href="/proceedings/authors/YangyangFu">Yangyang Fu</a>, <a href="/proceedings/authors/AmandaPertzborn">Amanda Pertzborn</a>, <a href="/proceedings/authors/JinWen">Jin Wen</a> and <a href="/proceedings/authors/ZhengO'Neill">Zheng O'Neill</a></td>
 </tr>

@@ -1,6 +1,5 @@
 ## Papers by Lucas Schindhelm
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/LucasSchindhelm">Lucas Schindhelm</a>, <a href="/proceedings/authors/AlesVojacek">Ales Vojacek</a> and <a href="/proceedings/authors/JohannesBrunnemann">Johannes Brunnemann</a></td>
 </tr>

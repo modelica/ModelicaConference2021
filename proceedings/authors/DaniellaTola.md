@@ -1,6 +1,5 @@
 ## Papers by Daniella Tola
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ThomasSchranz">Thomas Schranz</a>, <a href="/proceedings/authors/ChristianMoldrupLegaard">Christian Møldrup Legaard</a>, <a href="/proceedings/authors/DaniellaTola">Daniella Tola</a> and <a href="/proceedings/authors/GeraldSchweiger">Gerald Schweiger</a></td>
 </tr>

@@ -1,6 +1,5 @@
 ## Papers by Adrien Guironnet
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>
@@ -25,8 +23,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MariaNuschke">Maria Nuschke</a>, <a href="/proceedings/authors/SorenLohr">Sören Lohr</a>, <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a> and <a href="/proceedings/authors/MarianneSaugier">Marianne Saugier</a></td>
 </tr>

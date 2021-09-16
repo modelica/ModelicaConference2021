@@ -1,6 +1,5 @@
 ## Papers by Ludovic Hallo
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/BrunoVuillod">Bruno Vuillod</a>, <a href="/proceedings/authors/LudovicHallo">Ludovic Hallo</a>, <a href="/proceedings/authors/EnricoPanettieri">Enrico Panettieri</a> and <a href="/proceedings/authors/MarcoMontemurro">Marco Montemurro</a></td>
 </tr>

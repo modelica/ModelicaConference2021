@@ -1,6 +1,5 @@
 ## Papers by Manuel Prado-Velasco
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ManuelPrado-Velasco">Manuel Prado-Velasco</a></td>
 </tr>

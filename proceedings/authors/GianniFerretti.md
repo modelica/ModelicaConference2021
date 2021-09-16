@@ -1,6 +1,5 @@
 ## Papers by Gianni Ferretti
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/PaoloCampanini">Paolo Campanini</a> and <a href="/proceedings/authors/GianniFerretti">Gianni Ferretti</a></td>
 </tr>

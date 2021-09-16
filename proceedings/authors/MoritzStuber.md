@@ -1,6 +1,5 @@
 ## Papers by Moritz Stüber
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MoritzStuber">Moritz Stüber</a> and <a href="/proceedings/authors/GeorgFrey">Georg Frey</a></td>
 </tr>

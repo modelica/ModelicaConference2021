@@ -1,6 +1,5 @@
 ## Papers by Dirk Zimmer
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/DirkZimmer">Dirk Zimmer</a>, <a href="/proceedings/authors/MichaelMeissner">Michael Meißner</a> and <a href="/proceedings/authors/NielsWeber">Niels Weber</a></td>
 </tr>

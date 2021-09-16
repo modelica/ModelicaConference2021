@@ -1,6 +1,5 @@
 ## Papers by Jürgen Fluch
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/CarlesRibasTugores">Carles Ribas Tugores</a>, <a href="/proceedings/authors/GeraldBirngruber">Gerald Birngruber</a>, <a href="/proceedings/authors/JurgenFluch">Jürgen Fluch</a>, <a href="/proceedings/authors/AngelikaSwatek">Angelika Swatek</a> and <a href="/proceedings/authors/GeraldSchweiger">Gerald Schweiger</a></td>
 </tr>

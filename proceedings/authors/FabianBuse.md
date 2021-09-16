@@ -1,6 +1,5 @@
 ## Papers by Fabian Buse
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FabianBuse">Fabian Buse</a> and <a href="/proceedings/authors/TobiasBellmann">Tobias Bellmann</a></td>
 </tr>

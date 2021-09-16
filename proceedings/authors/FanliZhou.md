@@ -1,6 +1,5 @@
 ## Papers by Fanli Zhou
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ChanLiu">Chan Liu</a>, <a href="/proceedings/authors/YikaiQian">Yikai Qian</a>, <a href="/proceedings/authors/LipingChen">Liping Chen</a>, <a href="/proceedings/authors/YanQu">Yan Qu</a> and <a href="/proceedings/authors/FanliZhou">Fanli Zhou</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/HuiminZhang">Huimin Zhang</a>, <a href="/proceedings/authors/ErhuiChen">Erhui Chen</a>, <a href="/proceedings/authors/YangyangLiang">Yangyang Liang</a>, <a href="/proceedings/authors/LiWang">Li Wang</a>, <a href="/proceedings/authors/JunWang">Jun Wang</a>, <a href="/proceedings/authors/ShuhongDu">Shuhong Du</a>, <a href="/proceedings/authors/LipingChen">Liping Chen</a>, <a href="/proceedings/authors/FanliZhou">Fanli Zhou</a>, <a href="/proceedings/authors/JiDing">Ji Ding</a> and <a href="/proceedings/authors/HaimingZhang">Haiming Zhang</a></td>
 </tr>

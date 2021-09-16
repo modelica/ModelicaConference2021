@@ -1,6 +1,5 @@
 ## Papers by Stefan H. Reiterer
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/StefanH.Reiterer">Stefan H. Reiterer</a> and <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a></td>
 </tr>

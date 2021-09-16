@@ -1,6 +1,5 @@
 ## Papers by Yan Qu
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ChanLiu">Chan Liu</a>, <a href="/proceedings/authors/YikaiQian">Yikai Qian</a>, <a href="/proceedings/authors/LipingChen">Liping Chen</a>, <a href="/proceedings/authors/YanQu">Yan Qu</a> and <a href="/proceedings/authors/FanliZhou">Fanli Zhou</a></td>
 </tr>

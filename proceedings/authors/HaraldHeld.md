@@ -1,6 +1,5 @@
 ## Papers by Harald Held
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MoritzAllmaras">Moritz Allmaras</a>, <a href="/proceedings/authors/AndresBoteroHalblaub">Andrés Botero Halblaub</a>, <a href="/proceedings/authors/HaraldHeld">Harald Held</a> and <a href="/proceedings/authors/TimSchenk">Tim Schenk</a></td>
 </tr>

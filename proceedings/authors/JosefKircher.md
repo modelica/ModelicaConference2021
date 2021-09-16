@@ -1,6 +1,5 @@
 ## Papers by Josef Kircher
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/TobiasThummerer">Tobias Thummerer</a>, <a href="/proceedings/authors/JosefKircher">Josef Kircher</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a></td>
 </tr>

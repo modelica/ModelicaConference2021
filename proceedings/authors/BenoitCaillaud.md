@@ -1,6 +1,5 @@
 ## Papers by Benoît Caillaud
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a>, <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a> and <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a></td>
 </tr>
@@ -25,8 +23,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AlbertBenveniste">Albert Benveniste</a>, <a href="/proceedings/authors/BenoitCaillaud">Benoît Caillaud</a> and <a href="/proceedings/authors/MathiasMalandain">Mathias Malandain</a></td>
 </tr>

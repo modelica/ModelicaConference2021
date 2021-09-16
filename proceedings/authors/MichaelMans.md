@@ -1,6 +1,5 @@
 ## Papers by Michael Mans
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AlessandroMaccarini">Alessandro Maccarini</a>, <a href="/proceedings/authors/MichaelMans">Michael Mans</a>, <a href="/proceedings/authors/ChristianGrauSorensen">Christian Grau Sørensen</a> and <a href="/proceedings/authors/AlirezaAfshari">Alireza Afshari</a></td>
 </tr>

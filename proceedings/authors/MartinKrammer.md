@@ -1,6 +1,5 @@
 ## Papers by Martin Krammer
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/NiharHasmukhbhaiShah">Nihar Hasmukhbhai Shah</a>, <a href="/proceedings/authors/PerigLeHenaff">Perig Le Henaff</a>, <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a>, <a href="/proceedings/authors/MartinKrammer">Martin Krammer</a> and <a href="/proceedings/authors/MartinBenedikt">Martin Benedikt</a></td>
 </tr>

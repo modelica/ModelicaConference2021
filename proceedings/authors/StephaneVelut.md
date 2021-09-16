@@ -1,6 +1,5 @@
 ## Papers by Stéphane Velut
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AshokKumarRavi">Ashok Kumar Ravi</a>, <a href="/proceedings/authors/StephaneVelut">Stéphane Velut</a> and <a href="/proceedings/authors/RajaVigneshSrinivasan">Raja Vignesh Srinivasan</a></td>
 </tr>

@@ -1,6 +1,5 @@
 ## Papers by Joy El Feghali
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/JoyElFeghali">Joy El Feghali</a>, <a href="/proceedings/authors/GuillaumeSandou">Guillaume Sandou</a>, <a href="/proceedings/authors/HerveGueguen">Hervé Guéguen</a>, <a href="/proceedings/authors/PierreHaessig">Pierre Haessig</a> and <a href="/proceedings/authors/DamienFaille">Damien Faille</a></td>
 </tr>

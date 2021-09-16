@@ -1,6 +1,5 @@
 ## Papers by Marc May
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MarcMay">Marc May</a>, <a href="/proceedings/authors/ReikoMuller">Reiko Müller</a> and <a href="/proceedings/authors/GertjanLooye">Gertjan Looye</a></td>
 </tr>

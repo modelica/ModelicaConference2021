@@ -1,6 +1,5 @@
 ## Papers by Frederic Bruder
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FredericBruder">Frederic Bruder</a> and <a href="/proceedings/authors/LarsMikelsons">Lars Mikelsons</a></td>
 </tr>

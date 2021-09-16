@@ -1,6 +1,5 @@
 ## Papers by Christian Canham
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ChristianCanham">Christian Canham</a>, <a href="/proceedings/authors/MeaghanPodlaski">Meaghan Podlaski</a> and <a href="/proceedings/authors/LuigiVanfretti">Luigi Vanfretti</a></td>
 </tr>

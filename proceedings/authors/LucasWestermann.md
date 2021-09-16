@@ -1,6 +1,5 @@
 ## Papers by Lucas Westermann
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/KushagraMathur">Kushagra Mathur</a>, <a href="/proceedings/authors/ChristophNytsch-Geusen">Christoph Nytsch-Geusen</a> and <a href="/proceedings/authors/LucasWestermann">Lucas Westermann</a></td>
 </tr>

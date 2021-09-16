@@ -1,6 +1,5 @@
 ## Papers by Nejm Saadallah
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/NejmSaadallah">Nejm Saadallah</a> and <a href="/proceedings/authors/YngveHeggelund">Yngve Heggelund</a></td>
 </tr>

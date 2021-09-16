@@ -1,6 +1,5 @@
 ## Papers by Kyle Benne
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MichaelWetter">Michael Wetter</a>, <a href="/proceedings/authors/KyleBenne">Kyle Benne</a> and <a href="/proceedings/authors/BaptisteRavache">Baptiste Ravache</a></td>
 </tr>

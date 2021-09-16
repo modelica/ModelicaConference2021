@@ -1,6 +1,5 @@
 ## Papers by Filip Jorissen
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FilipJorissen">Filip Jorissen</a>, <a href="/proceedings/authors/DamienPicard">Damien Picard</a>, <a href="/proceedings/authors/KristoffSix">Kristoff Six</a> and <a href="/proceedings/authors/LieveHelsen">Lieve Helsen</a></td>
 </tr>

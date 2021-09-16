@@ -1,6 +1,5 @@
 ## Papers by Lixiang Li
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/JohnBatteh">John Batteh</a>, <a href="/proceedings/authors/LixiangLi">Lixiang Li</a>, <a href="/proceedings/authors/EdwinChiu">Edwin Chiu</a> and <a href="/proceedings/authors/EthanChaleff">Ethan Chaleff</a></td>
 </tr>

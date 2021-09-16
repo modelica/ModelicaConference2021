@@ -1,6 +1,5 @@
 ## Papers by Philipp Mehrfeld
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/StephanGobel">Stephan Göbel</a>, <a href="/proceedings/authors/ElaineSchmitt">Elaine Schmitt</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FabianWullhorst">Fabian Wüllhorst</a>, <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a></td>
 </tr>
@@ -25,8 +23,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/VeronikaRichter">Veronika Richter</a>, <a href="/proceedings/authors/DiegoCordobaLopez">Diego Cordoba Lopez</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a>, <a href="/proceedings/authors/JeromeFrisch">Jérôme Frisch</a>, <a href="/proceedings/authors/DirkMuller">Dirk Müller</a> and <a href="/proceedings/authors/ChristophvanTreeck">Christoph van Treeck</a></td>
 </tr>

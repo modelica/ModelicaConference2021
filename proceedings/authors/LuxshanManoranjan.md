@@ -1,6 +1,5 @@
 ## Papers by Luxshan Manoranjan
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/LuxshanManoranjan">Luxshan Manoranjan</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>

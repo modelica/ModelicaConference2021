@@ -1,6 +1,5 @@
 ## Papers by Chengliang Fan
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/KathrynHinkelman">Kathryn Hinkelman</a>, <a href="/proceedings/authors/JingWang">Jing Wang</a>, <a href="/proceedings/authors/ChengliangFan">Chengliang Fan</a>, <a href="/proceedings/authors/WangdaZuo">Wangda Zuo</a>, <a href="/proceedings/authors/AntoineGautier">Antoine Gautier</a>, <a href="/proceedings/authors/MichaelWetter">Michael Wetter</a> and <a href="/proceedings/authors/NicholasLong">Nicholas Long</a></td>
 </tr>

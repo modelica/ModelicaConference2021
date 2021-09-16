@@ -1,6 +1,5 @@
 ## Papers by Thomas Beutlich
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ThomasBeutlich">Thomas Beutlich</a> and <a href="/proceedings/authors/DietmarWinkler">Dietmar Winkler</a></td>
 </tr>

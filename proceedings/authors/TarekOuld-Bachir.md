@@ -1,6 +1,5 @@
 ## Papers by Tarek Ould-Bachir
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/AlirezaMasoom">Alireza Masoom</a>, <a href="/proceedings/authors/JeanMahseredjian">Jean Mahseredjian</a>, <a href="/proceedings/authors/TarekOuld-Bachir">Tarek Ould-Bachir</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>

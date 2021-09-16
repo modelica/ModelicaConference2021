@@ -1,6 +1,5 @@
 ## Papers by Robert Reiser
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/RobertReiser">Robert Reiser</a></td>
 </tr>

@@ -1,6 +1,5 @@
 ## Papers by Marcus Wiens
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/TobiasMeyer">Tobias Meyer</a> and <a href="/proceedings/authors/PhilippThomas">Philipp Thomas</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/JohannesFricke">Johannes Fricke</a>, <a href="/proceedings/authors/MarcusWiens">Marcus Wiens</a>, <a href="/proceedings/authors/NiklasRequate">Niklas Requate</a> and <a href="/proceedings/authors/MareikeLeimeister">Mareike Leimeister</a></td>
 </tr>

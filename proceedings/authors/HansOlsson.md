@@ -1,6 +1,5 @@
 ## Papers by Hans Olsson
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/HansOlsson">Hans Olsson</a> and <a href="/proceedings/authors/ErikHenningsson">Erik Henningsson</a></td>
 </tr>
@@ -12,8 +11,7 @@
 </tr>
 </table>
 
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/LuisCoronaMesa-Moles">Luis Corona Mesa-Moles</a>, <a href="/proceedings/authors/ErikHenningsson">Erik Henningsson</a>, <a href="/proceedings/authors/DanielBouskela">Daniel Bouskela</a>, <a href="/proceedings/authors/AudreyJardin">Audrey Jardin</a> and <a href="/proceedings/authors/HansOlsson">Hans Olsson</a></td>
 </tr>

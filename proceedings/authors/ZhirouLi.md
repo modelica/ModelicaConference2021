@@ -1,6 +1,5 @@
 ## Papers by Zhirou Li
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/DiwangRuan">Diwang Ruan</a>, <a href="/proceedings/authors/ZhirouLi">Zhirou Li</a> and <a href="/proceedings/authors/ClemensGuhmann">Clemens Gühmann</a></td>
 </tr>

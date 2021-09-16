@@ -1,6 +1,5 @@
 ## Papers by Arnav Pathak
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/ArnavPathak">Arnav Pathak</a>, <a href="/proceedings/authors/KilianSchneider">Kilian Schneider</a> and <a href="/proceedings/authors/VictorNorrefeldt">Victor Norrefeldt</a></td>
 </tr>

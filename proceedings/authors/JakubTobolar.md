@@ -1,6 +1,5 @@
 ## Papers by Jakub Tobolář
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/LeoGall">Leo Gall</a>, <a href="/proceedings/authors/MartinOtter">Martin Otter</a>, <a href="/proceedings/authors/MatthiasReiner">Matthias Reiner</a>, <a href="/proceedings/authors/MatthiasSchafer">Matthias Schäfer</a> and <a href="/proceedings/authors/JakubTobolar">Jakub Tobolář</a></td>
 </tr>

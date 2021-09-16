@@ -1,6 +1,5 @@
 ## Papers by Julia Pérez
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/JuliaPerez">Julia Pérez</a>, <a href="/proceedings/authors/LuisJ.Yebra">Luis J. Yebra</a>, <a href="/proceedings/authors/FranciscoM.Marquez">Francisco M. Márquez</a> and <a href="/proceedings/authors/PedroJ.Zufiria">Pedro J. Zufiria</a></td>
 </tr>

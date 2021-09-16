@@ -1,6 +1,5 @@
 ## Papers by Fabian Wüllhorst
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/FabianWullhorst">Fabian Wüllhorst</a>, <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a></td>
 </tr>

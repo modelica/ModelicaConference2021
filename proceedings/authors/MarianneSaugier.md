@@ -1,6 +1,5 @@
 ## Papers by Marianne Saugier
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MariaNuschke">Maria Nuschke</a>, <a href="/proceedings/authors/SorenLohr">Sören Lohr</a>, <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a> and <a href="/proceedings/authors/MarianneSaugier">Marianne Saugier</a></td>
 </tr>

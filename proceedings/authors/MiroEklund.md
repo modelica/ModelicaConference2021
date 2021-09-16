@@ -1,6 +1,5 @@
 ## Papers by Miro Eklund
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/MiroEklund">Miro Eklund</a>, <a href="/proceedings/authors/JouniSavolainen">Jouni Savolainen</a>, <a href="/proceedings/authors/AnttiLukkari">Antti Lukkari</a> and <a href="/proceedings/authors/TommiKarhela">Tommi Karhela</a></td>
 </tr>

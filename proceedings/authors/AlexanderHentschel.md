@@ -1,6 +1,5 @@
 ## Papers by Alexander Hentschel
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/TorstenSchwan">Torsten Schwan</a>, <a href="/proceedings/authors/MonikaWicke">Monika Wicke</a>, <a href="/proceedings/authors/AlexanderHentschel">Alexander Hentschel</a> and <a href="/proceedings/authors/ReneUnger">René Unger</a></td>
 </tr>

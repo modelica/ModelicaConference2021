@@ -1,6 +1,5 @@
 ## Papers by Bernhard Thiele
-<table>
-<tr><th>Authors:</th>
+<table><tr><th>Authors:</th>
 <td>
 <a href="/proceedings/authors/BernhardThiele">Bernhard Thiele</a></td>
 </tr>
