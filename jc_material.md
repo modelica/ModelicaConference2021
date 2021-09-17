@@ -1,3 +1,4 @@
+![Julia Computing](/images/Julia%20Computing%20Logo.svg)
 
 Julia Computing's mission is to develop products that bring Julia's superpowers to its customers. Julia Computing's flagship product is JuliaHub, a secure, software-as-a-service platform for developing Julia programs, deploying them, and scaling to thousands of nodes. It provides the power of a supercomputer at the fingertips of every data scientist and engineer. In addition to data science workflows, JuliaHub also provides access to cutting-edge products such as Pumas for pharmaceutical modeling and simulation, JuliaSim for multi-physics modeling and simulation, and JuliaSPICE for electronic circuit simulation, combining traditional simulation with modern SciML approaches.
 
