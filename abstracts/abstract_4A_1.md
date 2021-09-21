@@ -1,6 +1,6 @@
 ## Electromagnetic Transient Simulation of Large Power Networks with Modelica
 
-**Alireza Masoom1 Jean Mahseredjian1 Tarek Ould-Bachir Adrien Guironnet**
+**Alireza Masoom, Jean Mahseredjian, Tarek Ould-Bachir, Adrien Guironnet**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session4A_paper1.pdf)
 
