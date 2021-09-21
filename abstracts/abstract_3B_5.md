@@ -1,6 +1,6 @@
 ## A first principles thermal losses model of the TCP-100 parabolic trough collector based on the Modelica Standard Library
 
-**Julia Pérez1 Luis J. Yebra, Francisco M. Márquez, Pedro J. Zufiria**
+**Julia Pérez, Luis J. Yebra, Francisco M. Márquez, Pedro J. Zufiria**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session3B_paper5.pdf)
 

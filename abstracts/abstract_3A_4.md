@@ -1,6 +1,6 @@
 ## A Modelica library for Thermal-Runaway Propagation in Lithium-Ion Batteries
 
-**Christian Groß Andrey W. Golubkov**
+**Christian Groß, Andrey W. Golubkov**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session3A_paper4.pdf)
 
