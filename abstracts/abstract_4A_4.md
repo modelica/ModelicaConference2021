@@ -1,6 +1,6 @@
 ## Sensitivity Analysis of a Car Shock Absorber Through a Functional Mock-up Units-Based Modelling Strategy
 
-**VUILLOD Bruno, HALLO Ludovic, PANETTIERI Enrico, MONTEMURRO Marco**
+**Vuillod Bruno, Hallo Ludovic, Panettieri Enrico, Montemurro Marco**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session4A_paper4.pdf)
 
