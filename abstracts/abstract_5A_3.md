@@ -1,6 +1,6 @@
 ## Modeling of A Bearing Test Bench and Analysis of Defect Bearing Dynamics in Modelica
 
-**Diwang Ruan1 Zhirou Li, Clemens Gühmann**
+**Diwang Ruan, Zhirou Li, Clemens Gühmann**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session5A_paper3.pdf)
 
