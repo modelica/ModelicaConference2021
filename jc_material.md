@@ -7,7 +7,7 @@
 
 ### [Brochure](/Documents/Julia_Computing-JuliaSim.pdf)
 
- [![VIDEO SCREENCAP](images/julia_screencap.png)](https://www.youtube.com/watch?v=oXcyPS93L8c "JuliaSim: Simulating Reality")
+ [![VIDEO SCREENCAP](images/julia_screencap.png)](https://www.youtube.com/watch?v=teqS3O362Ts "JuliaSim Introduction Demo")
 
 
 ---
