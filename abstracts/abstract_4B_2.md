@@ -1,6 +1,6 @@
 ## Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus
 
-*Michael Wetter, Kyle Benne, Baptiste Ravache*
+**Michael Wetter, Kyle Benne, Baptiste Ravache**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session4B_paper2.pdf)
 
