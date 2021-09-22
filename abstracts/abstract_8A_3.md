@@ -2,7 +2,7 @@
 
 **Nejm Saadallah, Yngve Heggelund**
 
-[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper1.pdf)
+[&#8594; full paper](../proceedings/papers/Modelica2021session8A_paper3.pdf)
 
 Abstract
 
