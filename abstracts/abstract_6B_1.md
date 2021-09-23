@@ -1,6 +1,6 @@
 ## Use of Modelica to predict risk of Covid-19 infection in indoor environments
 
-*Arnav Pathak, Kilian Schneider, Victor Norrefeldt*
+**Arnav Pathak, Kilian Schneider, Victor Norrefeldt**
 
 [&#8594; full paper](../proceedings/papers/Modelica2021session6B_paper1.pdf)
 
