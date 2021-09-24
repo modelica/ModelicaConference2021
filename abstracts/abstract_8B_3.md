@@ -2,7 +2,7 @@
 
 **David Jansen, Veronika Richter, Diego Cordoba Lopez, Philipp Mehrfeld, Jérôme Frisch, Dirk Müller, Christoph van Treeck**
 
-[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper1.pdf)
+[&#8594; full paper](../proceedings/papers/Modelica2021session8B_paper3.pdf)
 
 Abstract
 
