@@ -1,6 +1,6 @@
 ## Library Award
 
-5 libraries were submitted to the program chair and evaluated according to the following criteria:
+6 libraries were submitted to the program chair and evaluated according to the following criteria:
 
 * How useful is the library for the Modelica community, especially for industrial applications?
 * Basic design principle of the library (declarative, no artificial restrictions on how components can be connected).
