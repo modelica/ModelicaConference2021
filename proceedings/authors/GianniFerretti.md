@@ -7,6 +7,6 @@
 <a href="/proceedings/authors/PaoloCampanini">Paolo Campanini</a> and <a href="/proceedings/authors/GianniFerretti">Gianni Ferretti</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_3B_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session3B_paper2.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_3B_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session3B_paper2.pdf">full paper</a> / <a href="https://github.com/looms-polimi/Parallel_manipulators">library</a></td>
 </tr>
 </table><br>

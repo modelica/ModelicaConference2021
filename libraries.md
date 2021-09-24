@@ -17,6 +17,7 @@
 ### Submitted libraries:
 
 * [BatterySafety](proceedings/authors/ChristianGross)
+* [ExternData](proceedings/authors/ThomasBeutlich)
 * [Parallel manipulators](proceedings/authors/PaoloCampanini)
 * [ThermofluidStream](proceedings/authors/DirkZimmer)
 * [TransiEnt](proceedings/authors/AnneSenkel)

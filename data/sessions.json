@@ -37,6 +37,7 @@
     "author2": "Luis Corona Mesa-Moles, Erik Henningsson, Daniel Bouskela, Audrey Jardin and Hans Olsson",
     "title3": "Efficient Parameterization of Modelica Models",
     "author3": "Thomas Beutlich and Dietmar Winkler",
+    "library3": "https://github.com/modelica-3rdparty/ExternData",
     "title4": "Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python",
     "author4": "Sergio A. Dorado-Rojas, Giuseppe Laera, Marcelo de Castro Fernandes, Tetiana Bogodorova and Luigi Vanfretti"
   },

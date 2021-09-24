@@ -7,7 +7,7 @@
 <a href="/proceedings/authors/FabianWullhorst">Fabian Wüllhorst</a>, <a href="/proceedings/authors/DavidJansen">David Jansen</a>, <a href="/proceedings/authors/PhilippMehrfeld">Philipp Mehrfeld</a> and <a href="/proceedings/authors/DirkMuller">Dirk Müller</a></td>
 </tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_7B_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session7B_paper1.pdf">full paper</a></td>
+<td><a href="/abstracts/abstract_7B_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session7B_paper1.pdf">full paper</a> / <a href="https://github.com/RWTH-EBC/X-HD/tree/issue01_VCLibDev">library</a></td>
 </tr>
 </table><br>
 
