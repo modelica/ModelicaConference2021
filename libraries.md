@@ -14,11 +14,14 @@
   * Tool compatibility.
   * And more.
 
+ThermofluidStream won the €500 award for best library.
+ExternData and TransiEnt were runners-up and won €250 each.
+
 ### Submitted libraries:
 
 * [BatterySafety](proceedings/authors/ChristianGross)
-* [ExternData](proceedings/authors/ThomasBeutlich)
+* 🥈 [ExternData](proceedings/authors/ThomasBeutlich)
 * [Parallel manipulators](proceedings/authors/PaoloCampanini)
-* [ThermofluidStream](proceedings/authors/DirkZimmer)
-* [TransiEnt](proceedings/authors/AnneSenkel)
+* 🥇 [ThermofluidStream](proceedings/authors/DirkZimmer)
+* 🥈 [TransiEnt](proceedings/authors/AnneSenkel)
 * [VCLib](proceedings/authors/FabianWullhorst)
