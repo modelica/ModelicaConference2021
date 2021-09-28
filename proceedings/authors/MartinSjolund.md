@@ -7,15 +7,14 @@
 <a href="/proceedings/authors/JohnTinnerholm">John Tinnerholm</a>, <a href="/proceedings/authors/AdrianPop">Adrian Pop</a>, <a href="/proceedings/authors/AndreasHeuermann">Andreas Heuermann</a> and <a href="/proceedings/authors/MartinSjolund">Martin Sjölund</a></td>
 </tr>
 <tr><th>Abstract:</th>
-<td>This paper presents current work on our Modelica Compiler framework in Julia: OpenModelica.jl.\footnote{On GitHub:
-	\href{https://github.com/OpenModelica/OpenModelica.jl}{\color{blue}OpenModelica/OpenModelica.jl}}
+<td>This paper presents current work on our Modelica Compiler framework in Julia: OpenModelica.jl.
 We provide a brief overview of this novel framework and its features, and we also present the latest addition to the possible backend options.
 We target ModelingToolkit.jl (MTK), a framework for symbolic-numerical computation and scientific machine learning. 
 We evaluated the performance of our new backend using the ScalableTestsuite, a benchmark suite for Modelica Compilers.
 In our experiment, we demonstrate that MTK can be used as a backend with competitive simulation performance. 
 In addition, using the scientific machine learning features of the Modeling toolkit,  
 we were able to approximate models in the ScalableTestsuite using surrogate techniques and how such techniques can be used to accelerate 
-the solving of nonlinear algebraic loops during tearing.
+the solving of nonlinear algebraic loops during tearing.<br>
 
 Based on our experiments, we propose using this new framework to automatically generate surrogate components of a Modelica model during the simulation to increase performance.
 The experimental work presented here provides one of the first investigations concerning the integration of the symbolic-numerical abilities of Julia within a Modelica tool.</td></tr>
@@ -55,7 +54,7 @@ The experimental work presented here provides one of the first investigations co
 <tr><th>Abstract:</th>
 <td>Modelica tools change the formatting of the source code when performing operations in the graphical user interface.
 These unintended changes cause problems for source code management where during a code review you will mostly see changes that do not perform anything.
-The intent of this work is to present a workflow where edits from an interactive environment do not contain these unintended changes when using the source code management system.
+The intent of this work is to present a workflow where edits from an interactive environment do not contain these unintended changes when using the source code management system.<br>
 
 A diff tool that can merge two Modelica files and produce a merged copy is presented and evaluated.
 The diff algorithm works by comparing syntax subtrees of Modelica code and having some domain knowledge about which subtrees belong together, speeding up the diff algorithm.

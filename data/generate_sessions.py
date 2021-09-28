@@ -86,7 +86,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         paper_html += "</td>\n"
         paper_html += "</tr>\n"
         paper_html += '<tr><th>Abstract:</th>\n'
-        paper_html += "<td>%s</td></tr>\n" % escape(abstract)
+        paper_html += "<td>%s</td></tr>\n" % escape(abstract.strip()).replace("\n\n","<br>\n\n")
         paper_html += '<tr><th>Keywords:</th>\n'
         paper_html += "<td>%s</td></tr>\n" % escape(", ".join(keywords.split("\n")))
         paper_html += '<tr><th>Paper:</th>\n'

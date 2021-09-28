@@ -9,14 +9,14 @@
 <tr><th>Abstract:</th>
 <td>Vapour compression machines such as heat pumps and chillers are vital for achieving climate goals.
 Efficiency of both depend mostly on system integration.
-In order to simulate coupled energy systems, fast and stable simulation models are required.
+In order to simulate coupled energy systems, fast and stable simulation models are required.<br>
 
 Hence, we implement an open-source model for reversible vapour compression machines.
 The black-box based refrigeration cycle is replaceable, additional inertia and losses are optional.
-Furthermore, we model relevant safety controls of vapour compression machines.
+Furthermore, we model relevant safety controls of vapour compression machines.<br>
 
  To show validity of the presented approach, we first calibrate two different black-box models onto measured heat pump data.
-The table-based model fits both measured temperature and power with minimal calibration effort.
+The table-based model fits both measured temperature and power with minimal calibration effort.<br>
 
 Second, we show influences of different model options onto coupled building performance simulations.
 Computation time increases up to 50 % when enabling all model options.

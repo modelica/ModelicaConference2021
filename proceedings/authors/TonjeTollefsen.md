@@ -8,7 +8,7 @@
 </tr>
 <tr><th>Abstract:</th>
 <td>This paper presents the modelling of a synchronisation control as used inside a typical hydro power controller for small hydro power plants.
-It was built using the open-source modelling language Modelica by use of the Modelica Standard Library, the OpenIPSL and the OpenHPL.
+It was built using the open-source modelling language Modelica by use of the Modelica Standard Library, the OpenIPSL and the OpenHPL.<br>
 
 The resulting model allows for both transient and long-term simulations for the complete hydro power system with the main functions available and working.
 This includes water-level control, frequency control, voltage control with a power factor control and the synchronisation sequence.</td></tr>
