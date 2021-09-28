@@ -34,14 +34,14 @@ cases section of this paper</td></tr>
   pages = {197--204},
   doi = {10.3384/ecp21181197},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -69,14 +69,14 @@ cases section of this paper</td></tr>
   pages = {425--431},
   doi = {10.3384/ecp21181425},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

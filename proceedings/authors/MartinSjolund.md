@@ -31,14 +31,14 @@ The experimental work presented here provides one of the first investigations co
   pages = {109--117},
   doi = {10.3384/ecp21181109},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -76,14 +76,14 @@ Having a single large file takes slightly longer to process and produces additio
   pages = {529--537},
   doi = {10.3384/ecp21181529},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

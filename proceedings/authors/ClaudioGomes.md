@@ -21,14 +21,14 @@
   pages = {17--26},
   doi = {10.3384/ecp2118117},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -59,14 +59,14 @@ A formalization is presented along with example application scenarios, meant as 
   pages = {27--36},
   doi = {10.3384/ecp2118127},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -97,14 +97,14 @@ In this paper, we propose the Functional Mockup Interface as a possible standard
   pages = {287--295},
   doi = {10.3384/ecp21181287},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\&quot;oping, Sweden},
+  editor = {Martin Sj\&quot;olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
+  series = {Link\&quot;oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;oping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

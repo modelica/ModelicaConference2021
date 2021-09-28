@@ -30,14 +30,14 @@ all_bibtex = [
 @InProceedings{modelica2021,
   doi = {10.3384/ecp21181},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\\"{o}ping, Sweden},
-  editor = {Martin Sj\\"{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\\"oping, Sweden},
+  editor = {Martin Sj\\"olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\\"{o}ping Electronic Conference Proceedings},
+  series = {Link\\"oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\\"{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\\"oping University Electronic Press},
   year = {2021}
 }
 """.strip()
@@ -109,14 +109,14 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
   pages = {%d--%d},
   doi = {10.3384/ecp21181%d},
   booktitle = {Proceedings of the 14th International Modelica Conference},
-  location = {Link\\"{o}ping, Sweden},
-  editor = {Martin Sj\\"{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  location = {Link\\"oping, Sweden},
+  editor = {Martin Sj\\"olund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Link\\"{o}ping Electronic Conference Proceedings},
+  series = {Link\\"oping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Link\\"{o}ping University Electronic Press},
+  publisher = {Modelica Association and Link\\"oping University Electronic Press},
   year = {2021}
 }          
 """ % (firstAuthorLastName, handleMultiKey, unicode_to_latex(session["title%d" % i]), unicode_to_latex(allAuthors.replace(", ", " and ")), firstPage, lastPage, firstPage)
