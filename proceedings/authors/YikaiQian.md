@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/ChanLiu">Chan Liu</a>, <a href="/proceedings/authors/YikaiQian">Yikai Qian</a>, <a href="/proceedings/authors/LipingChen">Liping Chen</a>, <a href="/proceedings/authors/YanQu">Yan Qu</a> and <a href="/proceedings/authors/FanliZhou">Fanli Zhou</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>The new generation of LEO (Low Earth Orbit) communication satellite constellations have the advantages of low latency, strong signals, and global coverage. In order to achieve global coverage, the LEO satellite constellations are often very large, with a large number of satellites, which puts forward high requirements for the overall design, operation and maintenance of the constellation. Based on the Modelica language, this paper conducts a detailed study of the LEO communication satellite constellation and built a system model of satellite constellation, and carries out a full-link simulation for the typical service of mobile communication. By analyzing the simulation results, we conclude that based on the model of satellite constellation proposed in the paper, the satellite constellation can be quickly designed and simulated.</td></tr>
+<tr><th>Keywords:</th>
+<td>satellite constellation, Modelica, satellite communication, full-link simulation</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_2B_2">abstract</a> / <a href="/proceedings/papers/Modelica2021session2B_paper2.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181163">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Liu:2021,
+  title = {Modelica-Based Modeling on LEO Satellite Constellation},
+  author = {Chan Liu and Yikai Qian and Liping Chen and Yan Qu and Fanli Zhou},
+  pages = {163--170},
+  doi = {10.3384/ecp21181163},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

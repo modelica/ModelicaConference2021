@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/AndreasJunghanns">Andreas Junghanns</a>, <a href="/proceedings/authors/TorstenBlochwitz">Torsten Blochwitz</a>, <a href="/proceedings/authors/ChristianBertsch">Christian Bertsch</a>, <a href="/proceedings/authors/TorstenSommer">Torsten Sommer</a>, <a href="/proceedings/authors/KarlWernersson">Karl Wernersson</a>, <a href="/proceedings/authors/AndreasPillekeit">Andreas Pillekeit</a>, <a href="/proceedings/authors/IrinaZacharias">Irina Zacharias</a>, <a href="/proceedings/authors/MatthiasBlesken">Matthias Blesken</a>, <a href="/proceedings/authors/PierreR.Mai">Pierre R. Mai</a>, <a href="/proceedings/authors/KlausSchuch">Klaus Schuch</a>, <a href="/proceedings/authors/ChristianSchulze">Christian Schulze</a>, <a href="/proceedings/authors/ClaudioGomes">Cláudio Gomes</a> and <a href="/proceedings/authors/MasoudNajafi">Masoud Najafi</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>The Functional Mock-up Interface (FMI) (Modelica Association 2021[b]) is a tool independent standard for the exchange of dynamic models and for co-simulation.  FMI2.0, released in 2014, is recognized as the de-facto standard in industry for exchanging models and tool coupling,and is currently supported by more than 160 simulation tools. Version 3.0 of the standard brings many new features that allow  for  advanced co-simulation  algorithms and new use cases such as packaging and simulation of highly accurate virtual Electronic Control Units (vECUs). Besides Model-Exchange and Co-Simulation, a third interface type, Scheduled Execution, is defined for purely discrete, RTOS-like, simulation and supports preemption.Clocks allow the synchronization of events between Functional  Mock-up Units (FMUs)  and  the  importer. There is better support for data types including binary data and arrays.   Advanced co-simulation approaches are enabled by intermediate variable access between communication points and allowing event handling. The composition of systems from  FMUs is simplified by terminals that can bundle multiple signals. The concept of layered standards allows the extension of the FMI standard.</td></tr>
+<tr><th>Keywords:</th>
+<td>FMI, FMU, Functional Mock-up Interface</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_1A_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session1A_paper1.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118117">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Junghanns:2021,
+  title = {The Functional Mock-up Interface 3.0 - New Features Enabling New Applications},
+  author = {Andreas Junghanns and Torsten Blochwitz and Christian Bertsch and Torsten Sommer and Karl Wernersson and Andreas Pillekeit and Irina Zacharias and Matthias Blesken and Pierre R. Mai and Klaus Schuch and Christian Schulze and Cláudio Gomes and Masoud Najafi},
+  pages = {17--26},
+  doi = {10.3384/ecp2118117},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

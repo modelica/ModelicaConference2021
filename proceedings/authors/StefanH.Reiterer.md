@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/StefanH.Reiterer">Stefan H. Reiterer</a> and <a href="/proceedings/authors/ClemensSchiffer">Clemens Schiffer</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>In order to improve the quality of model based development and to reduce testing effort DevOps practices gain more and more importance. However, most system engineers are not DevOps specialists and there are a lot of manual steps involved when writing build pipelines and configurations of simulations. For this purpose an abstract graph-based metadata model is proposed which allows to auto generate scenario descriptions for the DCP standard and code for the build server where the simulation is set up and executed. A simple use case is described as an example of how this could be applied in practice. Furthermore, a Python implementation of a DCP master and a simple FMI to DCP wrapper are presented in this as well.</td></tr>
+<tr><th>Keywords:</th>
+<td>Continuous Integration, DevOps, MBSE, NoSQL Graph Data Bases, DCP, SysML, UML, SSP</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_5B_3">abstract</a> / <a href="/proceedings/papers/Modelica2021session5B_paper3.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181411">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Reiterer:2021,
+  title = {A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations},
+  author = {Stefan H. Reiterer and Clemens Schiffer},
+  pages = {411--417},
+  doi = {10.3384/ecp21181411},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

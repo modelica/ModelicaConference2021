@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/MarcMay">Marc May</a>, <a href="/proceedings/authors/ReikoMuller">Reiko Müller</a> and <a href="/proceedings/authors/GertjanLooye">Gertjan Looye</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>In this paper, aircraft mission simulation in Modelica with multidisciplinary models is described. This includes for example a Flight Control System (FCS) accompanied by a Flight Management System (FMS), a detailed aircraft implementation including several subsystems (for example landing gears, actuation and sensor systems), and the application of the integrated setup to realistic mission scenarios.</td></tr>
+<tr><th>Keywords:</th>
+<td>Aircraft modeling, Mission simulation, Flight control</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_2B_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session2B_paper1.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181155">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:May:2021,
+  title = {Aircraft Mission Simulation with the updated FlightDynamics Library},
+  author = {Marc May and Reiko Müller and Gertjan Looye},
+  pages = {155--162},
+  doi = {10.3384/ecp21181155},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

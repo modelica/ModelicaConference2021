@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/ThomasSchranz">Thomas Schranz</a>, <a href="/proceedings/authors/ChristianMoldrupLegaard">Christian Møldrup Legaard</a>, <a href="/proceedings/authors/DaniellaTola">Daniella Tola</a> and <a href="/proceedings/authors/GeraldSchweiger">Gerald Schweiger</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>Co-simulation is a means to combine and leverage the strengths of different modeling tools, environments and formalisms and has been applied successfully in various domains. The Functional Mock-Up Interface (FMI) is the most commonly used standard for co-simulation. In this paper we extend UniFMU, a tool that allows users to build Functional Mock-Up Units (FMUs) in virtually any programming language, to support execution within Docker. As a result the generated FMUs can be distributed in an environment containing all runtime dependencies. To describe the process of creating dockerized FMUs using UniFMU, we show how to model and co-simulate a robotic arm and a controller using two Python-based FMUs.</td></tr>
+<tr><th>Keywords:</th>
+<td>FMI, Co-Sim, Python, Tool-Coupling, Docker</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_5B_4">abstract</a> / <a href="/proceedings/papers/Modelica2021session5B_paper4.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181419">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Schranz:2021,
+  title = {Portable runtime environments for Python-based FMUs: Adding Docker support to UniFMU},
+  author = {Thomas Schranz and Christian Møldrup Legaard and Daniella Tola and Gerald Schweiger},
+  pages = {419--424},
+  doi = {10.3384/ecp21181419},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

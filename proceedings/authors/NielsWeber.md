@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/DirkZimmer">Dirk Zimmer</a>, <a href="/proceedings/authors/MichaelMeissner">Michael Meißner</a> and <a href="/proceedings/authors/NielsWeber">Niels Weber</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>This paper introduces the DLR ThermofluidStream Library: a free open-source library for the robust modeling of complex thermofluid architectures. Designed to be easy to use, easy to adapt and enriched by a number of examples, this library contains the fundamental components for many different applications such as thermal management of electric cars, power plants, or building physics.</td></tr>
+<tr><th>Keywords:</th>
+<td>Thermal fluids, Thermal process systems, Robust modeling, Heat exchangers, Open source software</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_3A_5">abstract</a> / <a href="/proceedings/papers/Modelica2021session3A_paper5.pdf">full paper</a> / <a href="https://github.com/DLR-SR/ThermofluidStream">library</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181225">full paper</a> / <a href="https://github.com/DLR-SR/ThermofluidStream">library</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Zimmer:2021,
+  title = {The DLR ThermoFluidStream Library},
+  author = {Dirk Zimmer and Michael Meißner and Niels Weber},
+  pages = {225--234},
+  doi = {10.3384/ecp21181225},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

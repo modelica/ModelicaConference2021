@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/CarlesRibasTugores">Carles Ribas Tugores</a>, <a href="/proceedings/authors/GeraldBirngruber">Gerald Birngruber</a>, <a href="/proceedings/authors/JurgenFluch">Jürgen Fluch</a>, <a href="/proceedings/authors/AngelikaSwatek">Angelika Swatek</a> and <a href="/proceedings/authors/GeraldSchweiger">Gerald Schweiger</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>Decarbonization of industry is a key challenge to achieve the Paris climate goals. Digitalization of the industry is a cornerstone of this journey. In this paper we present our modelling work towards the creation of a Digital Energy Twin of the energy supply system of a printed boarding circuit manufacturing by means of a classical use case, system design optimization. The simulation approach allowed us to fairly compare the improvements done in the energy supply system by evaluating those under the same operating conditions. Integration of waste chiller’s waste heat can cover most of the low temperature grid heat demand while the additional generation of chilled water reduces the amount of water pump from and back to the river.</td></tr>
+<tr><th>Keywords:</th>
+<td>Digitalization, Industry, Modelling, Efficiency, Decarbonization</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_6B_4">abstract</a> / <a href="/proceedings/papers/Modelica2021session6B_paper4.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181497">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Tugores:2021,
+  title = {Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing},
+  author = {Carles Ribas Tugores and Gerald Birngruber and Jürgen Fluch and Angelika Swatek and Gerald Schweiger},
+  pages = {497--505},
+  doi = {10.3384/ecp21181497},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

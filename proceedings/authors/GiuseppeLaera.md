@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/SergioA.Dorado-Rojas">Sergio A. Dorado-Rojas</a>, <a href="/proceedings/authors/GiuseppeLaera">Giuseppe Laera</a>, <a href="/proceedings/authors/MarcelodeCastroFernandes">Marcelo de Castro Fernandes</a>, <a href="/proceedings/authors/TetianaBogodorova">Tetiana Bogodorova</a> and <a href="/proceedings/authors/LuigiVanfretti">Luigi Vanfretti</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>This paper presents a tool to populate power flow results for phasor time-domain simulations with the Open Instance Power System Library (OpenIPSL). Our proposal takes advantage of the object-oriented philosophy of Modelica and introduces a data structure based on records to handle power flow data for a given network model. Such records constitute a user-friendly interface to change the guess values used to solve the initial condition of a dynamical simulation straightforwardly. Power flow calculations are carried out by the open-source Python library GridCal. We demonstrate the tool capabilities by generating power flow results for several grid models and comparing them with those obtained via proprietary tools such as PSS/E. Moreover, we provide tutorial materials to ease integrating the tool for a new/experienced OpenIPSL user.</td></tr>
+<tr><th>Keywords:</th>
+<td>GridCal, OpenIPSL, Power Flow, Python, Records</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_2A_4">abstract</a> / <a href="/proceedings/papers/Modelica2021session2A_paper4.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181147">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Dorado-Rojas:2021,
+  title = {Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python},
+  author = {Sergio A. Dorado-Rojas and Giuseppe Laera and Marcelo de Castro Fernandes and Tetiana Bogodorova and Luigi Vanfretti},
+  pages = {147--154},
+  doi = {10.3384/ecp21181147},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>

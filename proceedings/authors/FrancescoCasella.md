@@ -6,7 +6,30 @@
 <td>
 <a href="/proceedings/authors/FrancescoCasella">Francesco Casella</a> and <a href="/proceedings/authors/AdrienGuironnet">Adrien Guironnet</a></td>
 </tr>
+<tr><th>Abstract:</th>
+<td>This paper introduces ScalableTestGrids, an open-source and flexible benchmark suite for assessing the performance of Modelica tools on large-scale power system test cases. The benchmark suite is built by using components from the PowerGrids library and generic utility scripts creating the final runnable Modelica models. It does not depend on confidential data; its structure makes any future needed modification or evolution easy and straightforward. Results obtained with the OpenModelica tool are also reported. The benchmark suite can be used by tool developers to assess the capability of their tools to handle large-scale power generation and transmission models.</td></tr>
+<tr><th>Keywords:</th>
+<td>Benchmark, Power System Simulation, Large-Scale Simulation, Performance, Open-Source</td></tr>
 <tr><th>Paper:</th>
-<td><a href="/abstracts/abstract_5A_1">abstract</a> / <a href="/proceedings/papers/Modelica2021session5A_paper1.pdf">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181351">full paper</a></td>
 </tr>
+<tr><th>Bibtex:</th>
+<td><pre>
+@InProceedings{modelica.org:Casella:2021,
+  title = {ScalableTestGrids - An Open-Source and Flexible Benchmark Suite to Assess Modelica Tool Performance on Large-Scale Power System Test Cases},
+  author = {Francesco Casella and Adrien Guironnet},
+  pages = {351--358},
+  doi = {10.3384/ecp21181351},
+  booktitle = {Proceedings of the 14th International Modelica Conference},
+  location = {Link\&quot;{o}ping, Sweden},
+  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  isbn = {978-91-7929-027-6},
+  issn = {1650-3740},
+  month = sep,
+  series = {Linköping Electronic Conference Proceedings},
+  number = {181},
+  publisher = {Modelica Association and Linköping University Electronic Press},
+  year = {2021}
+}
+</pre></td></tr>
 </table><br>
