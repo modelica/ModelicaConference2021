@@ -20,20 +20,20 @@ https://github.com/RWTHEBC/AixLib/tree/issue890_HOMProject_FloorHeating</td></tr
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
-@InProceedings{modelica.org:Göbel:2021,
+@InProceedings{modelica.org:Gobel:2021,
   title = {Underfloor heating system model for building performance simulations},
   author = {Stephan Göbel and Elaine Schmitt and Philipp Mehrfeld and Dirk Müller},
   pages = {343--349},
   doi = {10.3384/ecp21181343},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -68,20 +68,20 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
-@InProceedings{modelica.org:Wüllhorst:2021,
+@InProceedings{modelica.org:Wullhorst:2021,
   title = {A Modular Model of Reversible Heat Pumps and Chillers for System Applications},
   author = {Fabian Wüllhorst and David Jansen and Philipp Mehrfeld and Dirk Müller},
   pages = {561--568},
   doi = {10.3384/ecp21181561},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -110,13 +110,13 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
   doi = {10.3384/ecp21181665},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

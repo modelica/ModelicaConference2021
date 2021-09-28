@@ -5,6 +5,7 @@ import os
 import openpyxl
 from html import escape
 import string
+from pylatexenc.latexencode import unicode_to_latex
 
 wookbook = openpyxl.load_workbook("data/conference_meta_data_liu_epress.xlsx")
 worksheet = wookbook.active
@@ -30,13 +31,13 @@ all_bibtex = [
   doi = {10.3384/ecp21181},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\\"{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\\"{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\\"{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\\"{o}ping University Electronic Press},
   year = {2021}
 }
 """.strip()
@@ -46,7 +47,7 @@ paperNum=2
 
 lastNames = dict()
 for i in range(1, worksheet.max_row):
-  lastName = worksheet[i][1].value.split(" and ")[0].split(",")[0].split(" ")[-1]
+  lastName = unidecode(worksheet[i][1].value.split(" and ")[0].split(",")[0].split(" ")[-1])
   if lastName in lastNames:
     lastNames[lastName] = 0
   else:
@@ -70,7 +71,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         numPages = int(worksheet[paperNum][4].value)
         firstPage = int(worksheet[paperNum][7].value)
         lastPage = firstPage + numPages - 1
-        firstAuthorLastName = authors[0].split(" ")[-1]
+        firstAuthorLastName = unidecode(authors[0].split(" ")[-1])
 
         paper_html = ""
         paper_html += "<table>"
@@ -109,13 +110,13 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
   doi = {10.3384/ecp21181%d},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\\"{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\\"{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\\"{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\\"{o}ping University Electronic Press},
   year = {2021}
 }          
 """ % (firstAuthorLastName, handleMultiKey, session["title%d" % i], allAuthors.replace(", ", " and "), firstPage, lastPage, firstPage)

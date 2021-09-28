@@ -26,13 +26,13 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
   doi = {10.3384/ecp21181335},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -61,13 +61,13 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
   doi = {10.3384/ecp21181419},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -96,13 +96,13 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
   doi = {10.3384/ecp21181497},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

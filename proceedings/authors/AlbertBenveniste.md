@@ -24,13 +24,13 @@ We propose in this paper amultimode structural analysis for both multiple modes 
   doi = {10.3384/ecp21181507},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -59,13 +59,13 @@ We propose in this paper amultimode structural analysis for both multiple modes 
   doi = {10.3384/ecp21181519},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
@@ -96,13 +96,13 @@ An important difficulty is the occurrence of impulsive behavior at some mode cha
   doi = {10.3384/ecp21181549},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>

@@ -15,20 +15,20 @@
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
-@InProceedings{modelica.org:Coïc:2021,
+@InProceedings{modelica.org:Coic:2021,
   title = {Modelica, FMI and SSP for LOTAR of Analytical mBSE models: First Implementation and Feedback},
   author = {Clément Coïc and Adrian Murton and Juan Carlos Mendo and Mark Williams and Hubertus Tummescheit and Kurt Woodham},
   pages = {49--56},
   doi = {10.3384/ecp2118149},
   booktitle = {Proceedings of the 14th International Modelica Conference},
   location = {Link\&quot;{o}ping, Sweden},
-  editor = {Martin Sjölund and Lena Buffoni and Adrian Pop and Lennart Ochel},
+  editor = {Martin Sj\&quot;{o}lund and Lena Buffoni and Adrian Pop and Lennart Ochel},
   isbn = {978-91-7929-027-6},
   issn = {1650-3740},
   month = sep,
-  series = {Linköping Electronic Conference Proceedings},
+  series = {Link\&quot;{o}ping Electronic Conference Proceedings},
   number = {181},
-  publisher = {Modelica Association and Linköping University Electronic Press},
+  publisher = {Modelica Association and Link\&quot;{o}ping University Electronic Press},
   year = {2021}
 }
 </pre></td></tr>
