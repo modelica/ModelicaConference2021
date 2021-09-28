@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Rackauckas:2021,
-  title = {Composing Modeling and Simulation with Machine Learning in Julia},
+  title = {{Composing Modeling and Simulation with Machine Learning in Julia}},
   author = {Chris Rackauckas and Ranjan Anantharaman and Alan Edelman and Shashi Gowda and Maja Gwozdz and Anand Jain and Chris Laughman and Yingbo Ma and Francesco Martinuzzi and Avik Pal and Utkarsh Rajput and Elliot Saba and Viral Shah},
   pages = {97--107},
   doi = {10.3384/ecp2118197},

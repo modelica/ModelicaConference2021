@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Prado-Velasco:2021,
-  title = {In-silico virtual prototyping multilevel modeling system for Cyborgs (CybSim) as a novel approach for current challenges in biosciencies},
+  title = {{In-silico virtual prototyping multilevel modeling system for Cyborgs (CybSim) as a novel approach for current challenges in biosciencies}},
   author = {Manuel Prado-Velasco},
   pages = {485--496},
   doi = {10.3384/ecp21181485},

@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Batteh:2021,
-  title = {Model-Based Development of the RespiraWorks Ventilator with Modelon Impact},
+  title = {{Model-Based Development of the RespiraWorks Ventilator with Modelon Impact}},
   author = {John Batteh and Lixiang Li and Edwin Chiu and Ethan Chaleff},
   pages = {471--483},
   doi = {10.3384/ecp21181471},

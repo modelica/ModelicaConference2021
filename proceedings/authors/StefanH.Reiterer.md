@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Reiterer:2021,
-  title = {A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations},
+  title = {{A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations}},
   author = {Stefan H. Reiterer and Clemens Schiffer},
   pages = {411--417},
   doi = {10.3384/ecp21181411},

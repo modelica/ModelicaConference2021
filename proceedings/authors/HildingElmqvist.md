@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Elmqvist:2021,
-  title = {Modia - Equation Based Modeling and Domain Specific Algorithms},
+  title = {{Modia - Equation Based Modeling and Domain Specific Algorithms}},
   author = {Hilding Elmqvist and Martin Otter and Andrea Neumayr and Gerhard Hippmann},
   pages = {73--86},
   doi = {10.3384/ecp2118173},

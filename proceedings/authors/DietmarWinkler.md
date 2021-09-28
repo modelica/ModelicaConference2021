@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Beutlich:2021,
-  title = {Efficient Parameterization of Modelica Models},
+  title = {{Efficient Parameterization of Modelica Models}},
   author = {Thomas Beutlich and Dietmar Winkler},
   pages = {141--146},
   doi = {10.3384/ecp21181141},
@@ -55,7 +55,7 @@ This includes water-level control, frequency control, voltage control with a pow
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Hellborg:2021,
-  title = {Modelling the Synchronisation Control for a Hydro Power Controller},
+  title = {{Modelling the Synchronisation Control for a Hydro Power Controller}},
   author = {Jonatan Hellborg and Tonje Tollefsen and Khemraj Bhusal and Dietmar Winkler},
   pages = {607--616},
   doi = {10.3384/ecp21181607},
@@ -95,7 +95,7 @@ The behaviour of the limiters have been tested against a verified generator mode
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Manoranjan:2021,
-  title = {Developing Protective Limiters for a Hydro Power Controller in Modelica},
+  title = {{Developing Protective Limiters for a Hydro Power Controller in Modelica}},
   author = {Luxshan Manoranjan and Dietmar Winkler},
   pages = {617--626},
   doi = {10.3384/ecp21181617},

@@ -26,7 +26,7 @@ The experimental work presented here provides one of the first investigations co
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Tinnerholm:2021,
-  title = {OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl},
+  title = {{OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl}},
   author = {John Tinnerholm and Adrian Pop and Andreas Heuermann and Martin Sj\&quot;olund},
   pages = {109--117},
   doi = {10.3384/ecp21181109},
@@ -71,7 +71,7 @@ Having a single large file takes slightly longer to process and produces additio
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Sjolund:2021,
-  title = {Evaluating a Tree Diff Algorithm for Use in Modelica Tools},
+  title = {{Evaluating a Tree Diff Algorithm for Use in Modelica Tools}},
   author = {Martin Sj\&quot;olund},
   pages = {529--537},
   doi = {10.3384/ecp21181529},

@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Jorissen:2021,
-  title = {Detailed White-Box Non-Linear Model Predictive Control for Scalable Building HVAC Control},
+  title = {{Detailed White-Box Non-Linear Model Predictive Control for Scalable Building HVAC Control}},
   author = {Filip Jorissen and Damien Picard and Kristoff Six and Lieve Helsen},
   pages = {315--323},
   doi = {10.3384/ecp21181315},

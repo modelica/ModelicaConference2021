@@ -21,7 +21,7 @@ The behaviour of the limiters have been tested against a verified generator mode
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Manoranjan:2021,
-  title = {Developing Protective Limiters for a Hydro Power Controller in Modelica},
+  title = {{Developing Protective Limiters for a Hydro Power Controller in Modelica}},
   author = {Luxshan Manoranjan and Dietmar Winkler},
   pages = {617--626},
   doi = {10.3384/ecp21181617},

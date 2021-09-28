@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Schindhelm:2021,
-  title = {Long Term Technical and Economic Evaluation of Hydrogen Storage Technologies for Energy Autarkic Residential Complexes},
+  title = {{Long Term Technical and Economic Evaluation of Hydrogen Storage Technologies for Energy Autarkic Residential Complexes}},
   author = {Lucas Schindhelm and Ales Vojacek and Johannes Brunnemann},
   pages = {597--606},
   doi = {10.3384/ecp21181597},

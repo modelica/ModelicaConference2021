@@ -29,7 +29,7 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Wullhorst:2021,
-  title = {A Modular Model of Reversible Heat Pumps and Chillers for System Applications},
+  title = {{A Modular Model of Reversible Heat Pumps and Chillers for System Applications}},
   author = {Fabian W\&quot;ullhorst and David Jansen and Philipp Mehrfeld and Dirk M\&quot;uller},
   pages = {561--568},
   doi = {10.3384/ecp21181561},

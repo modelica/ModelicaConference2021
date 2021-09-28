@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Pathak:2021,
-  title = {Use of Modelica to predict risk of Covid-19 infection in indoor environments},
+  title = {{Use of Modelica to predict risk of Covid-19 infection in indoor environments}},
   author = {Arnav Pathak and Kilian Schneider and Victor Norrefeldt},
   pages = {463--469},
   doi = {10.3384/ecp21181463},

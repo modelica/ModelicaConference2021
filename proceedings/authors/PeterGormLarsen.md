@@ -19,7 +19,7 @@ In this paper, we propose the Functional Mockup Interface as a possible standard
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Gomes:2021b,
-  title = {Seismic Hybrid Testing using FMI-based Co-Simulation},
+  title = {{Seismic Hybrid Testing using FMI-based Co-Simulation}},
   author = {Cl\&#x27;audio Gomes and Giuseppe Abbiati and Peter Gorm Larsen},
   pages = {287--295},
   doi = {10.3384/ecp21181287},

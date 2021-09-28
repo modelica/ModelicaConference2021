@@ -20,7 +20,7 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Falay:2021,
-  title = {Coupling physical and machine learning models: case study of a single-family house},
+  title = {{Coupling physical and machine learning models: case study of a single-family house}},
   author = {Basak Falay and Sandra Wilfling and Qamar Alfalouji and Johannes Exenberger and Thomas Schranz and Christian M{\o}ldrup Legaard and Ingo Leusbrock and Gerald Schweiger},
   pages = {335--341},
   doi = {10.3384/ecp21181335},
@@ -55,7 +55,7 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Schranz:2021,
-  title = {Portable runtime environments for Python-based FMUs: Adding Docker support to UniFMU},
+  title = {{Portable runtime environments for Python-based FMUs: Adding Docker support to UniFMU}},
   author = {Thomas Schranz and Christian M{\o}ldrup Legaard and Daniella Tola and Gerald Schweiger},
   pages = {419--424},
   doi = {10.3384/ecp21181419},
@@ -90,7 +90,7 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Tugores:2021,
-  title = {Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing},
+  title = {{Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing}},
   author = {Carles Ribas Tugores and Gerald Birngruber and J\&quot;urgen Fluch and Angelika Swatek and Gerald Schweiger},
   pages = {497--505},
   doi = {10.3384/ecp21181497},

@@ -22,7 +22,7 @@ realistic Modelica models in Dymola.</td></tr>
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Olsson:2021,
-  title = {Investigating Steady State Initialization for Modelica models},
+  title = {{Investigating Steady State Initialization for Modelica models}},
   author = {Hans Olsson and Erik Henningsson},
   pages = {119--127},
   doi = {10.3384/ecp21181119},
@@ -58,7 +58,7 @@ Taking advantage of the mathematical formulation of Modelica equations, this pap
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Mesa-Moles:2021,
-  title = {New Equation-based Method for Parameter and State Estimation},
+  title = {{New Equation-based Method for Parameter and State Estimation}},
   author = {Luis Corona Mesa-Moles and Erik Henningsson and Daniel Bouskela and Audrey Jardin and Hans Olsson},
   pages = {129--139},
   doi = {10.3384/ecp21181129},

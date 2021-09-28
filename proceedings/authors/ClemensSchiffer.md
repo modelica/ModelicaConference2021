@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Reiterer:2021,
-  title = {A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations},
+  title = {{A Graph-Based Meta-Data Model for DevOps in Simulation-Driven Development and Generation of DCP Configurations}},
   author = {Stefan H. Reiterer and Clemens Schiffer},
   pages = {411--417},
   doi = {10.3384/ecp21181411},
@@ -53,7 +53,7 @@ In this paper we introduce an accurate robotic arm simulation for industrial man
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Shah:2021,
-  title = {Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards},
+  title = {{Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards}},
   author = {Nihar Hasmukhbhai Shah and Perig Le Henaff and Clemens Schiffer and Martin Krammer and Martin Benedikt},
   pages = {673--679},
   doi = {10.3384/ecp21181673},

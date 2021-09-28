@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Senkel:2021,
-  title = {Status of the TransiEnt Library: Transient Simulation of Complex Integrated Energy Systems},
+  title = {{Status of the TransiEnt Library: Transient Simulation of Complex Integrated Energy Systems}},
   author = {Anne Senkel and Carsten Bode and Jan-Peter Heckel and Oliver Sch\&quot;ulting and Gerhard Schmitz and Christian Becker and Alfons Kather},
   pages = {187--196},
   doi = {10.3384/ecp21181187},

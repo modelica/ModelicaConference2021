@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Reiser:2021,
-  title = {Object Manipulation and Assembly in Modelica},
+  title = {{Object Manipulation and Assembly in Modelica}},
   author = {Robert Reiser},
   pages = {433--441},
   doi = {10.3384/ecp21181433},

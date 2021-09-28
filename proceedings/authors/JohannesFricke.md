@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Fricke:2021,
-  title = {Python Framework for Wind Turbines  Enabling Test Automation of MoWiT},
+  title = {{Python Framework for Wind Turbines  Enabling Test Automation of MoWiT}},
   author = {Johannes Fricke and Marcus Wiens and Niklas Requate and Mareike Leimeister},
   pages = {403--409},
   doi = {10.3384/ecp21181403},

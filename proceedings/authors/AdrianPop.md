@@ -26,7 +26,7 @@ The experimental work presented here provides one of the first investigations co
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Tinnerholm:2021,
-  title = {OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl},
+  title = {{OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl}},
   author = {John Tinnerholm and Adrian Pop and Andreas Heuermann and Martin Sj\&quot;olund},
   pages = {109--117},
   doi = {10.3384/ecp21181109},
@@ -61,7 +61,7 @@ The experimental work presented here provides one of the first investigations co
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Bouskela:2021,
-  title = {New Method to Perform Data Reconciliation with OpenModelica and ThermoSysPro},
+  title = {{New Method to Perform Data Reconciliation with OpenModelica and ThermoSysPro}},
   author = {Daniel Bouskela and Audrey Jardin and Arunkumar Palanisamy and Lennart Ochel and Adrian Pop},
   pages = {453--462},
   doi = {10.3384/ecp21181453},

@@ -104,7 +104,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         bibtex = ""
         bibtex += """
 @InProceedings{modelica.org:%s:2021%s,
-  title = {%s},
+  title = {{%s}},
   author = {%s},
   pages = {%d--%d},
   doi = {10.3384/ecp21181%d},

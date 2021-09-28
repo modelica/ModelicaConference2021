@@ -20,7 +20,7 @@ This includes water-level control, frequency control, voltage control with a pow
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Hellborg:2021,
-  title = {Modelling the Synchronisation Control for a Hydro Power Controller},
+  title = {{Modelling the Synchronisation Control for a Hydro Power Controller}},
   author = {Jonatan Hellborg and Tonje Tollefsen and Khemraj Bhusal and Dietmar Winkler},
   pages = {607--616},
   doi = {10.3384/ecp21181607},

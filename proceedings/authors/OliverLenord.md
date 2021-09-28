@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Lenord:2021,
-  title = {eFMI: An open standard for physical models in embedded software},
+  title = {{eFMI: An open standard for physical models in embedded software}},
   author = {Oliver Lenord and Martin Otter and Christoff B\&quot;urger and Michael Hussmann and Pierre Le Bihan and J\&quot;org Niere and Andreas Pfeiffer and Robert Reicherdt and Kai Werther},
   pages = {57--71},
   doi = {10.3384/ecp2118157},

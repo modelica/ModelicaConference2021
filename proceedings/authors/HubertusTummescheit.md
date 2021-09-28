@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Coic:2021,
-  title = {Modelica, FMI and SSP for LOTAR of Analytical mBSE models: First Implementation and Feedback},
+  title = {{Modelica, FMI and SSP for LOTAR of Analytical mBSE models: First Implementation and Feedback}},
   author = {Cl\&#x27;ement Co{\&quot;\i}c and Adrian Murton and Juan Carlos Mendo and Mark Williams and Hubertus Tummescheit and Kurt Woodham},
   pages = {49--56},
   doi = {10.3384/ecp2118149},

@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Junghanns:2021,
-  title = {The Functional Mock-up Interface 3.0 - New Features Enabling New Applications},
+  title = {{The Functional Mock-up Interface 3.0 - New Features Enabling New Applications}},
   author = {Andreas Junghanns and Torsten Blochwitz and Christian Bertsch and Torsten Sommer and Karl Wernersson and Andreas Pillekeit and Irina Zacharias and Matthias Blesken and Pierre R. Mai and Klaus Schuch and Christian Schulze and Cl\&#x27;audio Gomes and Masoud Najafi},
   pages = {17--26},
   doi = {10.3384/ecp2118117},

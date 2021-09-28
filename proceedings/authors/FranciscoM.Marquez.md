@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Perez:2021,
-  title = {A first principles thermal losses model of the TCP-100 parabolic trough collector based on the Modelica Standard Library},
+  title = {{A first principles thermal losses model of the TCP-100 parabolic trough collector based on the Modelica Standard Library}},
   author = {Julia P\&#x27;erez and Luis J. Yebra and Francisco M. M\&#x27;arquez and Pedro J. Zufiria},
   pages = {271--276},
   doi = {10.3384/ecp21181271},

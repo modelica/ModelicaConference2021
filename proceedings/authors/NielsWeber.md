@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Zimmer:2021,
-  title = {The DLR ThermoFluidStream Library},
+  title = {{The DLR ThermoFluidStream Library}},
   author = {Dirk Zimmer and Michael Mei{\ss}ner and Niels Weber},
   pages = {225--234},
   doi = {10.3384/ecp21181225},

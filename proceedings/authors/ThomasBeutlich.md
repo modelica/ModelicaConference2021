@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Beutlich:2021,
-  title = {Efficient Parameterization of Modelica Models},
+  title = {{Efficient Parameterization of Modelica Models}},
   author = {Thomas Beutlich and Dietmar Winkler},
   pages = {141--146},
   doi = {10.3384/ecp21181141},

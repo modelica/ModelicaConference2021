@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Gross:2021,
-  title = {A Modelica library for Thermal-Runaway Propagation in Lithium-Ion Batteries},
+  title = {{A Modelica library for Thermal-Runaway Propagation in Lithium-Ion Batteries}},
   author = {Christian Gro{\ss} and Andrej W. Golubkov},
   pages = {215--224},
   doi = {10.3384/ecp21181215},

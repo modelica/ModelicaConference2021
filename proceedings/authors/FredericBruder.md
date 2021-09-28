@@ -18,7 +18,7 @@ We use it to build and evaluate an easily interpretable model based on both phys
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Bruder:2021,
-  title = {Modia and Julia for Grey Box Modeling},
+  title = {{Modia and Julia for Grey Box Modeling}},
   author = {Frederic Bruder and Lars Mikelsons},
   pages = {87--95},
   doi = {10.3384/ecp2118187},

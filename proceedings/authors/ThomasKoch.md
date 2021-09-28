@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Brunnemann:2021,
-  title = {Numerically Robust Six-Equation Two-Phase Flow Model for Stationary and Moving Systems in Modelica},
+  title = {{Numerically Robust Six-Equation Two-Phase Flow Model for Stationary and Moving Systems in Modelica}},
   author = {Johannes Brunnemann and Ales Vojacek and Thomas Koch},
   pages = {539--548},
   doi = {10.3384/ecp21181539},

@@ -21,7 +21,7 @@ When compared to a native Modelica building envelope simulation of comparable le
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Wetter:2021,
-  title = {Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus},
+  title = {{Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus}},
   author = {Michael Wetter and Kyle Benne and Baptiste Ravache},
   pages = {325--334},
   doi = {10.3384/ecp21181325},

@@ -21,7 +21,7 @@ https://github.com/RWTHEBC/AixLib/tree/issue890_HOMProject_FloorHeating</td></tr
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Gobel:2021,
-  title = {Underfloor heating system model for building performance simulations},
+  title = {{Underfloor heating system model for building performance simulations}},
   author = {Stephan G\&quot;obel and Elaine Schmitt and Philipp Mehrfeld and Dirk M\&quot;uller},
   pages = {343--349},
   doi = {10.3384/ecp21181343},

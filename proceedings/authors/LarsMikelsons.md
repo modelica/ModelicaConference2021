@@ -18,7 +18,7 @@ We use it to build and evaluate an easily interpretable model based on both phys
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Bruder:2021,
-  title = {Modia and Julia for Grey Box Modeling},
+  title = {{Modia and Julia for Grey Box Modeling}},
   author = {Frederic Bruder and Lars Mikelsons},
   pages = {87--95},
   doi = {10.3384/ecp2118187},
@@ -53,7 +53,7 @@ We use it to build and evaluate an easily interpretable model based on both phys
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Thummerer:2021,
-  title = {NeuralFMU: Towards Structural Integration of FMUs into Neural Networks},
+  title = {{NeuralFMU: Towards Structural Integration of FMUs into Neural Networks}},
   author = {Tobias Thummerer and Josef Kircher and Lars Mikelsons},
   pages = {297--306},
   doi = {10.3384/ecp21181297},

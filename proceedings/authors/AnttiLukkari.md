@@ -34,7 +34,7 @@ and related powertrain products.</td></tr>
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Eklund:2021,
-  title = {Optimizing life-cycle costs for pumps and powertrains using FMI co-simulation},
+  title = {{Optimizing life-cycle costs for pumps and powertrains using FMI co-simulation}},
   author = {Miro Eklund and Jouni Savolainen and Antti Lukkari and Tommi Karhela},
   pages = {681--689},
   doi = {10.3384/ecp21181681},

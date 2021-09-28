@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Lenord:2021,
-  title = {eFMI: An open standard for physical models in embedded software},
+  title = {{eFMI: An open standard for physical models in embedded software}},
   author = {Oliver Lenord and Martin Otter and Christoff B\&quot;urger and Michael Hussmann and Pierre Le Bihan and J\&quot;org Niere and Andreas Pfeiffer and Robert Reicherdt and Kai Werther},
   pages = {57--71},
   doi = {10.3384/ecp2118157},
@@ -51,7 +51,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Elmqvist:2021,
-  title = {Modia - Equation Based Modeling and Domain Specific Algorithms},
+  title = {{Modia - Equation Based Modeling and Domain Specific Algorithms}},
   author = {Hilding Elmqvist and Martin Otter and Andrea Neumayr and Gerhard Hippmann},
   pages = {73--86},
   doi = {10.3384/ecp2118173},
@@ -87,7 +87,7 @@ models and the achieved results. In this article, we try to summarize the state-
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Gall:2021,
-  title = {Continuous Development and Management of Credible Modelica Models},
+  title = {{Continuous Development and Management of Credible Modelica Models}},
   author = {Leo Gall and Martin Otter and Matthias Reiner and Matthias Sch\&quot;afer and Jakub Tobol\&#x27;a\v{r}},
   pages = {359--372},
   doi = {10.3384/ecp21181359},
