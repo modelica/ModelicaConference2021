@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Ruan:2021,
   title = {Modeling of A Bearing Test Bench and Analysis of Defect Bearing Dynamics in Modelica},
-  author = {Diwang Ruan and Zhirou Li and Clemens Gühmann},
+  author = {Diwang Ruan and Zhirou Li and Clemens G\&quot;uhmann},
   pages = {373--382},
   doi = {10.3384/ecp21181373},
   booktitle = {Proceedings of the 14th International Modelica Conference},

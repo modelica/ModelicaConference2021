@@ -20,7 +20,7 @@ the 3D Computer Aided Design (CAD) Software (SW) CATIA in the SSP format is deve
 <td><pre>
 @InProceedings{modelica.org:Hallqvist:2021,
   title = {Engineering Domain Interoperability Using the System Structure and Parameterization (SSP) Standard},
-  author = {Robert Hällqvist and Raghu Chaitanya Munjulury and Robert Braun and Magnus Eek and Petter Krus},
+  author = {Robert H\&quot;allqvist and Raghu Chaitanya Munjulury and Robert Braun and Magnus Eek and Petter Krus},
   pages = {37--48},
   doi = {10.3384/ecp2118137},
   booktitle = {Proceedings of the 14th International Modelica Conference},

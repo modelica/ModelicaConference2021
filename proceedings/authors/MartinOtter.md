@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Lenord:2021,
   title = {eFMI: An open standard for physical models in embedded software},
-  author = {Oliver Lenord and Martin Otter and Christoff Bürger and Michael Hussmann and Pierre Le Bihan and Jörg Niere and Andreas Pfeiffer and Robert Reicherdt and Kai Werther},
+  author = {Oliver Lenord and Martin Otter and Christoff B\&quot;urger and Michael Hussmann and Pierre Le Bihan and J\&quot;org Niere and Andreas Pfeiffer and Robert Reicherdt and Kai Werther},
   pages = {57--71},
   doi = {10.3384/ecp2118157},
   booktitle = {Proceedings of the 14th International Modelica Conference},
@@ -88,7 +88,7 @@ models and the achieved results. In this article, we try to summarize the state-
 <td><pre>
 @InProceedings{modelica.org:Gall:2021,
   title = {Continuous Development and Management of Credible Modelica Models},
-  author = {Leo Gall and Martin Otter and Matthias Reiner and Matthias Schäfer and Jakub Tobolář},
+  author = {Leo Gall and Martin Otter and Matthias Reiner and Matthias Sch\&quot;afer and Jakub Tobol\&#x27;a\v{r}},
   pages = {359--372},
   doi = {10.3384/ecp21181359},
   booktitle = {Proceedings of the 14th International Modelica Conference},

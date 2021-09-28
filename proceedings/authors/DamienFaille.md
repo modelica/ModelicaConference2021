@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Feghali:2021,
   title = {Energy-based Method to Simplify Complex Multi-Energy Modelica Models},
-  author = {Joy El Feghali and Guillaume Sandou and Hervé Guéguen and Pierre Haessig and Damien Faille},
+  author = {Joy El Feghali and Guillaume Sandou and Herv\&#x27;e Gu\&#x27;eguen and Pierre Haessig and Damien Faille},
   pages = {577--585},
   doi = {10.3384/ecp21181577},
   booktitle = {Proceedings of the 14th International Modelica Conference},

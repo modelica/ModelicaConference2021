@@ -19,7 +19,7 @@ We propose in this paper amultimode structural analysis for both multiple modes 
 <td><pre>
 @InProceedings{modelica.org:Benveniste:2021a,
   title = {Handling Multimode Models and Mode Changes in Modelica},
-  author = {Albert Benveniste and Benoît Caillaud and Mathias Malandain},
+  author = {Albert Benveniste and Beno{\^\i}t Caillaud and Mathias Malandain},
   pages = {507--517},
   doi = {10.3384/ecp21181507},
   booktitle = {Proceedings of the 14th International Modelica Conference},
@@ -54,7 +54,7 @@ We propose in this paper amultimode structural analysis for both multiple modes 
 <td><pre>
 @InProceedings{modelica.org:Caillaud:2021,
   title = {A Reduced Index Mode-Independent Structure Model Transformation for Multimode Modelica Models},
-  author = {Benoît Caillaud and Mathias Malandain and Albert Benveniste},
+  author = {Beno{\^\i}t Caillaud and Mathias Malandain and Albert Benveniste},
   pages = {519--528},
   doi = {10.3384/ecp21181519},
   booktitle = {Proceedings of the 14th International Modelica Conference},
@@ -91,7 +91,7 @@ An important difficulty is the occurrence of impulsive behavior at some mode cha
 <td><pre>
 @InProceedings{modelica.org:Benveniste:2021b,
   title = {Compile-Time Impulse Analysis in Modelica},
-  author = {Albert Benveniste and Benoît Caillaud and Mathias Malandain},
+  author = {Albert Benveniste and Beno{\^\i}t Caillaud and Mathias Malandain},
   pages = {549--559},
   doi = {10.3384/ecp21181549},
   booktitle = {Proceedings of the 14th International Modelica Conference},

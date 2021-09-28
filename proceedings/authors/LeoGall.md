@@ -18,7 +18,7 @@ models and the achieved results. In this article, we try to summarize the state-
 <td><pre>
 @InProceedings{modelica.org:Gall:2021,
   title = {Continuous Development and Management of Credible Modelica Models},
-  author = {Leo Gall and Martin Otter and Matthias Reiner and Matthias Schäfer and Jakub Tobolář},
+  author = {Leo Gall and Martin Otter and Matthias Reiner and Matthias Sch\&quot;afer and Jakub Tobol\&#x27;a\v{r}},
   pages = {359--372},
   doi = {10.3384/ecp21181359},
   booktitle = {Proceedings of the 14th International Modelica Conference},

@@ -30,7 +30,7 @@ cases section of this paper</td></tr>
 <td><pre>
 @InProceedings{modelica.org:Kumper:2021,
   title = {DLR Visualization 2 Library - Real-Time Graphical Environments for Virtual Commissioning},
-  author = {Sebastian Kümper and Matthias Hellerer and Tobias Bellmann},
+  author = {Sebastian K\&quot;umper and Matthias Hellerer and Tobias Bellmann},
   pages = {197--204},
   doi = {10.3384/ecp21181197},
   booktitle = {Proceedings of the 14th International Modelica Conference},

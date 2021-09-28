@@ -21,7 +21,7 @@ The emergence of Cyber-Physical Systems poses new challenges for traditional mod
 <td><pre>
 @InProceedings{modelica.org:Falay:2021,
   title = {Coupling physical and machine learning models: case study of a single-family house},
-  author = {Basak Falay and Sandra Wilfling and Qamar Alfalouji and Johannes Exenberger and Thomas Schranz and Christian Møldrup Legaard and Ingo Leusbrock and Gerald Schweiger},
+  author = {Basak Falay and Sandra Wilfling and Qamar Alfalouji and Johannes Exenberger and Thomas Schranz and Christian M{\o}ldrup Legaard and Ingo Leusbrock and Gerald Schweiger},
   pages = {335--341},
   doi = {10.3384/ecp21181335},
   booktitle = {Proceedings of the 14th International Modelica Conference},

@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:May:2021,
   title = {Aircraft Mission Simulation with the updated FlightDynamics Library},
-  author = {Marc May and Reiko Müller and Gertjan Looye},
+  author = {Marc May and Reiko M\&quot;uller and Gertjan Looye},
   pages = {155--162},
   doi = {10.3384/ecp21181155},
   booktitle = {Proceedings of the 14th International Modelica Conference},

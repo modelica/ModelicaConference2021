@@ -119,7 +119,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
   publisher = {Modelica Association and Link\\"{o}ping University Electronic Press},
   year = {2021}
 }          
-""" % (firstAuthorLastName, handleMultiKey, session["title%d" % i], allAuthors.replace(", ", " and "), firstPage, lastPage, firstPage)
+""" % (firstAuthorLastName, handleMultiKey, unicode_to_latex(session["title%d" % i]), unicode_to_latex(allAuthors.replace(", ", " and ")), firstPage, lastPage, firstPage)
         paper_html += '<tr><th>Bibtex:</th>\n'
         paper_html += '''<td><pre>
 %s

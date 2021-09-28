@@ -20,7 +20,7 @@ example of a research greenhouse building for which the initially  developed  Mo
 <td><pre>
 @InProceedings{modelica.org:Schwan:2021,
   title = {Modelica Models as Integral Part of the Building Design Process},
-  author = {Torsten Schwan and Monika Wicke and Alexander Hentschel and René Unger},
+  author = {Torsten Schwan and Monika Wicke and Alexander Hentschel and Ren\&#x27;e Unger},
   pages = {383--392},
   doi = {10.3384/ecp21181383},
   booktitle = {Proceedings of the 14th International Modelica Conference},

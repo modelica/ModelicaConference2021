@@ -22,7 +22,7 @@ https://github.com/RWTHEBC/AixLib/tree/issue890_HOMProject_FloorHeating</td></tr
 <td><pre>
 @InProceedings{modelica.org:Gobel:2021,
   title = {Underfloor heating system model for building performance simulations},
-  author = {Stephan Göbel and Elaine Schmitt and Philipp Mehrfeld and Dirk Müller},
+  author = {Stephan G\&quot;obel and Elaine Schmitt and Philipp Mehrfeld and Dirk M\&quot;uller},
   pages = {343--349},
   doi = {10.3384/ecp21181343},
   booktitle = {Proceedings of the 14th International Modelica Conference},
@@ -70,7 +70,7 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 <td><pre>
 @InProceedings{modelica.org:Wullhorst:2021,
   title = {A Modular Model of Reversible Heat Pumps and Chillers for System Applications},
-  author = {Fabian Wüllhorst and David Jansen and Philipp Mehrfeld and Dirk Müller},
+  author = {Fabian W\&quot;ullhorst and David Jansen and Philipp Mehrfeld and Dirk M\&quot;uller},
   pages = {561--568},
   doi = {10.3384/ecp21181561},
   booktitle = {Proceedings of the 14th International Modelica Conference},
@@ -105,7 +105,7 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 <td><pre>
 @InProceedings{modelica.org:Jansen:2021,
   title = {Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth},
-  author = {David Jansen and Veronika Richter and Diego Cordoba Lopez and Philipp Mehrfeld and Jérôme Frisch and Dirk Müller and Christoph van Treeck},
+  author = {David Jansen and Veronika Richter and Diego Cordoba Lopez and Philipp Mehrfeld and J\&#x27;er\^ome Frisch and Dirk M\&quot;uller and Christoph van Treeck},
   pages = {665--672},
   doi = {10.3384/ecp21181665},
   booktitle = {Proceedings of the 14th International Modelica Conference},

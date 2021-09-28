@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Jansen:2021,
   title = {Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth},
-  author = {David Jansen and Veronika Richter and Diego Cordoba Lopez and Philipp Mehrfeld and Jérôme Frisch and Dirk Müller and Christoph van Treeck},
+  author = {David Jansen and Veronika Richter and Diego Cordoba Lopez and Philipp Mehrfeld and J\&#x27;er\^ome Frisch and Dirk M\&quot;uller and Christoph van Treeck},
   pages = {665--672},
   doi = {10.3384/ecp21181665},
   booktitle = {Proceedings of the 14th International Modelica Conference},

@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Coic:2021,
   title = {Modelica, FMI and SSP for LOTAR of Analytical mBSE models: First Implementation and Feedback},
-  author = {Clément Coïc and Adrian Murton and Juan Carlos Mendo and Mark Williams and Hubertus Tummescheit and Kurt Woodham},
+  author = {Cl\&#x27;ement Co{\&quot;\i}c and Adrian Murton and Juan Carlos Mendo and Mark Williams and Hubertus Tummescheit and Kurt Woodham},
   pages = {49--56},
   doi = {10.3384/ecp2118149},
   booktitle = {Proceedings of the 14th International Modelica Conference},

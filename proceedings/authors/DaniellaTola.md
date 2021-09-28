@@ -17,7 +17,7 @@
 <td><pre>
 @InProceedings{modelica.org:Schranz:2021,
   title = {Portable runtime environments for Python-based FMUs: Adding Docker support to UniFMU},
-  author = {Thomas Schranz and Christian Møldrup Legaard and Daniella Tola and Gerald Schweiger},
+  author = {Thomas Schranz and Christian M{\o}ldrup Legaard and Daniella Tola and Gerald Schweiger},
   pages = {419--424},
   doi = {10.3384/ecp21181419},
   booktitle = {Proceedings of the 14th International Modelica Conference},
