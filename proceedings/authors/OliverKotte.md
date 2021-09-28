@@ -18,7 +18,7 @@ A formalization is presented along with example application scenarios, meant as 
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
-@InProceedings{modelica.org:Gomes:2021b,
+@InProceedings{modelica.org:Gomes:2021a,
   title = {The FMI 3.0 Standard Interface for Clocked and Scheduled Simulations},
   author = {Cláudio Gomes and Masoud Najafi and Torsten Sommer and Matthias Blesken and Irina Zacharias and Oliver Kotte and Pierre R. Mai and Klaus Schuch and Karl Wernersson and Christian Bertsch and Torsten Blochwitz and Andreas Junghanns},
   pages = {27--36},

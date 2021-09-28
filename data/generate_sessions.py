@@ -48,7 +48,7 @@ lastNames = dict()
 for i in range(1, worksheet.max_row):
   lastName = worksheet[i][1].value.split(" and ")[0].split(",")[0].split(" ")[-1]
   if lastName in lastNames:
-    lastNames[lastName] = 1
+    lastNames[lastName] = 0
   else:
     lastNames[lastName] = None
 
