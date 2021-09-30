@@ -14,7 +14,7 @@ example of a research greenhouse building for which the initially  developed  Mo
 <tr><th>Keywords:</th>
 <td>Building Simulation, Monitoring, BIM Integration, Integral Design Processes</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181383">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181383">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>

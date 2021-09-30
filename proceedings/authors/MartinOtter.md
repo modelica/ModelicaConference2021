@@ -11,7 +11,7 @@
 <tr><th>Keywords:</th>
 <td>embedded software, model-based development, code generation, model exchange, Modelica, FMI, eFMI</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp2118157">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118157">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -46,7 +46,7 @@
 <tr><th>Keywords:</th>
 <td>Modelica, Julia, Modia, Uncertainties, Multibody</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp2118173">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118173">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -82,7 +82,7 @@ models and the achieved results. In this article, we try to summarize the state-
 <tr><th>Keywords:</th>
 <td>credible model, model requirement, data management, validation, verification, Modelica model</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181359">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181359">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>

@@ -11,7 +11,7 @@
 <tr><th>Keywords:</th>
 <td>Archiving, Retrieval, LOTAR, mBSE, MoSSEC, FMI, SSP</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp2118149">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118149">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>

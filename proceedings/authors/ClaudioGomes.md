@@ -11,7 +11,7 @@
 <tr><th>Keywords:</th>
 <td>FMI, FMU, Functional Mock-up Interface</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp2118117">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118117">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -49,7 +49,7 @@ A formalization is presented along with example application scenarios, meant as 
 <tr><th>Keywords:</th>
 <td>functional mockup interface, synchronous clocks, reactive systems, real-time simulation, scheduling, real-time operating system</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp2118127">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp2118127">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -87,7 +87,7 @@ In this paper, we propose the Functional Mockup Interface as a possible standard
 <tr><th>Keywords:</th>
 <td>functional mockup interface, structure testing, earth quake engineering, hybrid simulation, co-simulation, model exchange, master algorithm</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181287">full paper</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181287">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
