@@ -11,7 +11,7 @@
 <tr><th>Keywords:</th>
 <td>Object-oriented modelling, Simulation, Parallel manipulators, Modelica, DAE systems, Closed chains</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181241">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> / <a href="https://github.com/looms-polimi/Parallel_manipulators">library</a></td>
+<td><a href="https://doi.org/10.3384/ecp21181241">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> / <a href="https://github.com/looms-polimi/Parallel_manipulators">library</a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>

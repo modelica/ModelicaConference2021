@@ -11,7 +11,7 @@
 <tr><th>Keywords:</th>
 <td>parallel scheduling, synchronization step size, optimal step size</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181649">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+<td><a href="https://doi.org/10.3384/ecp21181649">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -48,7 +48,7 @@ In this paper we introduce an accurate robotic arm simulation for industrial man
 <tr><th>Keywords:</th>
 <td>manufacturing, robotics, co-simulation, virtualization, standards</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181673">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+<td><a href="https://doi.org/10.3384/ecp21181673">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>

@@ -91,7 +91,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         paper_html += '<tr><th>Keywords:</th>\n'
         paper_html += "<td>%s</td></tr>\n" % escape(", ".join(keywords.split("\n")))
         paper_html += '<tr><th>Paper:</th>\n'
-        paper_html += '<td><a href="https://doi.org/10.3384/ecp21181%d">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>' % firstPage
+        paper_html += '<td><a href="https://doi.org/10.3384/ecp21181%d">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>' % firstPage
         if "library%d" % i in session:
           paper_html += ' / <a href="%s">library</a>' % session["library%d" % i]
         paper_html += '</td>\n'

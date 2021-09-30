@@ -13,7 +13,7 @@ We propose in this paper amultimode structural analysis for both multiple modes 
 <tr><th>Keywords:</th>
 <td>multimode DAE, structural analysis, mode change events</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181507">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+<td><a href="https://doi.org/10.3384/ecp21181507">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -48,7 +48,7 @@ We propose in this paper amultimode structural analysis for both multiple modes 
 <tr><th>Keywords:</th>
 <td>Modelica, multimode DAE, structural analysis, model transformations</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181519">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+<td><a href="https://doi.org/10.3384/ecp21181519">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
@@ -85,7 +85,7 @@ An important difficulty is the occurrence of impulsive behavior at some mode cha
 <tr><th>Keywords:</th>
 <td>DAE, multimode DAE, structural analysis, impulsive behaviors</td></tr>
 <tr><th>Paper:</th>
-<td><a href="https://doi.org/10.3384/ecp21181549">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></td>
+<td><a href="https://doi.org/10.3384/ecp21181549">full paper</a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td>
 </tr>
 <tr><th>Bibtex:</th>
 <td><pre>
