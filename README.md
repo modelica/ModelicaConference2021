@@ -2,8 +2,6 @@ The **14th International Modelica Conference** will be a fully remote and free e
 
 ### Welcome to the conference!
 
-### Registration is now closed
-
 Given the current situation the MA board and the organizers have made the decision to move the conference fully online and extended the dates to September 20-24, 2021.
 
 ## About the Conference
@@ -52,36 +50,6 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
 - FMI in Modelica and non-Modelica applications and tools
-
-## Important Dates
-
-| | |
-|--|--|
-| December 1, 2020 | Call for Papers |
-|~~April 26, 2021~~|~~Submission of Full Papers and libraries~~|
-|May 10, 2021| Extended Deadline for Submission of Full Papers and libraries|
-|June 15, 2021| Notification of Acceptance of Full Papers (extended deadline) |
-|June 15, 2021| Submission of extended abstracts for Industrial User Presentations|
-|~~August 1, 2021~~|~~Submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors~~|
-|August 15, 2021| Extended deadline for submission of final version of Full Papers and libraries,  Applications for Tutorials, Vendor Sessions and Exhibitors|
-|Semptember 13, 2021|Deadline for conference [registration](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng) (participation is limited to 1000 people)|
-|September 20-24, 2021|Scientific Program of 14th International Modelica Conference,Tutorials, Industrial User Presentations and Vendor Sessions|
-
-
-## Registration
-
-Registration is free, but please indicate your interest by registering in advance. This event will be funded by sponsors.
-Registration is now closed. 
-
-## Conference Timeline
-
-| Day | Morning session |  Afternoon session |
-|--|--|--|
-|**Monday, September 20, 2021** |Tutorials|Opening session, keynote, paper presentations|
-|**Tuesday, September 21, 2021** |Paper presentations|Industrial vendor sessions|
-|**Wednesday, September 22, 2021**|Industrial vendor sessions|Paper presentations|
-|**Thursday, September 23, 2021**|Paper presentations|Industrial user presentations / FMI User Meeting|
-|**Friday, September 24, 2021**|Industrial user presentations|Closing session, keynote, paper presentations|
 
 ## Organization and Contact
 
