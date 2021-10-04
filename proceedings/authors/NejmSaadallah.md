@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Saadallah:2021,
-  title = {{An Approach for Reducing Gas Turbines Usage by Wind Power and Energy Storage}},
+  title = &quot;{An Approach for Reducing Gas Turbines Usage by Wind Power and Energy Storage}&quot;,
   author = {Nejm Saadallah and Yngve Heggelund},
   pages = {627--632},
   doi = {10.3384/ecp21181627},

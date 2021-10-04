@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Li:2021,
-  title = {{An Ice Storage Tank Modelica Model: Implementation and Validation}},
+  title = &quot;{An Ice Storage Tank Modelica Model: Implementation and Validation}&quot;,
   author = {Guowen Li and Yangyang Fu and Amanda Pertzborn and Jin Wen and Zheng O{\textquoteright}Neill},
   pages = {177--185},
   doi = {10.3384/ecp21181177},

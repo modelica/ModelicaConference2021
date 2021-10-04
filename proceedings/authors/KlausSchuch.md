@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Junghanns:2021,
-  title = {{The Functional Mock-up Interface 3.0 - New Features Enabling New Applications}},
+  title = &quot;{The Functional Mock-up Interface 3.0 - New Features Enabling New Applications}&quot;,
   author = {Andreas Junghanns and Torsten Blochwitz and Christian Bertsch and Torsten Sommer and Karl Wernersson and Andreas Pillekeit and Irina Zacharias and Matthias Blesken and Pierre R. Mai and Klaus Schuch and Christian Schulze and Cl\&#x27;audio Gomes and Masoud Najafi},
   pages = {17--26},
   doi = {10.3384/ecp2118117},
@@ -54,7 +54,7 @@ A formalization is presented along with example application scenarios, meant as 
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Gomes:2021a,
-  title = {{The FMI 3.0 Standard Interface for Clocked and Scheduled Simulations}},
+  title = &quot;{The FMI 3.0 Standard Interface for Clocked and Scheduled Simulations}&quot;,
   author = {Cl\&#x27;audio Gomes and Masoud Najafi and Torsten Sommer and Matthias Blesken and Irina Zacharias and Oliver Kotte and Pierre R. Mai and Klaus Schuch and Karl Wernersson and Christian Bertsch and Torsten Blochwitz and Andreas Junghanns},
   pages = {27--36},
   doi = {10.3384/ecp2118127},
@@ -89,7 +89,7 @@ A formalization is presented along with example application scenarios, meant as 
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Holzinger:2021,
-  title = {{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}},
+  title = &quot;{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}&quot;,
   author = {Franz Holzinger and Klaus Schuch and Martin Benedikt and Daniel Watzenig},
   pages = {649--658},
   doi = {10.3384/ecp21181649},

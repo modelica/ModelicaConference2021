@@ -18,7 +18,7 @@ To determine which sub-systems models must be refined, suitable indicators must 
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Vuillod:2021,
-  title = {{Sensitivity Analysis of a Car Shock Absorber Through a Functional Mock-up Units-Based Modelling Strategy}},
+  title = &quot;{Sensitivity Analysis of a Car Shock Absorber Through a Functional Mock-up Units-Based Modelling Strategy}&quot;,
   author = {Bruno Vuillod and Ludovic Hallo and Enrico Panettieri and Marco Montemurro},
   pages = {307--314},
   doi = {10.3384/ecp21181307},

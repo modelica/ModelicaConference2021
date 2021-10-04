@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Wiens:2021,
-  title = {{The Potential of FMI for the Development of Digital Twins for Large Modular Multi-Domain Systems}},
+  title = &quot;{The Potential of FMI for the Development of Digital Twins for Large Modular Multi-Domain Systems}&quot;,
   author = {Marcus Wiens and Tobias Meyer and Philipp Thomas},
   pages = {235--240},
   doi = {10.3384/ecp21181235},

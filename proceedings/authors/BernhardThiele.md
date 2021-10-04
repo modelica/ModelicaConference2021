@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Thiele:2021,
-  title = {{Towards a Modelica OPC UA Library for Industrial Automation}},
+  title = &quot;{Towards a Modelica OPC UA Library for Industrial Automation}&quot;,
   author = {Bernhard Thiele},
   pages = {205--213},
   doi = {10.3384/ecp21181205},

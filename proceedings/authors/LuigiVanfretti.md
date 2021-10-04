@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Dorado-Rojas:2021,
-  title = {{Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python}},
+  title = &quot;{Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python}&quot;,
   author = {Sergio A. Dorado-Rojas and Giuseppe Laera and Marcelo de Castro Fernandes and Tetiana Bogodorova and Luigi Vanfretti},
   pages = {147--154},
   doi = {10.3384/ecp21181147},
@@ -51,7 +51,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Canham:2021,
-  title = {{Guidance, Navigation, and Control enabling Retrograde Landing of a First Stage Rocket}},
+  title = &quot;{Guidance, Navigation, and Control enabling Retrograde Landing of a First Stage Rocket}&quot;,
   author = {Christian Canham and Meaghan Podlaski and Luigi Vanfretti},
   pages = {171--176},
   doi = {10.3384/ecp21181171},

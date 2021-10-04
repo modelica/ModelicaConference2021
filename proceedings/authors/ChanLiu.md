@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Liu:2021,
-  title = {{Modelica-Based Modeling on LEO Satellite Constellation}},
+  title = &quot;{Modelica-Based Modeling on LEO Satellite Constellation}&quot;,
   author = {Chan Liu and Yikai Qian and Liping Chen and Yan Qu and Fanli Zhou},
   pages = {163--170},
   doi = {10.3384/ecp21181163},

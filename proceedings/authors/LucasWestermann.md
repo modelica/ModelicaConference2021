@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Mathur:2021,
-  title = {{Development of a real-time test bed for indoor climate simulation in a VR environment using a digital twin}},
+  title = &quot;{Development of a real-time test bed for indoor climate simulation in a VR environment using a digital twin}&quot;,
   author = {Kushagra Mathur and Christoph Nytsch-Geusen and Lucas Westermann},
   pages = {263--269},
   doi = {10.3384/ecp21181263},

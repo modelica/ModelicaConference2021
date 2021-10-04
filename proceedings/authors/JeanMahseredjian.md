@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Masoom:2021,
-  title = {{Electromagnetic Transient Simulation of Large Power Networks with Modelica}},
+  title = &quot;{Electromagnetic Transient Simulation of Large Power Networks with Modelica}&quot;,
   author = {Alireza Masoom and Jean Mahseredjian and Tarek Ould-Bachir and Adrien Guironnet},
   pages = {277--285},
   doi = {10.3384/ecp21181277},

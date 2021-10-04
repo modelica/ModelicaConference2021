@@ -26,7 +26,7 @@ The experimental work presented here provides one of the first investigations co
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Tinnerholm:2021,
-  title = {{OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl}},
+  title = &quot;{OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl}&quot;,
   author = {John Tinnerholm and Adrian Pop and Andreas Heuermann and Martin Sj\&quot;olund},
   pages = {109--117},
   doi = {10.3384/ecp21181109},

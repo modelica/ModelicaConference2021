@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Holzinger:2021,
-  title = {{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}},
+  title = &quot;{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}&quot;,
   author = {Franz Holzinger and Klaus Schuch and Martin Benedikt and Daniel Watzenig},
   pages = {649--658},
   doi = {10.3384/ecp21181649},

@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Dorado-Rojas:2021,
-  title = {{Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python}},
+  title = &quot;{Power Flow Record Structures to Initialize OpenIPSL Phasor Time-Domain Simulations with Python}&quot;,
   author = {Sergio A. Dorado-Rojas and Giuseppe Laera and Marcelo de Castro Fernandes and Tetiana Bogodorova and Luigi Vanfretti},
   pages = {147--154},
   doi = {10.3384/ecp21181147},

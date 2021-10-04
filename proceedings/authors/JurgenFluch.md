@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Tugores:2021,
-  title = {{Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing}},
+  title = &quot;{Decarbonization of Industrial Energy Systems: A Case Study of Printed Circuit Board manufacturing}&quot;,
   author = {Carles Ribas Tugores and Gerald Birngruber and J\&quot;urgen Fluch and Angelika Swatek and Gerald Schweiger},
   pages = {497--505},
   doi = {10.3384/ecp21181497},

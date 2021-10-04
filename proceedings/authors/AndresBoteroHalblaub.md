@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Allmaras:2021,
-  title = {{A Portable and Secure Package Format for Executable Simulation Modules based on WebAssembly}},
+  title = &quot;{A Portable and Secure Package Format for Executable Simulation Modules based on WebAssembly}&quot;,
   author = {Moritz Allmaras and Andr\&#x27;es Botero Halblaub and Harald Held and Tim Schenk},
   pages = {443--452},
   doi = {10.3384/ecp21181443},

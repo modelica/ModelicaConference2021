@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Hinkelman:2021,
-  title = {{A Case Study on Condenser Water Supply Temperature Optimization with a District Cooling Plant}},
+  title = &quot;{A Case Study on Condenser Water Supply Temperature Optimization with a District Cooling Plant}&quot;,
   author = {Kathryn Hinkelman and Jing Wang and Chengliang Fan and Wangda Zuo and Antoine Gautier and Michael Wetter and Nicholas Long},
   pages = {587--595},
   doi = {10.3384/ecp21181587},

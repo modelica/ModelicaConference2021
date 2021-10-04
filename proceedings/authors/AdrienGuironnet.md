@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Masoom:2021,
-  title = {{Electromagnetic Transient Simulation of Large Power Networks with Modelica}},
+  title = &quot;{Electromagnetic Transient Simulation of Large Power Networks with Modelica}&quot;,
   author = {Alireza Masoom and Jean Mahseredjian and Tarek Ould-Bachir and Adrien Guironnet},
   pages = {277--285},
   doi = {10.3384/ecp21181277},
@@ -51,7 +51,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Casella:2021,
-  title = {{ScalableTestGrids - An Open-Source and Flexible Benchmark Suite to Assess Modelica Tool Performance on Large-Scale Power System Test Cases}},
+  title = &quot;{ScalableTestGrids - An Open-Source and Flexible Benchmark Suite to Assess Modelica Tool Performance on Large-Scale Power System Test Cases}&quot;,
   author = {Francesco Casella and Adrien Guironnet},
   pages = {351--358},
   doi = {10.3384/ecp21181351},
@@ -86,7 +86,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Nuschke:2021,
-  title = {{Implementation and Validation of the Generic WECC Photovoltaics and Wind Turbine Generator Models in Modelica}},
+  title = &quot;{Implementation and Validation of the Generic WECC Photovoltaics and Wind Turbine Generator Models in Modelica}&quot;,
   author = {Maria Nuschke and S\&quot;oren Lohr and Adrien Guironnet and Marianne Saugier},
   pages = {633--642},
   doi = {10.3384/ecp21181633},

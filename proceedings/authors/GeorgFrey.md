@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Stuber:2021,
-  title = {{A Cloud-native Implementation of the Simulation as a Service-Concept Based on FMI}},
+  title = &quot;{A Cloud-native Implementation of the Simulation as a Service-Concept Based on FMI}&quot;,
   author = {Moritz St\&quot;uber and Georg Frey},
   pages = {393--402},
   doi = {10.3384/ecp21181393},

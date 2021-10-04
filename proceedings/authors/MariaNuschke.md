@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Nuschke:2021,
-  title = {{Implementation and Validation of the Generic WECC Photovoltaics and Wind Turbine Generator Models in Modelica}},
+  title = &quot;{Implementation and Validation of the Generic WECC Photovoltaics and Wind Turbine Generator Models in Modelica}&quot;,
   author = {Maria Nuschke and S\&quot;oren Lohr and Adrien Guironnet and Marianne Saugier},
   pages = {633--642},
   doi = {10.3384/ecp21181633},

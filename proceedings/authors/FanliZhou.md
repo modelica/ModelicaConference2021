@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Liu:2021,
-  title = {{Modelica-Based Modeling on LEO Satellite Constellation}},
+  title = &quot;{Modelica-Based Modeling on LEO Satellite Constellation}&quot;,
   author = {Chan Liu and Yikai Qian and Liping Chen and Yan Qu and Fanli Zhou},
   pages = {163--170},
   doi = {10.3384/ecp21181163},
@@ -51,7 +51,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Zhang:2021,
-  title = {{Modelica Modeling and Simulation for a Micro Gas-Cooled Reactor}},
+  title = &quot;{Modelica Modeling and Simulation for a Micro Gas-Cooled Reactor}&quot;,
   author = {Huimin Zhang and Erhui Chen and Yangyang Liang and Li Wang and Jun Wang and Shuhong Du and Liping Chen and Fanli Zhou and Ji Ding and Haiming Zhang},
   pages = {569--575},
   doi = {10.3384/ecp21181569},

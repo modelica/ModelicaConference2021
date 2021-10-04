@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Campanini:2021,
-  title = {{Object-Oriented Models of Parallel Manipulators}},
+  title = &quot;{Object-Oriented Models of Parallel Manipulators}&quot;,
   author = {Paolo Campanini and Gianni Ferretti},
   pages = {241--248},
   doi = {10.3384/ecp21181241},

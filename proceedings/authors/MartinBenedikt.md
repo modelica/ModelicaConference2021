@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Holzinger:2021,
-  title = {{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}},
+  title = &quot;{Parallel Fast: An Efficient Coupling Approach for Co-Simulation with Different Coupling Step Sizes}&quot;,
   author = {Franz Holzinger and Klaus Schuch and Martin Benedikt and Daniel Watzenig},
   pages = {649--658},
   doi = {10.3384/ecp21181649},
@@ -53,7 +53,7 @@ In this paper we introduce an accurate robotic arm simulation for industrial man
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Shah:2021,
-  title = {{Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards}},
+  title = &quot;{Accurate Robot Simulation for Industrial Manufacturing Processes using FMI and DCP Standards}&quot;,
   author = {Nihar Hasmukhbhai Shah and Perig Le Henaff and Clemens Schiffer and Martin Krammer and Martin Benedikt},
   pages = {673--679},
   doi = {10.3384/ecp21181673},

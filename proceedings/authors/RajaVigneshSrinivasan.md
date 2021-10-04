@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Ravi:2021,
-  title = {{Modeling of Recompression Brayton Cycle And CSP Plant Architectures for Estimation of Performance \&amp; Efficiency}},
+  title = &quot;{Modeling of Recompression Brayton Cycle And CSP Plant Architectures for Estimation of Performance \&amp; Efficiency}&quot;,
   author = {Ashok Kumar Ravi and St\&#x27;ephane Velut and Raja Vignesh Srinivasan},
   pages = {643--648},
   doi = {10.3384/ecp21181643},

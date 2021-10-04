@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Brunnemann:2021,
-  title = {{Numerically Robust Six-Equation Two-Phase Flow Model for Stationary and Moving Systems in Modelica}},
+  title = &quot;{Numerically Robust Six-Equation Two-Phase Flow Model for Stationary and Moving Systems in Modelica}&quot;,
   author = {Johannes Brunnemann and Ales Vojacek and Thomas Koch},
   pages = {539--548},
   doi = {10.3384/ecp21181539},
@@ -51,7 +51,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Schindhelm:2021,
-  title = {{Long Term Technical and Economic Evaluation of Hydrogen Storage Technologies for Energy Autarkic Residential Complexes}},
+  title = &quot;{Long Term Technical and Economic Evaluation of Hydrogen Storage Technologies for Energy Autarkic Residential Complexes}&quot;,
   author = {Lucas Schindhelm and Ales Vojacek and Johannes Brunnemann},
   pages = {597--606},
   doi = {10.3384/ecp21181597},

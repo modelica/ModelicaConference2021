@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Canham:2021,
-  title = {{Guidance, Navigation, and Control enabling Retrograde Landing of a First Stage Rocket}},
+  title = &quot;{Guidance, Navigation, and Control enabling Retrograde Landing of a First Stage Rocket}&quot;,
   author = {Christian Canham and Meaghan Podlaski and Luigi Vanfretti},
   pages = {171--176},
   doi = {10.3384/ecp21181171},

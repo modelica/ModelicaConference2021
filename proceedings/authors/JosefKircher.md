@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Thummerer:2021,
-  title = {{NeuralFMU: Towards Structural Integration of FMUs into Neural Networks}},
+  title = &quot;{NeuralFMU: Towards Structural Integration of FMUs into Neural Networks}&quot;,
   author = {Tobias Thummerer and Josef Kircher and Lars Mikelsons},
   pages = {297--306},
   doi = {10.3384/ecp21181297},

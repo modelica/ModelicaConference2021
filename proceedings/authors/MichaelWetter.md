@@ -21,7 +21,7 @@ When compared to a native Modelica building envelope simulation of comparable le
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Wetter:2021,
-  title = {{Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus}},
+  title = &quot;{Software Architecture and Implementation of Modelica Buildings Library Coupling for Spawn of EnergyPlus}&quot;,
   author = {Michael Wetter and Kyle Benne and Baptiste Ravache},
   pages = {325--334},
   doi = {10.3384/ecp21181325},
@@ -56,7 +56,7 @@ When compared to a native Modelica building envelope simulation of comparable le
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Hinkelman:2021,
-  title = {{A Case Study on Condenser Water Supply Temperature Optimization with a District Cooling Plant}},
+  title = &quot;{A Case Study on Condenser Water Supply Temperature Optimization with a District Cooling Plant}&quot;,
   author = {Kathryn Hinkelman and Jing Wang and Chengliang Fan and Wangda Zuo and Antoine Gautier and Michael Wetter and Nicholas Long},
   pages = {587--595},
   doi = {10.3384/ecp21181587},

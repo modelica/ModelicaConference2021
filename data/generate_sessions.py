@@ -104,7 +104,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
         bibtex = ""
         bibtex += """
 @InProceedings{modelica.org:%s:2021%s,
-  title = {{%s}},
+  title = "{%s}",
   author = {%s},
   pages = {%d--%d},
   doi = {10.3384/ecp21181%d},
@@ -118,7 +118,7 @@ with open("proceedings/sessions.md", "w") as fout_sessions:
   number = {181},
   publisher = {Modelica Association and Link\\"oping University Electronic Press},
   year = {2021}
-}          
+}
 """ % (firstAuthorLastName, handleMultiKey, unicode_to_latex(session["title%d" % i]), unicode_to_latex(allAuthors.replace(", ", " and ")), firstPage, lastPage, firstPage)
         paper_html += '<tr><th>Bibtex:</th>\n'
         paper_html += '''<td><pre>

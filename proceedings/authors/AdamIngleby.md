@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Fotias:2021,
-  title = {{A Modelica Library for Modelling of Electrified Powertrain Digital Twins}},
+  title = &quot;{A Modelica Library for Modelling of Electrified Powertrain Digital Twins}&quot;,
   author = {Nikolaos Fotias and Ran Bao and Hui Niu and Michael Tiller and Paul McGahan and Adam Ingleby},
   pages = {249--261},
   doi = {10.3384/ecp21181249},

@@ -29,7 +29,7 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Wullhorst:2021,
-  title = {{A Modular Model of Reversible Heat Pumps and Chillers for System Applications}},
+  title = &quot;{A Modular Model of Reversible Heat Pumps and Chillers for System Applications}&quot;,
   author = {Fabian W\&quot;ullhorst and David Jansen and Philipp Mehrfeld and Dirk M\&quot;uller},
   pages = {561--568},
   doi = {10.3384/ecp21181561},
@@ -64,7 +64,7 @@ Simultaneously, seasonal efficiency decreases by up to 23 % when modeling all sa
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Jansen:2021,
-  title = {{Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth}},
+  title = &quot;{Examination of Reduced Order Building Models with Different Zoning Strategies to Simulate Larger Non-Residential Buildings Based on BIM as Single Source of Truth}&quot;,
   author = {David Jansen and Veronika Richter and Diego Cordoba Lopez and Philipp Mehrfeld and J\&#x27;er\^ome Frisch and Dirk M\&quot;uller and Christoph van Treeck},
   pages = {665--672},
   doi = {10.3384/ecp21181665},

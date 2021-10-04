@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Bouskela:2021,
-  title = {{New Method to Perform Data Reconciliation with OpenModelica and ThermoSysPro}},
+  title = &quot;{New Method to Perform Data Reconciliation with OpenModelica and ThermoSysPro}&quot;,
   author = {Daniel Bouskela and Audrey Jardin and Arunkumar Palanisamy and Lennart Ochel and Adrian Pop},
   pages = {453--462},
   doi = {10.3384/ecp21181453},

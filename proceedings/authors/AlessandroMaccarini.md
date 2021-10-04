@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Maccarini:2021,
-  title = {{Towards an automated generator of urban building energy loads from 3D building models}},
+  title = &quot;{Towards an automated generator of urban building energy loads from 3D building models}&quot;,
   author = {Alessandro Maccarini and Michael Mans and Christian Grau S{\o}rensen and Alireza Afshari},
   pages = {659--664},
   doi = {10.3384/ecp21181659},

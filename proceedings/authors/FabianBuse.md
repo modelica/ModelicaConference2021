@@ -16,7 +16,7 @@
 <tr><th>Bibtex:</th>
 <td><pre>
 @InProceedings{modelica.org:Buse:2021,
-  title = {{General Purpose Lua Interpreter for Modelica}},
+  title = &quot;{General Purpose Lua Interpreter for Modelica}&quot;,
   author = {Fabian Buse and Tobias Bellmann},
   pages = {425--431},
   doi = {10.3384/ecp21181425},
