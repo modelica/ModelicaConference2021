@@ -20,8 +20,8 @@ ExternData and TransiEnt were runners-up and won €250 each.
 ### Submitted libraries:
 
 * [BatterySafety](proceedings/authors/ChristianGross)
-* 🥈 [ExternData](proceedings/authors/ThomasBeutlich)
+* [![🥈 ExternData](https://img.shields.io/badge/Library_Award_2021-%F0%9F%A5%88_ExternData-gray?labelColor=silver)](proceedings/authors/ThomasBeutlich)
 * [Parallel manipulators](proceedings/authors/PaoloCampanini)
-* 🥇 [ThermofluidStream](proceedings/authors/DirkZimmer)
-* 🥈 [TransiEnt](proceedings/authors/AnneSenkel)
+* [![🥇 ThermofluidStream](https://img.shields.io/badge/Library_Award_2021-%F0%9F%A5%87_ThermofluidStream-gray?labelColor=gold)](proceedings/authors/DirkZimmer)
+* [![🥈 TransiEnt](https://img.shields.io/badge/Library_Award_2021-%F0%9F%A5%88_TransiEnt-gray?labelColor=silver)](proceedings/authors/AnneSenkel)
 * [VCLib](proceedings/authors/FabianWullhorst)
